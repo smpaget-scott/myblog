@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>59seconds on smpaget blog</title>
+    <link>http://localhost:1313/blog/tags/59seconds/</link>
+    <description>Recent content in 59seconds on smpaget blog</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 15 Jan 2021 22:44:39 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/blog/tags/59seconds/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The future is shorter.</title>
+      <link>http://localhost:1313/blog/blog/the-future-is-shorter/</link>
+      <pubDate>Fri, 15 Jan 2021 22:44:39 +0000</pubDate>
+       <guid isPermaLink="false">http://www.smpaget.com/blog/the-future-is-shorter/</guid> 
+      <description>&lt;p&gt;The years are shorter. Atomic clocks are measuring the world speeding up per year. The solution is a leap second, this has been added to the world positively (as the world was going slowly.) but because th world is going fast, the leap second would be applied negatively. Some a year in the future would have a minute of 59seconds.
+Read more here : &lt;a href=&#34;https://www.timeanddate.com/time/earth-faster-rotation.html&#34;&gt;https://www.timeanddate.com/time/earth-faster-rotation.html&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Frdm-Project on smpaget blog</title>
+    <link>http://localhost:1313/blog/tags/frdm-project/</link>
+    <description>Recent content in Frdm-Project on smpaget blog</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 09 Jul 2007 21:02:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/blog/tags/frdm-project/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>FRDM websearch</title>
+      <link>http://localhost:1313/blog/blog/frdm-websearch/</link>
+      <pubDate>Mon, 09 Jul 2007 21:02:00 +0000</pubDate>
+       <guid isPermaLink="false">http://www.schelp.co.uk/blog/?p=537</guid> 
+      <description>&lt;p&gt;I was searching for Freedom when I found this on google. so I took a picture
+&lt;a href=&#34;http://bp3.blogger.com/_AQL5BvjF3p8/RpKiVu8JG5I/AAAAAAAAAHU/deo_2ncSHTw/s1600-h/screen1.jpg&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://bp3.blogger.com/_AQL5BvjF3p8/RpKiVu8JG5I/AAAAAAAAAHU/deo_2ncSHTw/s400/screen1.jpg&#34;&gt;&lt;/a&gt;
+it reads&amp;hellip;&lt;br&gt;
+Freedom.co.uk - Putting Freedom back into the community&lt;br&gt;
+This website is no longer open to the public
+class.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

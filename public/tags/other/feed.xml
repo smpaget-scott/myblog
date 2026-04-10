@@ -1,0 +1,642 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Other on smpaget blog</title>
+    <link>http://localhost:1313/blog/tags/other/</link>
+    <description>Recent content in Other on smpaget blog</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 25 Nov 2009 15:10:50 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/blog/tags/other/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Proving youth work is inherently wrong.</title>
+      <link>http://localhost:1313/blog/blog/proving-youth-work-is-inherently-wrong/</link>
+      <pubDate>Wed, 25 Nov 2009 15:10:50 +0000</pubDate>
+       <guid isPermaLink="false">http://www.schelp.co.uk/blog/?p=749</guid> 
+      <description>&lt;p&gt;I wonder if thinking about proving youth work is inherently wrong as an approach to youth work.
+Evaluation, in its original Latin sense, meant to strengthen. In recent years, evaluation has often come to mean something else. It has become a tool of funders wanting to judge what is ‘successful’, what ‘works’ and what should or should not be invested in.
+Evaluation is a key issue for youth work. But to often evaluation (as stewart cutler pointed out) has become a code for proving youth work works.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>screaming in a sound proof room</title>
+      <link>http://localhost:1313/blog/blog/screaming-in-a-sound-proof-room/</link>
+      <pubDate>Wed, 17 Dec 2008 16:27:38 +0000</pubDate>
+       <guid isPermaLink="false">http://www.schelp.co.uk/blog/?p=858</guid> 
+      <description>&lt;p&gt;&lt;img alt=&#34;kat_in_the_box&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/blog/wp-content/uploads/2008/12/kat_in_the_box.jpg&#34;&gt;
+One of the most annoying things is when someone builds something new and thinks of everything, covers all bases and ensures the layout is accurate and well thought out.
+The only problem is they don&amp;rsquo;t actually do that job well.
+I blame two people for this current issue
+the council and the installers of the system.
+The situation.
+In working and helping the new built primary school at their school show I came accross some of the most baffling issues i have come accross in a while. The school has an dinner hall with room for about 120 people. It has a stage at one end of the hall. It has a sound system built into the room. It consists of 2 yamaha road series speakers (i think 12 inch) so not to bad. There is a small wall mounted cable run with 4 XLR femal inputs for microphones. These run to the sound room which is one floor up in the back wall.
+Problem One - control room
+The control rooms is long and narrow, along the back wall. It has two tall narrow windows angled into the room which has the event happening in it. They are both double glazed, creating a sound proof control room. Good. unfortunately the windows are also permanently installed into the space. This means that you cannot hear the live sound in the control room naturally.
+Unfortunately there is no form of monitoring within the room. It is a SoundCraft mixer amp as pictured below.
+&lt;img alt=&#34;gigrac&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/blog/wp-content/uploads/2008/12/gigrac.gif&#34;&gt;
+The mixer and amp build in has several outputs to facilitate monitoring. (Including a Stereo Phono recording output, stereo headphones output, stereo monitor output, and stereo main output on the front of the unit and two Speakon and jack amp outputs on the rear of the unit.)
+The speakon connections go back into the wall to power the speakers in the room.
+The jack amp outputs are suitable but probably carrying to large a load for near field control room monitors.
+The Headphones output gives you a blast of the monitor mix so we can count that one out.
+The monitor output is controlled by a separate knob on each channel, so the mix would not be as the main room so we can discount that one. (the monitor and Headphones mix can also be switched to not include any of the build in effects which the unit has.
+The main output mix is already used as the feed for the Loop system so cannot be unplugged.
+The record output gives a phono out for linking up to a tape player or minidisk or similar and is of the main output mix. It is the only one available for using to solve this problem.
+The solution
+We rummaged though all the cable boxes and stuff we could find in the sound booth room and the computer room, and attempted to find a phono lead. Eventually we had to send someone out to a local church to &amp;ldquo;borrow&amp;rdquo; one. When we got it we hooked up the recording output to the record input of a small coomber unit. giving us the in room monitoring we needed.
+&lt;img alt=&#34;coomber&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/blog/wp-content/uploads/2008/12/coomber.gif&#34;&gt;
+The problem 2
+the leads are remarkably short on this installation making it quite hard to move the stack in order to see the stage. Due to the height of the music stack it is virtually impossible to see over it. (The Stack consists of CD player, Loop System, Soundcraft gigrac, and Coomber 6120.) all piled on a desk I was working with two young ladies who couldn&amp;rsquo;t see over the stack. Having something in a school children cannot use due to bad design seems lazy.
+we moved the stuff about and made room on the desk so we could all see the stage.
+Problem 3
+The speakers were behind the stage this creates a new problem, as a performer you want to hear yourself but as naturally as possible. Hearing your own voice a quarter of a second late coming form behind you can be unnerving for the best. The Speakers on the back wall mean when you lift the microphone you generally have two issues,
+1 - you speak quietly and cannot hear yourself, the inexperienced performer, then raises their voice for effect at the same time as the sound man seeks to increase gain creating a horrible loop which is just right for feedback to raise it&amp;rsquo;s peircing voice.
+2 - you speak loudly and boom out deafing yourself, and the inverse of the above happens.
+Now the only difference with moving the speakers to the front of the stage on this situation would be that the feedback is harder to get.
+This is due to no stage monitors for performers to hear themselves.
+The SOlution.
+I don&amp;rsquo;t think their really is one. without spending money.
+For the day to day running of the school and most school assemblies the set up is currently satisfactory. a microphone which at speaking level is audible. A sound booth which is secure and looks in on the room.
+The problem just comes when you attempt to use the equipment for more than a normal primary school everyday usage like a school show.
+I guess the problem is the reason you need the equipment in the first palce is for school shows or the like. outwith that in a primary school that level of equipment isn&amp;rsquo;t really needed.
+me. I blame the council for specifiying the equipment and the installers for not pointing out the roblems and attempting to solve it with the clients!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>test</title>
+      <link>http://localhost:1313/blog/blog/test-2/</link>
+      <pubDate>Wed, 26 Nov 2008 14:18:08 +0000</pubDate>
+       <guid isPermaLink="false">http://www.schelp.co.uk/blog/?p=825</guid> 
+      <description>&lt;p&gt;test&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>How my year compares to those that know! (music)</title>
+      <link>http://localhost:1313/blog/blog/how-my-year-compares-to-those-that-know-music/</link>
+      <pubDate>Wed, 26 Nov 2008 12:56:30 +0000</pubDate>
+       <guid isPermaLink="false">http://www.schelp.co.uk/blog/?p=815</guid> 
+      <description>&lt;p&gt;&lt;a href=&#34;http://localhost:1313/blog/wp-content/uploads/2008/11/elitistdiagramhugeblack.gif&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/blog/wp-content/uploads/2008/11/elitistdiagramhugeblack-300x163.gif&#34;&gt;&lt;/a&gt;
+The magazines are rushing to tell everyone who will listen how what has been good and what has been bad this year.
+me I don&amp;rsquo;t read many music magazines anymore. I prefer to listen to music and decide if it is something good, entertaining worthy of buying or not. I am also guided by radio and perhaps largely by friends who get good music and share it.
+anyway I have compared my music with the music of the lists and fund out that for one of the magazines I have 21 out of their top 50 albums including nine from the top ten albums. not too bad. Funnily enough it is the list i had most trouble agreeing with on it&amp;rsquo;s placements. My own list of what I have really enjoyed will be up soon but in the mean time here are the Lists of what albums I have from the lists and a list of albums I don&amp;rsquo;t have but would like to have perhaps at some point?
+anyway on with the listings&amp;hellip;.
+&lt;a href=&#34;http://localhost:1313/blog/wp-content/uploads/2008/11/paste_logo2.gif&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/blog/wp-content/uploads/2008/11/paste_logo2.gif&#34;&gt;&lt;/a&gt;&lt;a href=&#34;http://www.pastemagazine.com/articles/2008/11/signs-of-life-2008-best-music.html&#34;&gt;Paste Magazine&lt;/a&gt; (the ones I own)
+50 TV On The Radio - Dear Science (Interscope)
+48 REM - Accelerate (Warner Bros.)
+46 Lykke Li - Youth Novels (LL)
+43 Amanda Palmer - Who Killed Amanda Palmer (Roadrunner)
+40 Flight of the Conchords - Flight of the Conchords (Sub Pop)
+32 Silver Jews - Lookout Mountain, Lookout Sea (Drag City)
+30 I&amp;rsquo;m From Barcelona - Who Killed Harry Houdini? (Mute)
+28 MGMT - Oracular Spectacular (Columbia)
+18 Death Cab for Cutie - Narrow Stairs (Atlantic)
+16 My Morning Jacket- Evil Urges (ATO)
+15 Nick Cave &amp;amp; the Bad Seeds - Dig!!! Lazarus Dig!!! (Mute)
+12 of Montreal - Skeletal Lamping (Polyvinyl)
+11 The Hold Steady - Stay Positive (Vagrant)
+08 Sun Kil Moon - April (Caldo Verde)
+06 Fleet Foxes - Fleet Foxes (Sub Pop)
+05 Okkervil River - The Stand Ins (Jagjaguwar)
+03 Vampire Weekend - Vampire Weekend (XL)
+02 Sigur Rós - Med sud i eyrum vid spilum endalaust (XL)
+01 She &amp;amp; Him - Volume One (Merge)
+19 out of 50
+6 out of top ten
+&lt;a href=&#34;http://localhost:1313/blog/wp-content/uploads/2008/11/qlogo.gif&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/blog/wp-content/uploads/2008/11/qlogo.gif&#34;&gt;&lt;/a&gt;&lt;a href=&#34;http://www.qthemusic.com/cgi-bin/50bestalbums/month.pl?id=2&#34;&gt;Q top 50 albums of the year&lt;/a&gt; (the ones I own)
+48 Jenny Lewis - Acid Tongue
+45 Jack Johnson Sleep Through Static
+44 Black Kids - Partie Traumatic
+40 My Morning Jacket - Evil Urges
+37 Lykke Li - Youth Novels
+36 R.E.M. - Accelerate
+35 The Hold Steady - Stay Positive
+24 The Last Shadow Puppets - The Age Of The Understatement
+23 Beck - Modern Guilt
+18 British Sea Power - Do You Like Rock Music?
+13 MGMT - Oracular Spectacular
+11 Sigur Rós - Med sud i eyrum vid spilum endalaust
+10 Nick Cave &amp;amp; The Bad Seeds - Dig!!! Lazarus Dig!!!
+09 The Raconteurs - Consolers Of The Lonely
+08 Elbow - The Seldom Seen Kid
+07 TV On The Radio - Dear Science
+05 Glasvegas - Glasvegas
+04 Vampire Weekend - Vampire Weekend
+03 Coldplay - Viva La Vida Or Death And All His Friends
+02 Fleet Foxes - Fleet Foxes
+01 Kings Of Leon - Only By The Night
+21 albums out of 50
+including 9 of the top ten
+&lt;a href=&#34;http://localhost:1313/blog/wp-content/uploads/2008/11/blender_logo_new.gif&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/blog/wp-content/uploads/2008/11/blender_logo_new.gif&#34;&gt;&lt;/a&gt;&lt;a href=&#34;http://stereogum.com/archives/yearend-list/blenders-top-33-of-2008_037601.html&#34;&gt;Blender Magazine&lt;/a&gt; (the ones I own)
+31 Nick Cave And The Bad Seeds - Dig, Lazarus, Dig!!!
+22 Coldplay - Viva La Vida
+14 Jenny Lewis - Acid Tongue
+12 My Morning Jacket - Evil Urges
+11 Death Cab For Cutie - Narrow Stairs
+09 Vampire Weekend - Vampire Weekend
+07 of Montreal - Skeletal Lamping
+03 TV On The Radio - Dear Science
+8 of 31
+only three from the top ten
+wanted albums that got away
+&lt;a href=&#34;http://stereogum.com/archives/yearend-list/pastes-top-50-of-2008_037351.html&#34;&gt;(Paste)&lt;/a&gt;
+47 Laura Marling - Alas, I Cannot Swim (Astralwerks)
+&lt;a href=&#34;http://stereogum.com/archives/yearend-list/qs-top-50-of-2008_038321.html&#34;&gt;(Q)&lt;/a&gt;
+49 Emmylou Harris - All I Intended To Be
+34 Bon Iver - For Emma, Forever Ago
+33 Hercules &amp;amp; Love Affair - Hercules &amp;amp; Love Affair
+31 Black Mountain - In The Future
+20 The Gaslight Anthem - The &amp;lsquo;59 Sound
+&lt;a href=&#34;http://stereogum.com/archives/yearend-list/blenders-top-33-of-2008_037601.html&#34;&gt;(Blender)&lt;/a&gt;
+28 Stephen Malkmus And The Jicks - Real Emotional Trash
+21 Erykah Badu - New Amerykah: Pt. One (4th World War)
+16 Be Your Own Pet - Get Awkward
+13 Al Green - Lay It Down
+08 Randy Newman - Harps and Angels
+05 Hot Chip - Made In The Dark&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The singer and the voice from...</title>
+      <link>http://localhost:1313/blog/blog/the-singer-and-the-voice-from/</link>
+      <pubDate>Mon, 06 Oct 2008 15:58:34 +0000</pubDate>
+       <guid isPermaLink="false">http://www.schelp.co.uk/blog/?p=662</guid> 
+      <description>&lt;p&gt;&lt;a href=&#34;http://localhost:1313/blog/wp-content/uploads/2008/09/glasvegas.jpg&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/blog/wp-content/uploads/2008/09/glasvegas-300x207.jpg&#34;&gt;&lt;/a&gt;
+Glasvegas. So whats with the voice then
+I like an accent as much as the next man. I mean one of favourite singers of all time, Karin Bergquist (from &lt;a href=&#34;http://www.overtherhine.com/&#34;&gt;Over the Rhine&lt;/a&gt;) has an accent which has become more pronounced and obvious as she has changed from the formally trained sound of the bands early style to a more laid back natural sound.
+I like foreign bands - The guys from Alphabeat sing with a definate scandinavian accent, The Scorpions, I&amp;rsquo;m From Barcelona, (who&amp;rsquo;s new album is very good!), Lykke Li, Hello Saferide and Emile Simon. I don&amp;rsquo;t mind singers with an accent. I think it can add to a tune and add innately to the musical content of the song.
+So perhaps it is just the Scottish thing i don&amp;rsquo;t like then. But I like singers/bands from scotland, Roddy Woomble from Idlewild, Eddie Reader, Ricky Ross in Deacon Blue, Justin Currie in Del Amitri, Fish in Marillion, and on the broader side of things, (accent wise) I really like Aidan Moffat in Arab Strap, and the Proclaimers in the Proclaimers. (I even like Alistair MacDonald and Hamish Imlach)
+But singing accent of the guy from Glasvegas. I can&amp;rsquo;t get behind that. In particular in the fantastic song &amp;lsquo;It&amp;rsquo;s my Own Cheating Heart That Makes Me Cry&amp;rsquo;. I get the sentiment of the song, the feel of the song, the lyrics of the song, but when he sings the immortal line,&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>London (re) Calling - 1</title>
+      <link>http://localhost:1313/blog/blog/london-calling-1/</link>
+      <pubDate>Mon, 29 Sep 2008 13:04:19 +0000</pubDate>
+       <guid isPermaLink="false">http://www.schelp.co.uk/blog/?p=676</guid> 
+      <description>&lt;p&gt;&lt;a href=&#34;http://localhost:1313/blog/wp-content/uploads/2008/09/lodoneye.jpg&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/blog/wp-content/uploads/2008/09/lodoneye-300x224.jpg&#34;&gt;&lt;/a&gt;
+We have returned
+My son Jacob and myself have taken advantage of some of my holiday time to take a short break in london. we had a great time and did it reasonably cheaply as well. Anyway big thanks to my wife (Jacob&amp;rsquo;s mum), &lt;a href=&#34;http://valleyboy.wordpress.com/&#34;&gt;Rich&lt;/a&gt; for tech support, Matt for the food and chat, and zara for the hot chocolate
+The things we did were
+- fly BA Glasgow to London Heathrow
+- London Heathrow terminal 5 (I think it qualifies as a destination in and of itself.)
+- London Underground
+- Houses of Parliament
+- Old County Hall
+- London Eye
+- Waterloo Train Station
+- The Tower Of London
+- gourmet burger kitchen
+- London Aquarium
+- Buchingham Palace
+- St James Park
+- St Marks church, Mayfair
+- Selfridges, Oxford Street
+- The Apple Store, Regent Street
+- Hamleys
+- Carnaby Street
+- Covent Garden
+- Wahaca - mexican restaurant
+- Trafalgar Square
+- Whitehall
+- Downing Street
+- South bank
+- Tate Modern
+- International Headquarters of The Salvation Army
+- St Pauls Cathedral
+- Shoe Lane Library
+- British Museum
+I think we did enough for a couple of days to be honest
+more follow up posts to follow.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>I am the King of the Internet (Beta version) 2</title>
+      <link>http://localhost:1313/blog/blog/i-am-the-king-of-the-internet-beta-version-2/</link>
+      <pubDate>Thu, 18 Sep 2008 14:11:23 +0000</pubDate>
+       <guid isPermaLink="false">http://www.schelp.co.uk/blog/?p=668</guid> 
+      <description>&lt;p&gt;&lt;a href=&#34;http://localhost:1313/blog/wp-content/uploads/2008/09/warrior.jpg&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/blog/wp-content/uploads/2008/09/warrior-300x199.jpg&#34;&gt;&lt;/a&gt;
+Last night ended up watching the end of &amp;ldquo;Resident Evil: Apocalypse&amp;rdquo;. Mediocre as films go but watchable. As i watched it one song came into my head. Kind sums a lot of stuff up.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;This is the best time of the day—the dawn
+The final cleansing breath unsullied yet
+By acrid fume or death’s cacophony
+The rank refuse of unchained ambition
+And pray, deny me not but know me now,
+Your faithful retainer stands resolute
+To serve his liege lord without recompense
+Perchance to fall and perish namelessly
+No flag-draped bier or muffled drum to set
+The cadence for a final dress parade
+But it was not always thus—remember?
+Once you worshipped me and named me a god
+In many tongues and made offering lest
+I exact too terrible a tribute&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Which Apprentice finalist are you?</title>
+      <link>http://localhost:1313/blog/blog/which-apprentice-finalist-are-you/</link>
+      <pubDate>Wed, 11 Jun 2008 12:56:00 +0000</pubDate>
+       <guid isPermaLink="false">http://www.schelp.co.uk/blog/?p=619</guid> 
+      <description>&lt;p&gt;&lt;a href=&#34;http://bp2.blogger.com/_AQL5BvjF3p8/SE_Ln3gSJmI/AAAAAAAAAV0/ERmuV5w1xhc/s1600-h/helene.jpg&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://bp2.blogger.com/_AQL5BvjF3p8/SE_Ln3gSJmI/AAAAAAAAAV0/ERmuV5w1xhc/s400/helene.jpg&#34;&gt;&lt;/a&gt;
+Your results: Mostly Cs: Commiserations! You are HELENE! You&amp;rsquo;re quite nice, and people don&amp;rsquo;t find you offensive, but you&amp;rsquo;ve had a terrible life, poor love. Still, you&amp;rsquo;ve managed to get this far, and it&amp;rsquo;s a testament to your professionalism and Global Pricing Leadership that you have, so well done you. You prove to the world that if you put your mind to it, anything is possible (except possibly knowing what &amp;lsquo;Global Pricing Leader&amp;rsquo; actually means)
+take the test [[ &lt;a href=&#34;http://www.guardian.co.uk/media/quiz/2008/jun/11/theapprentice&#34;&gt;which Apprentice Finalist Are You Quiz&lt;/a&gt; on &lt;a href=&#34;http://www.guardian.co.uk/&#34;&gt;the Guardian unlimited website&lt;/a&gt;]]
+Technorati Tags - &lt;a href=&#34;http://technorati.com/tag/the%20apprentice&#34;&gt;The Apprentice&lt;/a&gt; &amp;amp; &lt;a href=&#34;http://technorati.com/tag/the%20Guardian&#34;&gt;the Guardian&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>website development</title>
+      <link>http://localhost:1313/blog/blog/website-development/</link>
+      <pubDate>Tue, 10 Jun 2008 21:17:00 +0000</pubDate>
+       <guid isPermaLink="false">http://www.schelp.co.uk/blog/?p=618</guid> 
+      <description>&lt;p&gt;&lt;a href=&#34;http://bp0.blogger.com/_AQL5BvjF3p8/SE7v78etvkI/AAAAAAAAAVs/DA1Yf0Y-3Eo/s1600-h/schelp.co.uk.JPG&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://bp0.blogger.com/_AQL5BvjF3p8/SE7v78etvkI/AAAAAAAAAVs/DA1Yf0Y-3Eo/s400/schelp.co.uk.JPG&#34;&gt;&lt;/a&gt;&lt;br&gt;
+Hey sorry about the lack of blogs. Currently I am trying to put my domain in order so a work in progrss some links work
+(Blog, Links)
+the others don&amp;rsquo;t currently. anyway check it out
+&lt;a href=&#34;http://www.schelp.co.uk&#34;&gt;http://www.schelp.co.uk&lt;/a&gt;
+Technorati Tags: &lt;a href=&#34;http://technorati.com/tag/website%20development&#34;&gt;website development&lt;/a&gt;, &lt;a href=&#34;http://technorati.com/tag/schelp.co.uk&#34;&gt;schelp.co.uk&lt;/a&gt;, &lt;a href=&#34;http://technorati.com/tag/scott%20paget&#34;&gt;scott paget&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Infamy! Infamy! They’ve all got it in for me!</title>
+      <link>http://localhost:1313/blog/blog/infamy-infamy-they%E2%80%99ve-all-got-it-in-for-me/</link>
+      <pubDate>Mon, 14 Apr 2008 08:41:00 +0000</pubDate>
+       <guid isPermaLink="false">http://www.schelp.co.uk/blog/?p=599</guid> 
+      <description>&lt;p&gt;&lt;a href=&#34;http://bp2.blogger.com/_AQL5BvjF3p8/SAMdjJVNZ-I/AAAAAAAAARg/spokTwYT8f0/s1600-h/britney.JPG&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://bp2.blogger.com/_AQL5BvjF3p8/SAMdjJVNZ-I/AAAAAAAAARg/spokTwYT8f0/s400/britney.JPG&#34;&gt;&lt;/a&gt;
+&lt;a href=&#34;http://bp0.blogger.com/_AQL5BvjF3p8/SAMdjpVNZ_I/AAAAAAAAARo/Us_savceHSI/s1600-h/britney-spears-goes-nuts.jpg&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://bp0.blogger.com/_AQL5BvjF3p8/SAMdjpVNZ_I/AAAAAAAAARo/Us_savceHSI/s400/britney-spears-goes-nuts.jpg&#34;&gt;&lt;/a&gt;
+(warning. The link contained in the next sentence takes you directly to a topless picture of Britney Spears.(on her own website front page) As per usual we take no responsibility for the content of external links) (that should see the web figures jump up!)&lt;br&gt;
+&lt;a href=&#34;http://www.britneyspears.com/&#34;&gt;Britney Spears&lt;/a&gt; is she famous of infamous now?
+I dunno&lt;br&gt;
+I heard on the radio this morning that she crashed her car today and has ended up causing a 2 car pile up (excluding her own)
+My wife wisely pointed out that the difference is if you hear the name &amp;ldquo;Britney spears&amp;rdquo; your initial thought reveals if she is famous or infamous. If you think of her music or acting career then she is famous. If you think of her life incidents then she is infamous.
+While changing my son this morning we had the channel 4 show &lt;a href=&#34;http://www.channel4.com/music/&#34;&gt;&amp;ldquo;Freshly Squeezed&amp;rdquo;&lt;/a&gt; on the TV. and they showed some of Britney&amp;rsquo;s new video. It&amp;rsquo;s all animated and looks superhero ish. so when I heard Britney Spears my immediate thought was her new video is actually good. So to me Britney is still famous.
+so the question for you all is, Britney Spears, famous or infamous? when you hear the words Britney Spears, what do you think of?
+technorati tags - &lt;a href=&#34;http://technorati.com/tag/famous&#34;&gt;Famous&lt;/a&gt;, &lt;a href=&#34;http://technorati.com/tag/infamous&#34;&gt;Infamous&lt;/a&gt; &amp;amp; &lt;a href=&#34;http://technorati.com/tag/britney%20spears&#34;&gt;Britney Spears&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Film Review - Nancy Drew</title>
+      <link>http://localhost:1313/blog/blog/film-review-nancy-drew/</link>
+      <pubDate>Sun, 06 Apr 2008 09:14:00 +0000</pubDate>
+       <guid isPermaLink="false">http://www.schelp.co.uk/blog/?p=593</guid> 
+      <description>&lt;p&gt;&lt;a href=&#34;http://bp0.blogger.com/_AQL5BvjF3p8/R_iWxfuNcaI/AAAAAAAAAQg/Lson-41Qd-Q/s1600-h/07.jpg&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://bp0.blogger.com/_AQL5BvjF3p8/R_iWxfuNcaI/AAAAAAAAAQg/Lson-41Qd-Q/s400/07.jpg&#34;&gt;&lt;/a&gt;&lt;br&gt;
+What a film.&lt;br&gt;
+I didn&amp;rsquo;t expect much to be honest, but it was actually fun.
+The background was that We were doing a club for 9-12 year olds which currently is exclusively attended by girls. All our staff and volunteered called off due to lots of stuff. valid but stuff. so we decided without a program to have a video night!
+we went off to the local rental shop and looked at all the videos. there was nothing was was good, except shark vs eagle which as a 15 but did look quality.
+we hummed and awed. two 30+ year old men trying to pick a film to interest and keep the attention of a group of 9-12 year old girls.
+Then I saw it. Nancy Drew. The film.
+i picked it. I had to convince my boss that it would work. but we got it.
+we went back and waited for the girls. 11 turned up.&lt;br&gt;
+we went through to the room and sat down to watch the movie.
+I was nervous. I had never seen the film, I had never heard of any reviews. It looked like it could go one of two ways. great of absolutely terrible.
+It wasn&amp;rsquo;t terrible. the girls were excited. I laughed out loud at least seven times.&lt;br&gt;
+&lt;a href=&#34;http://bp2.blogger.com/_AQL5BvjF3p8/R_t0XPuNccI/AAAAAAAAAQw/mmnnAUCTFRc/s1600-h/nancy3.jpg&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://bp2.blogger.com/_AQL5BvjF3p8/R_t0XPuNccI/AAAAAAAAAQw/mmnnAUCTFRc/s400/nancy3.jpg&#34;&gt;&lt;/a&gt;
+The thing that really got me was how similar nancy was to one of the girls who comes to the club. I really was stunned by the similarities.
+anyway&lt;br&gt;
+not the worse film in the world.&lt;br&gt;
+not the best film in the world but one i think i would watch again.
+anyway fromthe soundtrack Flunk and there version of &amp;ldquo;Blue Monday&amp;rdquo;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>small news update</title>
+      <link>http://localhost:1313/blog/blog/small-news-update/</link>
+      <pubDate>Thu, 06 Mar 2008 22:32:00 +0000</pubDate>
+       <guid isPermaLink="false">http://www.schelp.co.uk/blog/?p=586</guid> 
+      <description>&lt;p&gt;&lt;a href=&#34;http://bp2.blogger.com/_AQL5BvjF3p8/Ryz6Ca-XNSI/AAAAAAAAALs/X-rd7UkfppE/s1600-h/smallnews.gif&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://bp2.blogger.com/_AQL5BvjF3p8/Ryz6Ca-XNSI/AAAAAAAAALs/X-rd7UkfppE/s400/smallnews.gif&#34;&gt;&lt;/a&gt;
+we are back on the broadband tonight&lt;br&gt;
+we got our first internet shopping delivery tonight&lt;br&gt;
+we are happy&lt;br&gt;
+our house is coldish&lt;br&gt;
+our house is warming up though.
+small news update over.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Seven Ages of Rock</title>
+      <link>http://localhost:1313/blog/blog/seven-ages-of-rock/</link>
+      <pubDate>Sun, 20 May 2007 22:37:00 +0000</pubDate>
+       <guid isPermaLink="false">http://www.schelp.co.uk/blog/?p=528</guid> 
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.bbc.co.uk/music/sevenages/&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://bp1.blogger.com/_AQL5BvjF3p8/RlDPq1_EiWI/AAAAAAAAAFg/FiKxkFfQDuY/s320/screen2.jpg&#34;&gt;&lt;/a&gt;&lt;br&gt;
+Just watching the first episode of this documentry on the &amp;ldquo;7 ages of Rock&amp;rdquo;
+I am just not convinced that the First Age of Rock was Jimi Hendrix.&lt;br&gt;
+what about Elvis?&lt;br&gt;
+or the beatles?, the who?, the rolling stones?, cream? and dare i say it, Sir Cliff?
+apart from this, albeit major, issue the program is very enjoyable. and telling an engaging story about an artist I hadn&amp;rsquo;t really ever thought about or found out about. nice job BBC.&lt;br&gt;
+more please&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Third Sunday</title>
+      <link>http://localhost:1313/blog/blog/third-sunday/</link>
+      <pubDate>Mon, 07 May 2007 22:51:00 +0000</pubDate>
+       <guid isPermaLink="false">http://www.schelp.co.uk/blog/?p=522</guid> 
+      <description>&lt;p&gt;&lt;a href=&#34;http://bp3.blogger.com/_AQL5BvjF3p8/Rj-zkiPMItI/AAAAAAAAAEg/2JXJyZ8t66o/s1600-h/screen1.jpg&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://bp3.blogger.com/_AQL5BvjF3p8/Rj-zkiPMItI/AAAAAAAAAEg/2JXJyZ8t66o/s320/screen1.jpg&#34;&gt;&lt;/a&gt;
+&lt;a href=&#34;http://viewfromthebasement.typepad.com/my_weblog/&#34;&gt;I read on Brodie&amp;rsquo;s Blog&lt;/a&gt;, that various people met in Easterhouse recently to discuss emerging church in scotland. brodie has put the document he put forward for discussion on his blog.
+The meeting seems to have been interesting. anyway several churches in Easterhouse have been in the process of organising an joint evening service for a while. I am not sure it is emerging but an interesting development which I am not convinced is actually the answer or the way forward.
+anyway they asked me to do some posters and this is what i came up with.&lt;br&gt;
+easy simple and with all the normal info.&lt;br&gt;
+the other promo poster is included below.
+&lt;a href=&#34;http://bp2.blogger.com/_AQL5BvjF3p8/Rj-2pSPMIuI/AAAAAAAAAEo/F6rfTUny878/s1600-h/screen2.jpg&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://bp2.blogger.com/_AQL5BvjF3p8/Rj-2pSPMIuI/AAAAAAAAAEo/F6rfTUny878/s320/screen2.jpg&#34;&gt;&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Barenaked Ladies, Sunday 9th april 2007, The Academy, Glasgow</title>
+      <link>http://localhost:1313/blog/blog/barenaked-ladies-sunday-9th-april-2007-the-academy-glasgow/</link>
+      <pubDate>Fri, 13 Apr 2007 22:30:00 +0000</pubDate>
+       <guid isPermaLink="false">http://www.schelp.co.uk/blog/?p=518</guid> 
+      <description>&lt;p&gt;Very good Gig
+The band were awesome and fantastically up for the concert.&lt;br&gt;
+due to a ticketing surprise we had a choice of standing or seated tickets. we choose the standing option, which in hindsight was a cracker of a decision.
+The support guy was well, a support guy. bit of naisely middy voice, which was actually quite annoying after song two. Also did the crazy thing of being a solo accoustic guitarist who brought out a woman on cello to accompany him. Yeah sounded great without the PA. But frankly if your trying to entertain a large sing along crowd as the support act, bringing out a cello isn&amp;rsquo;t really a smart move.
+Anyway We managed to watch the entire concert from the top of the bar area. directly behind the main front of House PA and EQ rack. They were using the Soundcraft Vi6 digital console to control front of house. Very fun to watch. If nothing else I like a sound console that changes colour at the touch of a button. The PA looked to be a flown V-Dosc system from a distance, the rig was a SSE Hire, and was runnign through some nice analysis software from various sources on a nice rack mounter screen.&lt;br&gt;
+Anyway After a small arguement between my wife and i about if barenaked ladies use In Ear monitors or not, (they do) the gig started.
+The thing I love about the Barenaked ladies gigs I have been at (4 so Far) is the buzz. The band walks on stage and everyone seems to stop and sing along. It is a really quiet gig, in terms of thehorrible chatting during the performance but a really loud gig with 1500 plus people all singing along.
+It really is quite close to church. (In alot of ways. which as a church worker is quite interesting on all sort of levels.)
+The gig passed very fast. The recnet two albums were bought for appropriate present days for My wife and listened to to the extent where the New songs they played were actually more than familiar on hearing them live.&lt;br&gt;
+The comedy interludes were funny and the band rocked. Ed&amp;rsquo;s voice seemed slightly flat. but that is only on playback of the bootleg. it sounded fine live.&lt;br&gt;
+The band had a lot of energy and seemed to be genuinely happy to be there.
+for me the stand out songs were,&lt;br&gt;
+Easy from &amp;ldquo;Barenaked Ladies are me&amp;rdquo; album&lt;br&gt;
+Bank Job from &amp;ldquo;Barenaked Ladies are Men&amp;rdquo; album&lt;br&gt;
+Million Dollars (with the hilarious ending from a famous musical)&lt;br&gt;
+Alcohol (just a great song)&lt;br&gt;
+Call and Answer (possibly the best song they have ever done)
+so good gig good band.
+NB&lt;br&gt;
+After the big Hit One Week came from a massive selling album, Stunt, They then released Maroon which sold well as well. The next album Everything to Everyone album got great reviews and is a fantastic pop record. The record company seemed more concerned with the sales figures than the reviews and Barenaked Ladies are now indie artists. By clever things like the Sales of official Bootlegs of every show on USb sticks at the end of the concert. (yeah Burned after the encore in your hands within 10 minutes) they make their money.&lt;br&gt;
+So if you see their record buy it. generally they are quite good.&lt;br&gt;
+if you are unsure stop by their
+&lt;a href=&#34;http://www.bnlmusic.com&#34;&gt;website&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;http://www.bnlblog.com&#34;&gt;blog&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;http://www.myspace.com/barenakedladies&#34;&gt;myspace&lt;/a&gt;
+for more details
+Set List details
+1- One Week&lt;br&gt;
+2- Old Apartment&lt;br&gt;
+3- Glasgow (Interlude)&lt;br&gt;
+4- Sound Of Your Voice&lt;br&gt;
+5- Nutshell&lt;br&gt;
+6- In The Car&lt;br&gt;
+7- Stovies (Interlude)&lt;br&gt;
+8- Too Little Too Late&lt;br&gt;
+9- Get In Line&lt;br&gt;
+10- Fun &amp;amp; Games (Accoustic)&lt;br&gt;
+11- For You (Accoustic)&lt;br&gt;
+12- Enid (Accoustic)&lt;br&gt;
+13- Wind It Up&lt;br&gt;
+14- Angry People&lt;br&gt;
+15- Pinch Me&lt;br&gt;
+16- Bank Job&lt;br&gt;
+17- All Been Done&lt;br&gt;
+18- Brian Wilson
+Encore 1&lt;br&gt;
+19- Easy&lt;br&gt;
+20- Million Dollars
+Encore 2&lt;br&gt;
+21- Alcohol&lt;br&gt;
+22- Call And Answer&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>To Do List</title>
+      <link>http://localhost:1313/blog/blog/to-do-list/</link>
+      <pubDate>Thu, 12 Apr 2007 22:45:00 +0000</pubDate>
+       <guid isPermaLink="false">http://www.schelp.co.uk/blog/?p=517</guid> 
+      <description>&lt;p&gt;&lt;a href=&#34;http://bp1.blogger.com/_AQL5BvjF3p8/Rh64SmPH5RI/AAAAAAAAADg/bZSYIreZkv0/s1600-h/dil.gif&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://bp1.blogger.com/_AQL5BvjF3p8/Rh64SmPH5RI/AAAAAAAAADg/bZSYIreZkv0/s320/dil.gif&#34;&gt;&lt;/a&gt;
+In order to be successful I Must-
+tidy my office&lt;br&gt;
+Buy my birthday present (from January)&lt;br&gt;
+get my wife&amp;rsquo;s Birthday present, (within the week)&lt;br&gt;
+Decide my future work wise&lt;br&gt;
+answer all the e-mails in my in box&lt;br&gt;
+Blog more&lt;br&gt;
+smile&lt;br&gt;
+cook more&lt;br&gt;
+do the shopping&lt;br&gt;
+get a hair cut&lt;br&gt;
+shave&lt;br&gt;
+speak out more against injustice&lt;br&gt;
+get an eye test&lt;br&gt;
+see a film, (been over 2 years now)&lt;br&gt;
+relax&lt;br&gt;
+write&lt;br&gt;
+play&lt;br&gt;
+buy your love&lt;br&gt;
+learn to touch type.&lt;br&gt;
+learn to spell/use grammar/punctuation&lt;br&gt;
+Buy the latest Cd&amp;rsquo;s by, Over the Rhine (2) The Innocence Mission and some others.
+Recognise Success as a Structure of power to reinforce the hegemonic power structure put in place by the dominant elite, and realise being unsuccessful actually is a powerful political action of resistance and go to bed.
+might just do that I suppose.
+night&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Look At The Pretty Pictures!</title>
+      <link>http://localhost:1313/blog/blog/look-at-the-pretty-pictures/</link>
+      <pubDate>Thu, 12 Apr 2007 22:28:00 +0000</pubDate>
+       <guid isPermaLink="false">http://www.schelp.co.uk/blog/?p=516</guid> 
+      <description>&lt;p&gt;&lt;a href=&#34;http://bp0.blogger.com/_AQL5BvjF3p8/Rh6ysWPH5PI/AAAAAAAAADQ/pyZe6B6DDYo/s1600-h/screen2.JPG&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://bp0.blogger.com/_AQL5BvjF3p8/Rh6ysWPH5PI/AAAAAAAAADQ/pyZe6B6DDYo/s320/screen2.JPG&#34;&gt;&lt;/a&gt;&lt;br&gt;
+(my desk top. using the handy (function+f9) combination.
+With using the Mac at placement and work and home I am leanring more about it.&lt;br&gt;
+I currently by to mac magazines, primarily for the tutorials and the free stuff on the CD, (You know the type no doubt.)
+One of my favourite utilities for the Mac is ScreenCaptureX.&lt;br&gt;
+It is a simple wee program which allows you to take pictures of your screen. It really is a simple program which does exactly what it says it does.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>acknowledgements</title>
+      <link>http://localhost:1313/blog/blog/acknowledgements/</link>
+      <pubDate>Wed, 11 Apr 2007 21:43:00 +0000</pubDate>
+       <guid isPermaLink="false">http://www.schelp.co.uk/blog/?p=514</guid> 
+      <description>&lt;p&gt;&lt;a href=&#34;http://bp1.blogger.com/_AQL5BvjF3p8/Rh1X22PH5OI/AAAAAAAAADI/lWiNDj1ImLI/s1600-h/screen1.JPG&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://bp1.blogger.com/_AQL5BvjF3p8/Rh1X22PH5OI/AAAAAAAAADI/lWiNDj1ImLI/s320/screen1.JPG&#34;&gt;&lt;/a&gt;
+I handed in my dissertation yesterday. 8000 words on the topic of Rights Based Approaches to youthwork.
+I only have one submission so I hope it does okay and gets through. If so, I will have a Post Graduate Certificate in Community Education from Strathclyde University.&lt;br&gt;
+Now that has been done I have to I have to now write a 3 year report for my work and five hundred work article for the CMS website.
+Busy, not as busy as you though.
+Around 4 am on sunday morning I wrote my acknowledgement statement for the dissertation.
+it read like this.
+Thanks go to everyone associated with this dissertation in order of my random jumbled head
+My wife, Helen, for guidance, patience, wisdom, help and generally being awesome at all times. I love you.
+Jacob Ferguson Paget for laughing, distracting, being the best boy and loving so well. My family both Paget and Gemmell. My employers, Captain Sharon O’Connell, Captain Pamela Johnson and all The Salvation Army for being accommodating and encouraging. My university cohort. They surprise and challenge me regularly. Akwugo Emejulu - trust me, you challenge me everytime we chat. Your support has been great. The University staff. My friends, Jenn, Sarah, Rich, Fraser, Dionne.
+And finally Team Tanzania and all the people I met during that experience. (including Martin Wroe at DFID, Paul Northup at Greenbelt Festival and Debbie James at CMS who made it all possible).
+To the people who inspire me to change and become more radical.
+I thank you.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Today</title>
+      <link>http://localhost:1313/blog/blog/today-2/</link>
+      <pubDate>Tue, 28 Nov 2006 10:31:00 +0000</pubDate>
+       <guid isPermaLink="false">http://www.schelp.co.uk/blog/?p=497</guid> 
+      <description>&lt;p&gt;&lt;a href=&#34;http://photos1.blogger.com/blogger/3339/480/1600/Photo%2010.jpg&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://photos1.blogger.com/blogger/3339/480/320/Photo%2010.jpg&#34;&gt;&lt;/a&gt;
+Today.&lt;br&gt;
+I will mostly be reading In the Library.&lt;br&gt;
+or possibly typing on my new laptop.&lt;br&gt;
+or possibly taking photo&amp;rsquo;s of myself using the built in webcam thingy.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>be last, put others first - values and principles 3</title>
+      <link>http://localhost:1313/blog/blog/be-last-put-others-first-values-and-principles-3/</link>
+      <pubDate>Tue, 21 Nov 2006 00:18:00 +0000</pubDate>
+       <guid isPermaLink="false">http://www.schelp.co.uk/blog/?p=496</guid> 
+      <description>&lt;p&gt;This post is number four of an occasional six part series on my personal values and principles;&lt;br&gt;
+&lt;a href=&#34;http://scottinbrief.blogspot.com/2006/09/practice-being-different.html&#34;&gt;read post one&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;http://scottinbrief.blogspot.com/2006/10/dont-be-bothered-by-fears-values-and.html&#34;&gt;read post two&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;http://scottinbrief.blogspot.com/2006/10/love-extravagantly-values-and.html&#34;&gt;read post three&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;http://photos1.blogger.com/blogger/3339/480/1600/girls_100.jpg&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://photos1.blogger.com/blogger/3339/480/320/girls_100.jpg&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;be last, put others first
+Okay I may shamelessly blagged this one from the press coverage of Jesus but frankly, it&amp;rsquo;s pretty cool right. So how do i do this.
+On saturday I let people into the lift before me even though i had queued longer.&lt;br&gt;
+At university I try and hold the door open for people before I go through.&lt;br&gt;
+I try at walk at the back of a group.&lt;br&gt;
+I try and be late where/when possible/acceptable.&lt;br&gt;
+I let cars out in front of me, except if the other car is better than my car, then they can wait.&lt;br&gt;
+Trying to think about cool and useful presents where possible.&lt;br&gt;
+Saying please and thank you&lt;br&gt;
+Listening and thinking before speaking.
+In general trying to embody being last, physically and mentally putting others first.&lt;br&gt;
+I like doing this.
+Tags: &lt;a href=&#34;http://technorati.com/tag/values+and+principles&#34;&gt;values and principles&lt;/a&gt;, &lt;a href=&#34;http://technorati.com/tag/be+last&#34;&gt;be last&lt;/a&gt;, &lt;a href=&#34;http://technorati.com/tag/put+others+first&#34;&gt;put others first&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Confession (Good for the soul)</title>
+      <link>http://localhost:1313/blog/blog/confession-good-for-the-soul/</link>
+      <pubDate>Tue, 21 Nov 2006 00:06:00 +0000</pubDate>
+       <guid isPermaLink="false">http://www.schelp.co.uk/blog/?p=495</guid> 
+      <description>&lt;p&gt;&lt;a href=&#34;http://photos1.blogger.com/blogger/3339/480/1600/rotk_poster.jpg&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://photos1.blogger.com/blogger/3339/480/320/rotk_poster.jpg&#34;&gt;&lt;/a&gt;
+Over the last three sunday evenings, Channel 4 has shown the three Lord of the Rings films.
+my reaction has been as follows
+week one - Hmm, I don&amp;rsquo;t remember half of this stuff from when we went to see it at the cinema.week two -In the cinema this really confused me but with seeing part one last week this now makes a lot more sense.
+Quote of the week from The two Towers. (week two)
+&amp;ldquo;That doesn&amp;rsquo;t make any sense to me. Then again you are very small.&amp;rdquo;
+the tree shepard thing to the two wee hobbitty things.
+Quote of the week from Return of the King (week three)
+&amp;ldquo;Little chance of success, near certainty of Death&amp;hellip; what are we waiting for?&amp;rdquo;
+wee dwarf bloke.
+At the end of the third movie something strange happened.
+There were 5 different endings. I felt quite emotional about is all ending.
+I confess.
+At the end Of The third Lord of the Rings film.
+I cried.
+Tags: &lt;a href=&#34;http://technorati.com/tag/confession&#34;&gt;confession&lt;/a&gt;, &lt;a href=&#34;http://technorati.com/tag/lord+of+the+rings&#34;&gt;lord of the rings&lt;/a&gt;, &lt;a href=&#34;http://technorati.com/tag/crying&#34;&gt;crying&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Punctuated</title>
+      <link>http://localhost:1313/blog/blog/punctuated/</link>
+      <pubDate>Mon, 20 Nov 2006 22:59:00 +0000</pubDate>
+       <guid isPermaLink="false">http://www.schelp.co.uk/blog/?p=494</guid> 
+      <description>&lt;p&gt;&lt;a href=&#34;http://photos1.blogger.com/blogger/3339/480/1600/piCircNoise.gif&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://photos1.blogger.com/blogger/3339/480/320/piCircNoise.gif&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;PUNCTUATED 1. Nat. Hist. and Path. Marked or studded with points or dots; having minute rounded spots, or (esp.) depressions resembling punctures, scattered over the surface; of the nature of or characterized by such markings.
+(&lt;a href=&#34;http://www.oed.com/&#34;&gt;Oxford English Dictionary&lt;/a&gt; word of the day for 20th Nov 06)
+Today Has been punctuated.
+mostly by rain
+but punctuated never the less.
+normal stuff.
+got up got Helen and Jacob to work and nursery respectively.
+I had the task of hiring a Kilt for Helen&amp;rsquo;s works night out in mid December.
+(mental note to self get this day off work.)
+I was going to go to Geffrey Tailors in Buchanan street, but last time I was there they really mucked up the wedding party orders. Shame. I quite liked the shop.
+Anyway I thought I would try a new place.
+I walked to bath street near Buchanan street to &lt;a href=&#34;http://www.macgregorandmacduff.co.uk/&#34;&gt;MacGregor and MacDuff&lt;/a&gt;&amp;rsquo;s glasgow shop. It was a very small shop in a basement. No MacMillan tartan either, my middle name is MacMillan. The guy measuring me seemed to be new to this entire measuring/fitting experience. But i came away with a feeling of confidence that I would get what I ordered.
+I got a black watch tartan with the full prince charlie outfit. (my uncle was in the black watch.) no shirt though as i have a white shirt. black socks and sporran though.
+I then went CD window shopping. (Due to my laptop purchase I haven&amp;rsquo;t bought a CD in ages. maybe at christmas.)
+Went to uni. I am on holiday from work so I am trying to get into the library and write an essay or two.
+It rained hard.
+I crossed campus to get to the packlunch room.
+It really rained.
+The room was quiet. except for three girls showing me basic gymnastic teaching theory. in particular how to land from a jump and the 5 impact points.
+Fascinating.
+I ate lunch
+I had a good nose around in this months &lt;a href=&#34;http://www.thirdway.org.uk/&#34;&gt;third way&lt;/a&gt; magazine.
+The big interview with Tracy Emin was really good. I think i have a better understanding of her viewpoint now. The most striking was the article by Mark Vernon about Agnostisism. It was clear and seemed to open up doors for thinking in my head. I don&amp;rsquo;t think i will become agnostic. Me learning so far at uni has been about viewing issues form different persepctives, youth, excluded, elderly, feminist, anti-racist.
+Having different traditions and ways of viewing things gives more to say, granted, and more things to think about, definately, but ultimately it challanges. thats what being &lt;a href=&#34;http://scottinbrief.blogspot.com/2006/09/practice-being-different.html&#34;&gt;open&lt;/a&gt; is all about.
+It was windy. I went the the library and did some work, met nick &amp;amp; Sarah briefly.
+I took a break and fixed up an appointment with my uni adviser.
+Thursday at 2pm. (remember to contact fraser)
+went back to the library. did some work.
+I walked to the car. It rained.
+I drove to nusrery. It stopped raining
+I drove to helens work. It rained
+I met Denise tonight.
+Denise Is a friend from ICC days and great woman. She is always great comapny and up for having a chat. We sat. remebered old times. talked about current times, work, love and psycho analyised our friends. in a nice way of course. Denise is a good friend.
+I hope she enjoyed the Ballet!
+I took the undergorund home
+It was very windy.
+I got home.
+rest
+Rich apparently has got snowed in on friday. Then he may or may not have crashed. I think he was just in the tailbacks caused by the crashes.
+The rail was strong against the window. The wind whistles down the chimney very loudly.
+One of my Cohorts is leaving the uni course I am on. I feel sad and guilty. I am studying full time and working full time. This student had stopped working to study on the course. there were only a dozen or so, fees paid places I got one, the other student didn&amp;rsquo;t. I could understand to a decent level the theories of &lt;a href=&#34;http://www.infed.org/thinkers/et-gram.htm&#34;&gt;Gramsci&lt;/a&gt;, &lt;a href=&#34;http://www.infed.org/thinkers/et-freir.htm&#34;&gt;freire&lt;/a&gt; and basics of &lt;a href=&#34;http://www.infed.com&#34;&gt;Informal education&lt;/a&gt; and policy documents from &lt;a href=&#34;http://www.scotland.gov.uk&#34;&gt;the scottish executive&lt;/a&gt; due to my first degree covering these subjects as an undergraduate, and my youthwork background, as a newcomer to all this the other student struggled.
+I am guilty that i seem to have had all the advantages on the course, yet her commitment has been tremendous. Stopping employment, paying her fees, working hard.
+I feel bad about it.
+it rained again
+My laptop is delayed.
+If you see a UPS van with a laptop with &amp;ldquo;For Scott&amp;rdquo; written on it in central glasgow please direct it to My wife&amp;rsquo;s place of employment. thanks.
+_today.i.have.been.punctuated._
+Tags: &lt;a href=&#34;http://technorati.com/tag/punctuated.+kilts&#34;&gt;punctuated. kilts&lt;/a&gt;, &lt;a href=&#34;http://technorati.com/tag/word+of+the+day&#34;&gt;word of the day&lt;/a&gt;, &lt;a href=&#34;http://technorati.com/tag/denise&#34;&gt;denise&lt;/a&gt;, &lt;a href=&#34;http://technorati.com/tag/university&#34;&gt;university&lt;/a&gt;, &lt;a href=&#34;http://technorati.com/tag/laptop&#34;&gt;laptop&lt;/a&gt;, &lt;a href=&#34;http://technorati.com/tag/rain&#34;&gt;rain&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Humphrys vs Williams (Live)</title>
+      <link>http://localhost:1313/blog/blog/humphrys-vs-williams-live/</link>
+      <pubDate>Mon, 06 Nov 2006 21:03:00 +0000</pubDate>
+       <guid isPermaLink="false">http://www.schelp.co.uk/blog/?p=491</guid> 
+      <description>&lt;p&gt;&lt;a href=&#34;http://photos1.blogger.com/blogger/3339/480/1600/brilliantinterview.0.jpg&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://photos1.blogger.com/blogger/3339/480/320/brilliantinterview.0.jpg&#34;&gt;&lt;/a&gt;&lt;br&gt;
+Last tuesday I was on my way to uni. I dropped of My wife at work and my son at nursery. I was flipping on the radio and came across the first of a new series of BBC radio 4. John Humphrys possibly the top radio journalist on the BBC, inviting the Archbishop of Canterbury to convert him.
+Jings. What a program.&lt;br&gt;
+I am still recovering from the level of discussion and the ease by which the Archbishop was so clear and easy with his wisdom, and how his theological positions were conveyed.
+for example here is his answer to a simple question. Is there a God?&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Love Extravagantly - Values and Principles 2</title>
+      <link>http://localhost:1313/blog/blog/love-extravagantly-values-and-principles-2/</link>
+      <pubDate>Fri, 27 Oct 2006 08:56:00 +0000</pubDate>
+       <guid isPermaLink="false">http://www.schelp.co.uk/blog/?p=489</guid> 
+      <description>&lt;p&gt;This post is number three of an occasional series on values and principles;
+&lt;a href=&#34;http://scottinbrief.blogspot.com/2006/09/practice-being-different.html&#34;&gt;read post one&lt;/a&gt; &lt;a href=&#34;http://scottinbrief.blogspot.com/2006/10/dont-be-bothered-by-fears-values-and.html&#34;&gt;read post two&lt;/a&gt;
+Love Extravagantly&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.askoxford.com/concise_oed/love?view=uk&#34;&gt;love&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;• noun 1 an intense feeling of deep affection.
+&lt;a href=&#34;http://www.askoxford.com/results/?view=dev_dict&amp;amp;field-12668446=extravagantly&amp;amp;branch=13842570&amp;amp;textsearchtype=exact&amp;amp;sortorder=score%2Cname&#34;&gt;extravagant&lt;/a&gt;
+DERIVATIVES - extravagantly adverb
+• adjective 1 lacking restraint in spending money or using resources. 2 costing a great deal. 3 exceeding what is reasonable or appropriate
+I suppose it is the guiding philosophy of what i try to do. In life and in work, in my family.
+I often don&amp;rsquo;t achieve
+But I try and aim high
+if I did Graffiti This would be what i would write.
+An exhortation to myself, my life and other people
+Love
+but not just love
+love extravagantly
+beyond what is reasonable and appropriate.
+You know what to do.
+so do it.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Kermode on Barnyard</title>
+      <link>http://localhost:1313/blog/blog/kermode-on-barnyard/</link>
+      <pubDate>Tue, 24 Oct 2006 23:55:00 +0000</pubDate>
+       <guid isPermaLink="false">http://www.schelp.co.uk/blog/?p=486</guid> 
+      <description>&lt;p&gt;&lt;a href=&#34;http://photos1.blogger.com/blogger/3339/480/1600/kermode_pub1.jpg&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://photos1.blogger.com/blogger/3339/480/320/kermode_pub1.jpg&#34;&gt;&lt;/a&gt;
+Mark Kermode, genius film reviewer, reviewing Disney&amp;rsquo;s film &amp;ldquo;Barnyard&amp;rdquo;.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Ladies and Gentlemen,
+quite apart from the fact it is a rubbish movie, doesn&amp;rsquo;t make any sense, has no story.
+I am proud to tell you that it is, as far as i can tell, the first
+transexual, lesbian, anthropomorphic, digital, animal animation for kids.&lt;/p&gt;
+&lt;p&gt;That is pretty much the only thing it has going for it.
+Mark Kermode is currently the provider of the best 40 minutes of radio available in the UK every week. he is the regular reviewer on the film review section, friday afternoons on BBC FiveLive, during the Simon Mayo show.
+Tags: &lt;a href=&#34;http://technorati.com/tag/class&#34;&gt;class&lt;/a&gt;, &lt;a href=&#34;http://technorati.com/tag/mark+kermode&#34;&gt;mark kermode&lt;/a&gt;, &lt;a href=&#34;http://technorati.com/tag/fivelive&#34;&gt;fivelive&lt;/a&gt;, &lt;a href=&#34;http://technorati.com/tag/&#34;&gt;simon mayo&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Public Service Announcement – rediscovery of Humanity needed</title>
+      <link>http://localhost:1313/blog/blog/public-service-announcement-rediscovery-of-humanity-needed/</link>
+      <pubDate>Sat, 06 Nov 2004 23:58:00 +0000</pubDate>
+       <guid isPermaLink="false">http://www.schelp.co.uk/blog/?p=67</guid> 
+      <description>&lt;p&gt;sarah is great.
+But i hate that people can&amp;rsquo;t respect the boundaries that she needs in order to live, work and enjoy life.
+If you are one of these people.
+stop taking good people for a ride and get a grip on love, respect for the other, caring, loving, and not being carless with other people.
+public service announcement over.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>being there v.s working there</title>
+      <link>http://localhost:1313/blog/blog/being-there-vs-working-there/</link>
+      <pubDate>Wed, 01 Sep 2004 21:36:00 +0000</pubDate>
+       <guid isPermaLink="false">http://www.schelp.co.uk/blog/?p=15</guid> 
+      <description>&lt;p&gt;I just found all the &lt;a href=&#34;http://www.carberry.org.uk/&#34;&gt;Carberry&lt;/a&gt; youth work response forms. This is a relief as I had thought I had lost them. But a bummer as, now I have two days to turn these response forms into a report format and sent it to Carberry.
+I enjoy Carberry. It is a good relaxing time. I do feel like a worker there. Part of the way the festival happens.
+But at &lt;a href=&#34;http://www.greenbelt.org.uk/&#34;&gt;greenbelt&lt;/a&gt; I fell almost frustrated by the fact I don&amp;rsquo;t help out. In my illustrious career I have so far provided, Pro sound, Pro lighting, toured with bands, Stewarded crowds of up to 25000, DJ&amp;rsquo;ed 5000 people venues, presented/ hosted live venues of 1000 plus and other things.
+The question has to be DO I want another event where I am Involved.
+I need time just to not do anything.
+I need time to relax and recharge.
+A chance just to be a nobody. Someone who contributes by enjoying not just by performing / working somehow.
+Being involved could benefit so many but perhaps I need to benefit my soul and myself one weekend a year&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

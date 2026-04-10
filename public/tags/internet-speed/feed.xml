@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Internet-Speed on smpaget blog</title>
+    <link>http://localhost:1313/blog/tags/internet-speed/</link>
+    <description>Recent content in Internet-Speed on smpaget blog</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 16 Jan 2021 22:24:12 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/blog/tags/internet-speed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Slow internet</title>
+      <link>http://localhost:1313/blog/blog/slow-internet/</link>
+      <pubDate>Sat, 16 Jan 2021 22:24:12 +0000</pubDate>
+       <guid isPermaLink="false">http://www.smpaget.com/blog/slow-internet/</guid> 
+      <description>&lt;p&gt;A week of home schooling, down, and the internet has slowly coped. But it didn’t cope with trying to upload a video tonight. Yet all week the open reach vans have been teasing us outside the windows of this house. Bringing with them the promise of a future land of a better connection &amp;hellip; it’s the hope that kills you.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

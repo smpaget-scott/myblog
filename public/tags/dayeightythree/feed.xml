@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Dayeightythree on smpaget blog</title>
+    <link>http://localhost:1313/blog/tags/dayeightythree/</link>
+    <description>Recent content in Dayeightythree on smpaget blog</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 11 Jun 2021 09:18:29 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/blog/tags/dayeightythree/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tree, DayEightyThree</title>
+      <link>http://localhost:1313/blog/blog/tree-dayeightythree/</link>
+      <pubDate>Fri, 11 Jun 2021 09:18:29 +0000</pubDate>
+       <guid isPermaLink="false">http://www.smpaget.com/blog/?p=3305</guid> 
+      <description>&lt;figure&gt;
+    &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/blog/wp-content/uploads/2021/06/img%5F1498-scaled.jpg&#34;/&gt; 
+&lt;/figure&gt;</description>
+    </item>
+  </channel>
+</rss>

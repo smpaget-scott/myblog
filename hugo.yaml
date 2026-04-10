@@ -1,0 +1,63 @@
+baseURL: http://localhost:1313/blog
+languageCode: en-US
+title: smpaget blog
+theme: PaperMod
+taxonomies:
+  category: categories
+  tag: tags
+params:
+  description: new words, old blog.
+  defaultTheme: auto
+  disableThemeToggle: true
+  showShareButtons: true
+  showReadingTime: true
+  showToc: false
+  showBreadCrumbs: true
+  showCodeCopyButtons: true
+  comments: true
+  hideFooter: true
+  assets:
+    favicon: /favicon.ico
+    disableHLJS: true
+  author:
+    name: admin
+markup:
+  highlight:
+    codeFences: true
+    guessSyntax: true
+    style: monokai
+  goldmark:
+    renderer:
+      unsafe: true
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+outputFormats:
+  RSS:
+    mediaType: application/rss+xml
+    baseName: feed
+menu:
+  main:
+    - name: youthwork
+      url: /categories/youthwork/
+      weight: 1
+    - name: practice
+      url: /categories/work/
+      weight: 2
+    - name: theology
+      url: /categories/theology/
+      weight: 3
+    - name: support life
+      url: /categories/support-life/
+      weight: 4
+    - name: delightful intermissions
+      url: /categories/delightful-intermissions/
+      weight: 5
+    - name: video games
+      url: /categories/video-games/
+      weight: 6
+    - name: "\U0001F50D"
+      url: /search/
+      weight: 7

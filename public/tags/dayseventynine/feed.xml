@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Dayseventynine on smpaget blog</title>
+    <link>http://localhost:1313/blog/tags/dayseventynine/</link>
+    <description>Recent content in Dayseventynine on smpaget blog</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 07 Jun 2021 13:36:20 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/blog/tags/dayseventynine/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tree, day seventy nine</title>
+      <link>http://localhost:1313/blog/blog/tree-day-seventy-nine/</link>
+      <pubDate>Mon, 07 Jun 2021 13:36:20 +0000</pubDate>
+       <guid isPermaLink="false">http://www.smpaget.com/blog/?p=3299</guid> 
+      <description>&lt;figure&gt;
+    &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/blog/wp-content/uploads/2021/06/img%5F1473.jpg&#34;/&gt; 
+&lt;/figure&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Writing on smpaget blog</title>
+    <link>http://localhost:1313/blog/tags/writing/</link>
+    <description>Recent content in Writing on smpaget blog</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 20 Nov 2008 21:35:58 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/blog/tags/writing/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>write or die</title>
+      <link>http://localhost:1313/blog/blog/write-or-die/</link>
+      <pubDate>Thu, 20 Nov 2008 21:35:58 +0000</pubDate>
+       <guid isPermaLink="false">http://www.schelp.co.uk/blog/?p=781</guid> 
+      <description>&lt;p&gt;&lt;a href=&#34;http://localhost:1313/blog/wp-content/uploads/2008/11/write_or_die.jpg&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/blog/wp-content/uploads/2008/11/write_or_die.jpg&#34;&gt;&lt;/a&gt;
+Attention students, and those writing who lack motivation or time or skill but need to get words out. The &lt;a href=&#34;http://lifehacker.com/5081869/write-or-die-makes-sure-you-keep-churning-out-words&#34;&gt;ever wonderful Lifehacker points&lt;/a&gt; to one of the coolest online applications I have seen in the last wee while.
+&lt;a href=&#34;http://lab.drwicked.com/writeordie.html&#34;&gt;Write or Die&lt;/a&gt; is a simple javascript app, which inspires you to write an amount of words in an amount of time. Sounds cool huh. You set it up, for example, I want to write 1000 words in 10 minutes. It says okay then asks you what level of treatment you would like to get.
+&amp;lsquo;Gentle&amp;quot; and you get a text box reminder
+&amp;lsquo;Normal&amp;rsquo; plays a sound file
+&amp;lsquo;kamikazie&amp;rsquo; is a killer though. It starts deleting the text you have written until you start typing again.
+I hate to think what happens if you put it on &amp;rsquo;electric shock&amp;rsquo;
+I figure in this the season of intense essay writing this may become handy for some folks!&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

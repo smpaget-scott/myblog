@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Steve-Winwood on smpaget blog</title>
+    <link>http://localhost:1313/blog/tags/steve-winwood/</link>
+    <description>Recent content in Steve-Winwood on smpaget blog</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 05 Dec 2010 23:14:30 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/blog/tags/steve-winwood/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>advent 5 - Pop music has lost its nerve</title>
+      <link>http://localhost:1313/blog/blog/advent-5-pop-music-has-lost-its-nerve/</link>
+      <pubDate>Sun, 05 Dec 2010 23:14:30 +0000</pubDate>
+       <guid isPermaLink="false">http://www.schelp.co.uk/blog/?p=1665</guid> 
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.ft.com/cms/s/2/1af3b91a-fe61-11df-845b-00144feab49a.html#axzz17HWfwvAH&#34;&gt;interesting wee article in the financial times about the Pop Music by Peter Aspden&lt;/a&gt;. (inspired by the video above.)
+watch the video and have a read of the article. I think it asks some interesting questions.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

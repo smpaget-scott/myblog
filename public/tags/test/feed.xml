@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Test on smpaget blog</title>
+    <link>http://localhost:1313/blog/tags/test/</link>
+    <description>Recent content in Test on smpaget blog</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 27 Sep 2008 16:00:01 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/blog/tags/test/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>test me</title>
+      <link>http://localhost:1313/blog/blog/test-me/</link>
+      <pubDate>Sat, 27 Sep 2008 16:00:01 +0000</pubDate>
+       <guid isPermaLink="false">http://www.schelp.co.uk/blog/?p=673</guid> 
+      <description>&lt;p&gt;&lt;a href=&#34;http://localhost:1313/blog/wp-content/uploads/2008/09/tmsmlogo.jpg&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/blog/wp-content/uploads/2008/09/tmsmlogo.jpg&#34;&gt;&lt;/a&gt;
+confession
+My entire university experience is based on picking courses with no exams within them
+I have passed all so far.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Testing Switchabit</title>
+      <link>http://localhost:1313/blog/blog/testing-switchabit/</link>
+      <pubDate>Tue, 15 Jul 2008 14:10:00 +0000</pubDate>
+       <guid isPermaLink="false">http://www.schelp.co.uk/blog/?p=633</guid> 
+      <description>&lt;p&gt;&lt;a href=&#34;http://bp0.blogger.com/_AQL5BvjF3p8/SHyw03__ixI/AAAAAAAAAZo/nrDvqWotYDU/s1600-h/screen1.JPG&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://bp0.blogger.com/_AQL5BvjF3p8/SHyw03__ixI/AAAAAAAAAZo/nrDvqWotYDU/s400/screen1.JPG&#34;&gt;&lt;/a&gt;&lt;br&gt;
+Hey&lt;br&gt;
+this is a test e-mail checking if theservice from &lt;a href=&#34;http://beta.switchabit.com&#34;&gt;switchabit&lt;/a&gt; is really as good as they claim.&lt;br&gt;
+If so you will see this on my blog - &lt;a href=&#34;http://scottinbrief.blogspot.com&#34;&gt;scottinbrief&lt;/a&gt; and on my facebook account.
+If not this won&amp;rsquo;t appear there. hope that makes sense.
+Technorati Tags: &lt;a href=&#34;http://technorati.com/tag/coolness&#34;&gt;coolness&lt;/a&gt;, &lt;a href=&#34;http://technorati.com/tag/webstuff&#34;&gt;webstuff&lt;/a&gt;, &lt;a href=&#34;http://technorati.com/tag/test&#34;&gt;test&lt;/a&gt;, &lt;a href=&#34;http://technorati.com/tag/switchabit&#34;&gt;switchabit&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>test</title>
+      <link>http://localhost:1313/blog/blog/test/</link>
+      <pubDate>Tue, 13 May 2008 15:29:00 +0000</pubDate>
+       <guid isPermaLink="false">http://www.schelp.co.uk/blog/?p=611</guid> 
+      <description>&lt;p&gt;After a recommendation from Stewart Cutler on his blog &lt;a href=&#34;http://swryv.wordpress.com/&#34;&gt;Scream Without Raising Your Voices&lt;/a&gt;&lt;br&gt;
+I am now testing &lt;a href=&#34;https://addons.mozilla.org/en-US/firefox/addon/1730&#34;&gt;Scibefire&lt;/a&gt; to see how it goes. (hopefully better than Flock which was good but somewhat incomplete as ideas for new browers go) &lt;a href=&#34;https://addons.mozilla.org/en-US/firefox/addon/1730&#34;&gt;Scibefire&lt;/a&gt; is a firefox add on and as such is not a new browser.
+Anyway on with the testing
+technorati tags - &amp;lt;a href=&amp;ldquo;&lt;a href=&#34;http://technorati.com/tag/scribefire%22&#34;&gt;http://technorati.com/tag/scribefire&amp;quot;&lt;/a&gt; rel=&amp;ldquo;tag&amp;rdquo;&amp;gt;scribefire&amp;lt;/a&amp;gt; &amp;amp; &amp;lt;a href=&amp;ldquo;&lt;a href=&#34;http://technorati.com/tag/testing%22&#34;&gt;http://technorati.com/tag/testing&amp;quot;&lt;/a&gt; rel=&amp;ldquo;tag&amp;rdquo;&amp;gt;testing&amp;lt;/a&amp;gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Flock Test</title>
+      <link>http://localhost:1313/blog/blog/flock-test/</link>
+      <pubDate>Wed, 26 Mar 2008 14:46:00 +0000</pubDate>
+       <guid isPermaLink="false">http://www.schelp.co.uk/blog/?p=590</guid> 
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.flock.com/homepage/img/features/feature_main_mac.png&#34; title=&#34;feature_main_mac.png” cannot be displayed, because it contains errors.&#34;&gt;&lt;img alt=&#34;feature_main_mac.png” cannot be displayed, because it contains errors.&#34; loading=&#34;lazy&#34; src=&#34;http://www.flock.com/homepage/img/features/feature_main_mac.png&#34;&gt;&lt;/a&gt;
+I downloaded &lt;a href=&#34;http://www.flock.com&#34;&gt;flock&lt;/a&gt;. it&amp;rsquo;s a new browser with built in tools for web 2.0 applications, or summit
+so just testing the blog editor on it
+laters&lt;br&gt;
+Blogged with the &lt;a href=&#34;http://www.flock.com/blogged-with-flock&#34; title=&#34;Flock Browser&#34;&gt;Flock Browser&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

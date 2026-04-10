@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>New-Template on smpaget blog</title>
+    <link>http://localhost:1313/blog/tags/new-template/</link>
+    <description>Recent content in New-Template on smpaget blog</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 09 Jul 2007 23:36:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/blog/tags/new-template/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>new template</title>
+      <link>http://localhost:1313/blog/blog/new-template-5/</link>
+      <pubDate>Mon, 09 Jul 2007 23:36:00 +0000</pubDate>
+       <guid isPermaLink="false">http://www.schelp.co.uk/blog/?p=539</guid> 
+      <description>&lt;p&gt;still working on it but looking good.&lt;br&gt;
+it is still Designed by &lt;a href=&#34;http://www.andreasviklund.com/&#34;&gt;andreas viklund,&lt;/a&gt; and blogger programmed into xml by other people. As was the previous blog template. Infact this is the new and improved version.
+I like the look of it. hopefully I won&amp;rsquo;t break it!
+whatdoyouthink?&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

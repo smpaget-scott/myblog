@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Skype on smpaget blog</title>
+    <link>http://localhost:1313/blog/tags/skype/</link>
+    <description>Recent content in Skype on smpaget blog</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 28 Feb 2007 22:30:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/blog/tags/skype/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>new stuff</title>
+      <link>http://localhost:1313/blog/blog/new-stuff/</link>
+      <pubDate>Wed, 28 Feb 2007 22:30:00 +0000</pubDate>
+       <guid isPermaLink="false">http://www.schelp.co.uk/blog/?p=513</guid> 
+      <description>&lt;p&gt;I have become a new memeber.&lt;br&gt;
+&lt;a href=&#34;http://afhjaj.bebo.com&#34;&gt;&lt;br&gt;
+BEBO&lt;/a&gt;
+Skype - scott@schelp
+yip i am offically new.
+feel free to ebcome my friend
+thanks&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

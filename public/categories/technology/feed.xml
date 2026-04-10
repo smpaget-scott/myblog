@@ -1,0 +1,921 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Technology on smpaget blog</title>
+    <link>http://localhost:1313/blog/categories/technology/</link>
+    <description>Recent content in Technology on smpaget blog</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 12 May 2023 19:58:14 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/blog/categories/technology/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Working again</title>
+      <link>http://localhost:1313/blog/blog/working-again/</link>
+      <pubDate>Fri, 12 May 2023 19:58:14 +0000</pubDate>
+       <guid isPermaLink="false">http://www.smpaget.com/blog/?p=3376</guid> 
+      <description>&lt;p&gt;This blog stopped working.&lt;br&gt;
+I fixed it.
+If you tried to use this blog for a couple of days, it said, &amp;ldquo;There has been a critical error on this website.&amp;rdquo;&lt;br&gt;
+No clue was given as to what was wrong.
+Step one - log into the FTP of the blog.&lt;br&gt;
+I had to remember how to FTP into my web host. I hadn&amp;rsquo;t done that for a while, so it took some work to make that happen. But eventually, it works again.
+Step two - Disable the plugins&lt;br&gt;
+I disabled the plugins I had running. This instantly solved all the issues.&lt;br&gt;
+I have had back and forth as I tested the plugins to see what was causing the issue. However, I am pleased I had solved the problem on my first try.
+The WordPress dashboard now had a big warning banner as I logged in again. The PHP version I was using was 5.4 and needed to be a recommended 7.2 it told me. This was critical.
+Step three - updating the PHP via the webhost.&lt;br&gt;
+I logged into my web hosting cpanel to see if I could find a way to update PHP. WordPress was sure I should back up everything before I did this. However, it was effortless to update PHP to 8.1, almost temptingly simple and easy. I had already been psychologically prepared to lose everything, so I risked it. Perhaps a new start would not be that bad for this blogging thing.
+I refreshed the page.
+It all worked as expected.
+I was slightly disappointed. Anyway, all updated now, so that&amp;rsquo;s good.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Small markers #SmallMarkers</title>
+      <link>http://localhost:1313/blog/blog/small-markers-smallmarkers/</link>
+      <pubDate>Thu, 11 Feb 2021 11:43:20 +0000</pubDate>
+       <guid isPermaLink="false">http://www.smpaget.com/blog/?p=3220</guid> 
+      <description>&lt;p&gt;We have heating. And flushing toilets. This is a good thing. Marking the small milestones that we pass.
+&lt;figure&gt;
+    &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/blog/wp-content/uploads/2021/02/img%5F0746-2-scaled.jpg&#34;/&gt; 
+&lt;/figure&gt;
+&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Sabbath Mode #SabbathMode</title>
+      <link>http://localhost:1313/blog/blog/sabbath-mode-sabbathmode/</link>
+      <pubDate>Wed, 27 Jan 2021 21:22:35 +0000</pubDate>
+       <guid isPermaLink="false">http://www.smpaget.com/blog/?p=3217</guid> 
+      <description>&lt;p&gt;The new oven is shiny and beautiful. It even plays a tune when you turn it on and off. My interest was piqued when I saw in the user manual something called &amp;ldquo;Sabbath mode&amp;rdquo;.
+&lt;figure&gt;
+    &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/blog/wp-content/uploads/2021/01/IMG%5F0822.jpg&#34;/&gt; 
+&lt;/figure&gt;
+
+I have to admire their understanding of the sabbath as very strict, and also their attempt to relate that understanding to the outworking of a particular mode of an oven. As practical religious understanding goes, this oven is certainly interfaith.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Slow internet</title>
+      <link>http://localhost:1313/blog/blog/slow-internet/</link>
+      <pubDate>Sat, 16 Jan 2021 22:24:12 +0000</pubDate>
+       <guid isPermaLink="false">http://www.smpaget.com/blog/slow-internet/</guid> 
+      <description>&lt;p&gt;A week of home schooling, down, and the internet has slowly coped. But it didn’t cope with trying to upload a video tonight. Yet all week the open reach vans have been teasing us outside the windows of this house. Bringing with them the promise of a future land of a better connection &amp;hellip; it’s the hope that kills you.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The future is shorter.</title>
+      <link>http://localhost:1313/blog/blog/the-future-is-shorter/</link>
+      <pubDate>Fri, 15 Jan 2021 22:44:39 +0000</pubDate>
+       <guid isPermaLink="false">http://www.smpaget.com/blog/the-future-is-shorter/</guid> 
+      <description>&lt;p&gt;The years are shorter. Atomic clocks are measuring the world speeding up per year. The solution is a leap second, this has been added to the world positively (as the world was going slowly.) but because th world is going fast, the leap second would be applied negatively. Some a year in the future would have a minute of 59seconds.
+Read more here : &lt;a href=&#34;https://www.timeanddate.com/time/earth-faster-rotation.html&#34;&gt;https://www.timeanddate.com/time/earth-faster-rotation.html&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Mechanical Pencils</title>
+      <link>http://localhost:1313/blog/blog/mechanical-pencils/</link>
+      <pubDate>Thu, 03 Oct 2019 20:03:19 +0000</pubDate>
+       <guid isPermaLink="false">http://www.smpaget.com/blog/?p=3145</guid> 
+      <description>&lt;p&gt;I like pencils, mechanical pencils specifically I don&amp;rsquo;t know why. I guess bcause they are refillable. I guess there is also something about the permanence associated with the pencil, that the mark is not forever, it can be changed. Anyway I have a few and below is a brief record of the mechanical pencils I have.
+&lt;strong&gt;Mechanical Pencils&lt;/strong&gt;
+_Name__Lead size__Colour__url_Alvin Draft-Matic  .5Black&lt;a href=&#34;https://www.alvindrafting.com/writing-tools&#34;&gt;https://www.alvindrafting.com/writing-tools&lt;/a&gt;Cross Classic&lt;br&gt;
+Century .7Silver (Chrome)&lt;a href=&#34;https://www.cross.com/cr_en_gb/350305&#34;&gt;https://www.cross.com/cr_en_gb/350305&lt;/a&gt;Caran D’ache&lt;br&gt;
+ERIDOR chevron.7Silver (Palladium)&lt;a href=&#34;https://www.carandache.com/gb/en/mechanical-pencil/palladium-coated-ecridor-chevron-mechanical-pencil-p-10136.htm&#34;&gt;https://www.carandache.com/gb/en/mechanical-pencil/palladium-coated-ecridor-chevron-mechanical-pencil-p-10136.htm&lt;/a&gt; Faber-Castell Grip 1345 .5Black&lt;a href=&#34;https://www.faber-castell.com/products/Grip1345mechanicalpencil05mmblackmetallic/134599&#34;&gt;https://www.faber-castell.com/products/Grip1345mechanicalpencil05mmblackmetallic/134599&lt;/a&gt;Kaweco Aluminium&lt;br&gt;
+Special.5Black&lt;a href=&#34;https://choosingkeeping.com/products/aluminium_black_kaweco_special_07mm_long_mechanical_pencil&#34;&gt;https://choosingkeeping.com/products/aluminium_black_kaweco_special_07mm_long_mechanical_pencil&lt;/a&gt;OHTO Double&lt;br&gt;
+Knock Horizon .5Orange&lt;a href=&#34;https://www.cultpens.com/i/q/OH28079/ohto-horizon-mechanical-pencil&#34;&gt;https://www.cultpens.com/i/q/OH28079/ohto-horizon-mechanical-pencil&lt;/a&gt;Pentel Graph Gear&lt;br&gt;
+1000 .5Silver&lt;a href=&#34;https://www.pentel.com/products/graph-gear-1000-mechanical-drafting-pencil&#34;&gt;https://www.pentel.com/products/graph-gear-1000-mechanical-drafting-pencil&lt;/a&gt;Pentel Sharp Kerry .5Black&lt;a href=&#34;https://www.pentel.com/products/sharp-kerry-mechanical-pencil&#34;&gt;https://www.pentel.com/products/sharp-kerry-mechanical-pencil&lt;/a&gt;Pentel P205.5Black&lt;a href=&#34;https://pentel.ca/product/p205&#34;&gt;https://pentel.ca/product/p205&lt;/a&gt;rOting 600 .5Black&lt;a href=&#34;https://www.rotring.com/us/mechanical-pencils/290-rotring-600-mechanical-pencil-3501178523096.html&#34;&gt;https://www.rotring.com/us/mechanical-pencils/290-rotring-600-mechanical-pencil-3501178523096.html&lt;/a&gt;rOting Tikky.5Black&lt;a href=&#34;https://www.rotring.com/us/mechanical-pencils/309-tikky-mechanical-pencil-3501170770498.html&#34;&gt;https://www.rotring.com/us/mechanical-pencils/309-tikky-mechanical-pencil-3501170770498.html&lt;/a&gt; rOting Tikky II  .5Burgundy&lt;a href=&#34;https://www.rotring.com/us/mechanical-pencils/309-tikky-mechanical-pencil-3501170770498.html&#34;&gt;https://www.rotring.com/us/mechanical-pencils/309-tikky-mechanical-pencil-3501170770498.html&lt;/a&gt; Sakura SumoGrip .5 Clear&lt;a href=&#34;https://sakuraofamerica.com/brands/sakura-electric-eraser/pencil-mechanical/products/371&#34;&gt;https://sakuraofamerica.com/brands/sakura-electric-eraser/pencil-mechanical/products/371&lt;/a&gt;Uni-ball Kuru Toga&lt;br&gt;
+(roulette) .5  Grey&lt;a href=&#34;https://uniballco.com/uni-products/kuru-toga/&#34;&gt;https://uniballco.com/uni-products/kuru-toga/&lt;/a&gt;
+&lt;em&gt;(the difference between rOting Tikky and Tikky II is explained here &lt;a href=&#34;https://paperndigital.blogspot.com/2018/01/rotring-tikky.html&#34;&gt;https://paperndigital.blogspot.com/2018/01/rotring-tikky.html&lt;/a&gt;)&lt;/em&gt;
+&lt;strong&gt;Lead Holders&lt;/strong&gt;
+_Name__Lead size__Colour__url_KOH-I-NOOR 59002mm black &lt;a href=&#34;https://catalogue.koh-i-noor.cz/en/mechanical-clutch-leadholder-2-0-5900-black-27000-g27000.html&#34;&gt;https://catalogue.koh-i-noor.cz/en/mechanical-clutch-leadholder-2-0-5900-black-27000-g27000.html&lt;/a&gt;Kaweco Aluminium Special2mmblack&lt;a href=&#34;https://choosingkeeping.com/products/aluminium_black_kaweco_special_07mm_long_mechanical_pencil&#34;&gt;https://choosingkeeping.com/products/aluminium_black_kaweco_special_07mm_long_mechanical_pencil&lt;/a&gt;
+Here is a small video explaining the difference between Mechanical Pencils and Lead Holders
+&lt;a href=&#34;https://www.youtube.com/watch?time&#34;&gt;https://www.youtube.com/watch?time&lt;/a&gt;_continue=1&amp;amp;v=_L5rxYw_ISg&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Sim card searching, (or roaming in the gloaming).</title>
+      <link>http://localhost:1313/blog/blog/sim-card-searching-or-roaming-in-the-gloaming/</link>
+      <pubDate>Fri, 19 Apr 2019 20:28:58 +0000</pubDate>
+       <guid isPermaLink="false">http://www.smpaget.com/blog/?p=3130</guid> 
+      <description>&lt;p&gt;Unexpectedly, my mobile phone service provider has written to me, telling me, I have a short time to find a new deal or they would just move me. By moving me there would increase you costs form £9 to £14. This notification came as a shock. I was not expecting it. My current deal is £9 per month for unlimited phone calls, unlimited texts and 4Gb of mobile data. I like the unlimited feature of that deal and as it was a special offer price with a major network, I was pleased with the price. My current deal doesn’t allow tethering of my iPad to my phone, and on the rare occasions I cannot use Wi-Fi, I thought tethering would be nice to have.
+So armed with the price point, the details of the deal I already had and the idea of adding a tethering allowance, I set out to look for a new deal. I asked on Facebook and Twitter for recommendations for new deals. In the course of looking at what was recommended, a couple of things become important.
+&lt;strong&gt;1- The importance of Wi-Fi calling.&lt;/strong&gt;
+Wi-Fi calling is the ability of your phone to receive calls over Wi-Fi when the Service strength is non existent. I currently live in a house dating back to 1820’s. the construction method seems to be walls can be very thick in order to provide insulation. The walls are 2-3ft thick. The service level within the house is terrible. As such the ability for the phone to make and receive calls using the Wi-Fi in the property is key towards the phone being useable.
+A wide variety of mobile phone service providers do not include this with their Sim only offerings.
+&lt;strong&gt;2- The importance of being international.&lt;/strong&gt;
+I was thinking will it work the last three places I have been, and the next three places I am likely to go internationally. The last three places I have visited were Australia, Turkey and Cyprus. The next likely destinations are the US, Finland and Ethiopia. (I didn’t think I travelled that often!)
+Cyprus and Finland are in the EU, and as such UK phone service providers have to provide a roaming service that covers the EU, under the rules of EU. Ethiopia is a nightmare given its mobile phone infrastructure so it is unreasonable to expect anything there. Australia, the US and Turkey though are interesting.  The mobile service provider Three have an arrangement within the US and Australia to ensure the deal you have in the UK, is the same deal you use in the US and Australia. (&lt;a href=&#34;http://www.three.co.uk/Support/Roaming_and_international/Roaming_Abroad/Destinations&#34;&gt;Three&amp;rsquo;s roaming destinations are specified here&lt;/a&gt;). Some other companies offer a similar usage deal but charge an additional fee, (a previous network cost me £5 per day in order to use my UK allowances while visiting the US). Turkey is not a member of the EU, so prices vary markedly. I mostly used my phone on the hotel Wi-Fi, (hello Wi-Fi Calling), but deals on Turkey mobile phone service are not easily obtainable and usually it is a default international call rate.
+It is quite amazing how many of the mobile phone service providers do not offer anything once you leave the EU with their Sim only offerings.
+&lt;strong&gt;3- Tethering is included mostly&lt;/strong&gt;
+Mostly tethering is included widely, who knew?&lt;br&gt;
+Technology, am I right?
+&lt;strong&gt;So what will I do now?&lt;/strong&gt;
+Look for a Sim only deal as before but now the criteria is clearer we can look again in depth.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>A small confession.</title>
+      <link>http://localhost:1313/blog/blog/a-small-confession/</link>
+      <pubDate>Thu, 23 Feb 2017 10:21:37 +0000</pubDate>
+       <guid isPermaLink="false">http://schelp.co.uk/?p=2978</guid> 
+      <description>&lt;p&gt;&lt;a href=&#34;http://localhost:1313/blog/wp-content/uploads/2017/02/outlook-ios.jpg&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/blog/wp-content/uploads/2017/02/outlook-ios-150x150.jpg&#34;&gt;&lt;/a&gt; I have been using computers for a long time. The &lt;a href=&#34;https://en.wikipedia.org/wiki/BBC_Micro&#34;&gt;BBC B&lt;/a&gt; on wheels at primary school, the &lt;a href=&#34;https://en.wikipedia.org/wiki/ZX_Spectrum&#34;&gt;Sinclair ZX Spectrum&lt;/a&gt; at home, the first rumblings of &lt;a href=&#34;https://en.wikipedia.org/wiki/History_of_personal_computers#PC_clones_dominate&#34;&gt;PC&amp;rsquo;s&lt;/a&gt;. Being introduced to the an early &lt;a href=&#34;https://en.wikipedia.org/wiki/Bulletin_board_system&#34;&gt;Bulletin Board System&lt;/a&gt; form of the internet in 1991 and thinking, &amp;ldquo;that&amp;rsquo;s rubbish.&amp;rdquo; Through out all that followed, my start on &lt;a href=&#34;http://www.bbcbasic.co.uk/bbcbasic.html&#34;&gt;BBC Basic&lt;/a&gt;, through &lt;a href=&#34;https://en.wikipedia.org/wiki/History_of_Microsoft_Windows&#34;&gt;Microsoft Windows, 95, 98, 98se, Xp,&lt;/a&gt; &lt;a href=&#34;https://www.howtogeek.com/214571/how-to-dual-boot-linux-on-your-pc/&#34;&gt;dual booting with linux,&lt;/a&gt; &lt;a href=&#34;http://uk.pcmag.com/desktop-reviews/42425/guide/how-to-build-your-own-pc&#34;&gt;building my own tower computer&lt;/a&gt;, &lt;a href=&#34;https://www.apple.com/uk/support/macbasics/pctomac/&#34;&gt;moving to apple products&lt;/a&gt;, to my current &lt;a href=&#34;http://www.cultofmac.com/403579/set-shiny-new-apple-gear/&#34;&gt;all apple set up&lt;/a&gt;, there is one thing I have never done.
+I have never chosen to use &lt;a href=&#34;https://www.microsoft.com/en-gb/outlook-com/&#34;&gt;Microsoft Outlook&lt;/a&gt; as my default email client. It always seemed a bit weird, a bit like trying to cram Word into an email programme. Things change. Microsoft recently has become the company which is experimenting more than Google and Apple. Both Apple and Google became massive and overtook Microsoft was left as a big fish but not the biggest fish anymore. Perhaps it is a throw lots of stuff at the wall to see what sticks approach, in a desperate attempt to stay relevant. The phone adventure didn&amp;rsquo;t take off enough to support a vibrant app eco system. Given this failure, and the amount of Apple phones in the wild, both Google and Microsoft realised they needed to make apps that allowed people to use their products on Apple&amp;rsquo;s mobile devices, Google use their cloud based apps to provide a back end. Microsoft used their cloud service as a base to design a web app version of Word, Powerpoint and Excel that could live on mobile devices. They also released Outlook. This is a good decision as for lots of people this works as it pragmatically ties in with work tech decisions.
+&lt;a href=&#34;http://localhost:1313/blog/wp-content/uploads/2017/02/r_340x340.png&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/blog/wp-content/uploads/2017/02/r_340x340-150x150.png&#34;&gt;&lt;/a&gt; Well, now it is confession time. I now use &lt;a href=&#34;https://itunes.apple.com/gb/app/microsoft-outlook-email-calendar/id951937596?mt=8&#34;&gt;Microsoft Outlook&lt;/a&gt; as the default e-mail client on my phone, even though I don&amp;rsquo;t need to for work.
+&lt;strong&gt;Why?&lt;/strong&gt; I hear you ask. &lt;a href=&#34;http://www.theverge.com/2015/5/28/8673523/best-iphone-email-app-outlook-gmail-apple-mail-ios&#34;&gt;Actually it is very good&lt;/a&gt;. I have been looking at email apps on the iPhone for a while as I am not happy with the performance of the iOS default mail app, so I wanted a replacement. While I have used many apps for the job, but none have really hit the mark, and Outlook is doing a great job currently. I don&amp;rsquo;t know if it will remain my default app longterm but it is decent so far.
+The success Outlook has had with me is build on 2 main factors. First is the way it divides your email into two separate mail boxes. Focused and Other. Focused is where it takes the important mail. It guesses, (well i assume there is a complex algorithm and artificial intelligence at work here), which of the e-mails you review are important, and which aren&amp;rsquo;t. in the past month it has only got 1 email wrong. I run 4 email addresses through this outlook app. The app works well across 365 emails, other Imap accounts and gmail accounts, judging from the different accounts what goes where. Yesterday I had no emails in my focused box, all 63 emails I got yesterday went into the other account, and rightly so. The app loads into the focused mailbox, a decision that allows you to focus on the work you should be doing. When it loads in email it will tell you if email goes into the other account so you can check them, but it is built to let you ignore what can be ignored.
+The second factor is the integration with cloud storage accounts. I use Dropbox and OneDrive for various things. (Despite using Apple products I do not trust Apples iCloud services with anything important.) The ability to save a attachment from my phone to my Dropbox account within the app is great. The old process using Apples universal &lt;a href=&#34;https://discussions.apple.com/thread/7146571?start=0&amp;amp;tstart=0&#34;&gt;&amp;ldquo;box with arrow&amp;rdquo;&lt;/a&gt; wasn&amp;rsquo;t a bad experience, but to have this streamlined is handy.
+If I had to make a criticism the diary does support syncing with Apple&amp;rsquo;s calendar app nor with iCloud drive. This seems a bit of an oversight when the app does sync so well with some other apps. And as other apps have proved calendar sync is a thing that can be done well (including the old sunrise app that Microsoft bought in order to improve outlooks calendar functions). the other isssue is that this is Microsoft, the historic enemy of Apple, buying success. they bought the metal handling from &lt;a href=&#34;https://techcrunch.com/2014/12/01/microsoft-buys-email-app-acompli-for-200m-will-still-support-gmail-and-other-competitors/&#34;&gt;accompli&lt;/a&gt;, the calendar from &lt;a href=&#34;http://blog.sunrise.am&#34;&gt;sunrise&lt;/a&gt;. The Outlook app is build on the work of another company that they bought. Internally it feels a bit like disliking a sports team who buy all the best players, but then in fantasy sports doing the exact same. There&amp;rsquo;s a dissonance about it.
+Given all that it is a solid 8/10 for this app, it is not perfect but it is very good at what it does do.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Thinking about mobile phones - a small test of android.</title>
+      <link>http://localhost:1313/blog/blog/thinking-about-mobile-phones-a-small-test-of-android/</link>
+      <pubDate>Mon, 12 Sep 2016 22:11:58 +0000</pubDate>
+       <guid isPermaLink="false">http://schelp.co.uk/?p=2921</guid> 
+      <description>&lt;p&gt;&lt;a href=&#34;http://localhost:1313/blog/wp-content/uploads/2016/09/ios-vs-android.png&#34;&gt;&lt;img alt=&#34;ios-vs-android&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/blog/wp-content/uploads/2016/09/ios-vs-android-300x189.png&#34;&gt;&lt;/a&gt; My phone is dying, I have used iPhones since the iPhone &lt;a href=&#34;http://www.gsmarena.com/apple_iphone_3gs-2826.php&#34;&gt;3gs&lt;/a&gt;, I loved the &lt;a href=&#34;http://www.gsmarena.com/apple_iphone_4s-4212.php&#34;&gt;4s&lt;/a&gt; and I still use the &lt;a href=&#34;http://www.gsmarena.com/apple_iphone_5s-5685.php&#34;&gt;5s&lt;/a&gt;, (yes my phone is 3 years old). I had wanted to wait to see if the iPhone7 was the stunning leap forward is design and shape and deliciousness for mobile phone design. Perhaps it would be slither of glass resplendent with all the advanced tech for futuristic pop culture. Alas we got an iPhone6s-s, a refinement and incremental change on the 6s which was a refinement and incremental change on the 6. Given this I wonder about changing off apple for a year. My wife is very happy on android and her phones are good quality, shiny and attractive. So borrowed one to see how it compares.
+&lt;strong&gt;Apple or Android.&lt;/strong&gt;
+It should be noted Apple aren’t really that innovative. (&lt;a href=&#34;http://www.cultofmac.com/95614/how-steve-jobs-invented-the-computer-mouse-by-stealing-it-from-xerox/&#34;&gt;OK, the invention of the mouse was pretty revolutionary if they did invent it!&lt;/a&gt;), but since then they are not noted for inventions. The iPad was &lt;a href=&#34;http://www.mactrast.com/2013/05/why-steve-jobs-decided-to-create-the-ipad/&#34;&gt;inspired by Steve Jobs watching people use a stylus on Microsoft tablets at a social event&lt;/a&gt;; Apples iPhone was definitely not the first smart phone; the watch and TV were both late arrivals to the smart watch and TV box market respectively. What Apple does have is control of the devices manufacture, software and cloud backend. This means that Apple can ensure that all software works on all forms of its hardware, also that all apps will run to a certain standard on all devices. For Android, Google controls the software and the cloud backend, but manufacture of the devices is in the main not controlled by them. This can be advantageous for google, allowing them to concentrate on their strengths, but it can also lead to a second layer of software engineering by companies such as Samsung, who include wrapper software to go between the Android software and the Samsung device. &lt;a href=&#34;http://www.howtogeek.com/129273/why-your-android-phone-isnt-getting-operating-system-updates-and-what-you-can-do-about-it/&#34;&gt;The effect of this is that android updates may need adjusted by the Hardware company for your particular phone before you can update&lt;/a&gt;.
+&lt;strong&gt;Why not consider microsoft?&lt;/strong&gt;
+Microsoft devices are good generally, with Apple and Google both taking inspiration (while being legally different) by Microsoft design. For this test I do not have a Microsoft device to test so I cannot include it.
+&lt;strong&gt;The test subjects,&lt;/strong&gt; &lt;a href=&#34;http://www.gsmarena.com/samsung_i9500_galaxy_s4-5125.php&#34;&gt;Samsung galaxy IV&lt;/a&gt; running &lt;a href=&#34;https://en.wikipedia.org/wiki/Android_Lollipop&#34;&gt;android 5.0.1&lt;/a&gt; &lt;a href=&#34;http://www.gsmarena.com/apple_iphone_5s-5685.php&#34;&gt;iPhone 5s&lt;/a&gt; running &lt;a href=&#34;https://support.apple.com/kb/dl1842?locale=en_US&#34;&gt;iOS 9.3.5&lt;/a&gt;
+the reason for picking these older phones are
+1- that iPhone is what I currently use.
+2- that Samsung is what I have available to test and they are both about 3 years old.
+3- all the hardware and software should work at the best it has ever been, right? (after three years testing, development and refinement.)
+&lt;strong&gt;Initial impressions&lt;/strong&gt;
+The Samsung is big. much bigger that the 4.7inch iPhone, it is also lighter, much lighter, the iPhone feels like it has some heft to it. The iPhone feels better out of the case, while the Samsung feels plastic-y out of the case. When in the case they both feel like cases. The Samsung has a bright screen, due to a water incident a year or so ago the iPhone screen is permanently darkened.
+&lt;strong&gt;Test task one - perform a factory reset.&lt;/strong&gt;
+iPhone - plug it in to computer, iTunes launches. On the iTunes page for your iPhone, you have the option to restore iPhone, click the button and a couple of confirmation boxes and it resets the phone.
+Google doesn’t have the same software interface for the phone, so reseting the phone was trickier. I looked under settings in the phone menu with no success. A google search revealed the reset is achieved by booting into the equivalent of safe mode on your phone,
+(Turn off phone. Press select button, volume up and power button at the same time and hold until after the Samsung logo appears, then let go of the power button while holding the other two.)
+The problem with this is the screen is massive but the text on the screen in this new menu is tiny. I struggled to read what the options were. In this mode you use the volume up/down buttons to navigate and the power button to confirm. As a user experience, it is hostile and it clearly places the android phone as a computer in your pocket.  After performing this reset I then had to update the Android software on the phone. While iTunes handles this as one process with the factory reset if you wish, the android has a separate download and then update time. I took a good 30min to download and install all the updates on the phone.
+&lt;strong&gt;task two - add apps to the phone&lt;/strong&gt;
+Both iOS and Android start you with a number of default apps on the phone with varying degrees of usefulness. iOS has considerably less of these default apps than Android. Both software platforms have shops where you can buy or download new apps. You do this by making an account, storing credit card details and a password, and then downloading apps. Both have search facilities and google play store search is better than the apple store search.
+On the google play store I downloaded some of the key apps I use on iOS currently:
+&lt;a href=&#34;https://lastpass.com&#34;&gt;Lastpass&lt;/a&gt; - password vault
+&lt;a href=&#34;https://runkeeper.com&#34;&gt;Runkeeper&lt;/a&gt; - exercise tracking
+&lt;a href=&#34;https://www.spotify.com/uk/&#34;&gt;Spotify&lt;/a&gt; - music streaming
+&lt;a href=&#34;https://play.google.com/store/apps/details?id=com.bambuna.podcastaddict&amp;amp;hl=en_GB&#34;&gt;Podcast addict&lt;/a&gt;- podcast downloading and management
+&lt;a href=&#34;http://signuptoday.hootsuite.com/pro-gbr-eng-br-pplans/?&amp;amp;mkwid=sn0sf8csz_dc&amp;amp;pcrid=109963865284&amp;amp;pkw=hootsuite&amp;amp;pmt=e&amp;amp;Last_Associated_Campaign__c=701a00000027T5V&amp;amp;utm_source=google&amp;amp;utm_medium=cpc&amp;amp;utm_campaign=hootsuite_pro_google_search_gbr_english_branded_alpha&amp;amp;gclid=CJm-j4Xqis8CFcG7GwodH9MLdQ&#34;&gt;Hootsuite&lt;/a&gt; - twitter client
+&lt;a href=&#34;https://www.dropbox.com/&#34;&gt;Dropbox&lt;/a&gt; - document cloud storage
+&lt;a href=&#34;https://blogs.dropbox.com/dropbox/2016/08/paper-public-beta-and-mobile-apps/&#34;&gt;Dropbox paper&lt;/a&gt; - note taking app (in beta, so trialing to see if it will take the place of Evernote long term.)
+&lt;a href=&#34;https://evernote.com/?var=1&#34;&gt;Evernote&lt;/a&gt; - notetaking app
+On iOS the apps all run, but last pass does not offer to fill in the passwords within other apps login screens. You have to cut and paste which isn’t a very joined up experience. On Android the experience was generally good, with the exception of the Dropbox app, which stopped working and crashed on opening over a 24hr period, until I ran a software update. Secondly Spotify refuses to accept my password of let me log in (seven days now). I struggle to remember when a big high profile app that I use regularly behaved like this iOS over the last 6-7 years for me.
+&lt;strong&gt;task three - add music to the phone&lt;/strong&gt;
+The iPhone plugs into your computer directly. As I have iTunes installed, it launches asking what you want to do with the phone, using tick boxes you select which music you wish to load and click the sync button, loading music is through the iTunes user interface. This requires a wire, a computer and your phone. With the advent of streaming services (including the purchase of the beats streaming service a year or two ago, Apple has introduced Apple Music, a subscription service where for a £9.99 monthly fee you can stream all the music you could want over the internet, including every piece of music in your iTunes library..
+Googles preferred method of putting music on your phone is to upload all your music to their Google music service in the cloud. Then stream the songs from the cloud as you want or need them. This is great if you live with a reliable fast internet connection. (I don’t so this option is less great for me). The free layer of Google Play Music gives you streaming and 50000 song uploads, but song downloads for offline playback are only available as part of the £9.99 monthly membership.
+&lt;a href=&#34;http://localhost:1313/blog/wp-content/uploads/2016/09/Screen-Shot-2016-09-09-at-15.54.44.png&#34;&gt;&lt;img alt=&#34;screen-shot-2016-09-09-at-15-54-44&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/blog/wp-content/uploads/2016/09/Screen-Shot-2016-09-09-at-15.54.44-300x158.png&#34;&gt;&lt;/a&gt;
+So how do you get the music onto the android phone using a cable rather than the cloud. Google guides you to download a programme called “Android File Transfer”. On opening this I was slightly shocked at how paired back it was. I dislike iTunes, but its graphical user interface is a graphical user interface. The AFT programme is a barebones file transfer manager. It felt like a computer thing which required a repertoire of computer knowledge to use. (I didn’t find a How to guide, and the lack of a empty music folder into which to insert files was disconcerting.) Having used file transfer programmes before I had an idea what i was doing and managed to get the stuff on the phone. But is was not intuitive to navigate a hierarchy of files to find where the files are and then create new folders within the phone or SD Card to place these files in. (and how do you handle playlists?)
+&lt;strong&gt;Task four - general life.&lt;/strong&gt;
+in general life the battery lasts about the same for both of phones, the back button on the android phone is kinda handy and the screen is big and shiny. The iPhone does well and survives most things I put it through. In comparison the android feels slightly slower and less responsive than the iPhone. The only major black mark against the android was its refusal to connect with the Bluetooth in the car. this is unfortunate as I use this Bluetooth connection to listen to music and podcasts when I drive. The phone reception is significantly better on the iPhone. Phone call sound is clear and the microphone seems to be of comparable quality.
+&lt;strong&gt;Conclusion.&lt;/strong&gt;
+I could live with android and be mostly happy. I am sure the Bluetooth issue and the Spotify issue would resolve themselves over time. These problems are problems I have never had with iOS.  The difference between Google as a cloud services company and Apple as a hardware company comes through in this small test, Google want everything in the cloud, (although, I object to the idea of upload all your music to the cloud and we will charge you to download it to your phone as I have already bought it once), as Google have a clear advantage in search and cloud services. Searching the Google Play Store gets you the right result. Uploading your documents to google drive is smooth, with a nice 15gb to fill, and the reports of google photos are very good.
+I am reasonably clears I am not buying a new phone for its cloud services. This is perhaps because I am too aware of Apple, as a company’s failings in this area. I don’t trust the cloud of one company for too much, I tend not to use googles cloud services, I don’t use the Facebook app or any of its associated suite of apps as I am wary of using too much from one company especially when that companies main income sources is analysing my data to provide me with tailored advertising. I use different companies for specific cloud based services like, Lastpass for a password vault, Backblaze for hard drive back ups, Evernote for notes, Dropbox for files and sharing.Perhaps it is also a result of living in a borderline rural life where the idea of cloud computing is laughable when it rains.
+So to buy the samsung s7 edge would cost an extra £475. the iPhone 7, an extra £600. At the moment the iPhone has clear advantages for me but £125 is a significant figure.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>a picture of the view from my front door (last night)</title>
+      <link>http://localhost:1313/blog/blog/a-picture-of-the-view-from-my-front-door-last-night/</link>
+      <pubDate>Sat, 17 Oct 2015 18:20:56 +0000</pubDate>
+       <guid isPermaLink="false">http://schelp.co.uk/?p=2854</guid> 
+      <description>&lt;p&gt;&lt;a href=&#34;http://localhost:1313/blog/wp-content/uploads/2015/10/IMG_3629.jpg&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/blog/wp-content/uploads/2015/10/IMG_3629-1024x768.jpg&#34;&gt;&lt;/a&gt;
+a picture of the view from my front door (last night)&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>I don&#39;t understand wheels #needhelp #brokenwheels #bicycle</title>
+      <link>http://localhost:1313/blog/blog/i-dont-understand-wheels-needhelp-brokenwheels-bicycle/</link>
+      <pubDate>Wed, 26 Aug 2015 20:59:36 +0000</pubDate>
+       <guid isPermaLink="false">http://schelp.co.uk/?p=2807</guid> 
+      <description>&lt;p&gt;&lt;a href=&#34;http://localhost:1313/blog/wp-content/uploads/2015/08/belleville-rendez-vous.jpg&#34;&gt;&lt;img alt=&#34;belleville-rendez-vous&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/blog/wp-content/uploads/2015/08/belleville-rendez-vous-300x200.jpg&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Background
+I have been cycling recently. It was hard to fit in during the school holidays but I have been back to it over the previous few days, setting my fastest time ever for the Lanark route, (fastest measured in minutes per km). It has been good to get out and I have been concerted in my plan to ride every weekday. I want to cycle as I enjoy it not particularly on the hills, but hey i over took another cyclist while going uphill for the first time on Monday. Also socially several people I know cycle as a past time. My neighbour David can do one of the 22km routes I do around 14 minutes faster than I can flat-out out, my friend Rich is also around that time frame from the times I see on social media. If I want to ride with these guys then I need to speed up and train more. (also the benefits of losing weight are not lost on me&amp;hellip;)
+The problem
+This morning I dressed, got the children ready for school and went to do some basic maintenance on my bicycle chain (cleaning with the new chain cleaner I got last night), to my horror three of the spokes in the rear wheel had snapped, must have happened on the ride yesterday. I am not risking riding in the rain with a compromised back tyre.
+The help
+The wheels are the standard wheels on the bike when i bought it 3 years ago.
+The bike is the standard bike I bought off the shelf 3 years ago.
+I was thinking of upgrading some components from solid to decent.
+&lt;strong&gt;So what wheels should I buy?&lt;/strong&gt;
+not a large budget but enough to cover new wheels and a set of winter road tyres (around £200 hopefully).
+Why are some wheel sets different sizes? - what is the advantage? (currently both of mine are the same size)
+What is a decent winter road tyre for Scotland?&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Email Spam</title>
+      <link>http://localhost:1313/blog/blog/email-spam/</link>
+      <pubDate>Wed, 18 Feb 2015 12:13:27 +0000</pubDate>
+       <guid isPermaLink="false">http://schelp.co.uk/?p=2669</guid> 
+      <description>&lt;p&gt;I have been receiving a lot of email spam recently. I wonder if my filters have been changed at web domains? The thing I have noticed about this spam is it almost convincing.
+&lt;a href=&#34;http://localhost:1313/blog/wp-content/uploads/2015/02/Screen-Shot-2015-02-18-at-11.54.50.png&#34;&gt;&lt;img alt=&#34;Screen Shot 2015-02-18 at 11.54.50&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/blog/wp-content/uploads/2015/02/Screen-Shot-2015-02-18-at-11.54.50-300x134.png&#34;&gt;&lt;/a&gt;
+This Fedex email look very convincing. The old chestnut of don&amp;rsquo;t open an attachment on a email your not expecting kept me from opening it but i did have an urge to open it. &lt;a href=&#34;http://blog.mxlab.eu/2015/02/17/fake-email-postal-notification-service-from-fedex-contains-trojan-upatre-fh/&#34;&gt;MXlab warning on this email&lt;/a&gt; &lt;a href=&#34;http://localhost:1313/blog/wp-content/uploads/2015/02/Screen-Shot-2015-02-18-at-11.55.07.png&#34;&gt;&lt;img alt=&#34;Screen Shot 2015-02-18 at 11.55.07&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/blog/wp-content/uploads/2015/02/Screen-Shot-2015-02-18-at-11.55.07-300x85.png&#34;&gt;&lt;/a&gt;
+the lloydstsb email was slightly less convincing as TSb has been spun off into its own bank, I was pretty sure that the email as fake, but still I did wonder. &lt;a href=&#34;http://sanesecurity.blogspot.co.uk/2015/02/you-have-received-new-debit-payments.html&#34;&gt;the sane security blog warning on this email&lt;/a&gt;
+These professional looking emails made me consider why they were so close to being accurate and why others were so bad. I remembered this&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Listening differently</title>
+      <link>http://localhost:1313/blog/blog/listening-differently/</link>
+      <pubDate>Sun, 01 Feb 2015 00:12:30 +0000</pubDate>
+       <guid isPermaLink="false">http://schelp.co.uk/?p=2640</guid> 
+      <description>&lt;p&gt;&lt;a href=&#34;http://localhost:1313/blog/wp-content/uploads/2015/01/NadelAufPlatte.jpg&#34;&gt;&lt;img alt=&#34;NadelAufPlatte&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/blog/wp-content/uploads/2015/01/NadelAufPlatte-300x225.jpg&#34;&gt;&lt;/a&gt; Since christmas I have been listening differently. Thanks to my wife and children I was able to get a new amp and pair it with a vinyl turntable. Yes we are living in the future and I have embrace the technology of 100 years ago!
+The amp is a &lt;a href=&#34;http://www.whathifi.com/marantz/pm6004/review&#34;&gt;Marantz PM6004&lt;/a&gt; and the vinyl is being played on an &lt;a href=&#34;http://www.whathifi.com/rega/rp1/review&#34;&gt;Rega RP1&lt;/a&gt;. They are wired up to a pair of 16 year old &lt;a href=&#34;http://www.gramophone.co.uk/editorial/review-tannoy-mercury-m2-loudspeaker?pmtx=orange-all&amp;amp;utm_expid=32540977-3.FNZqseMjTvyRLIewfMgTiA.2&amp;amp;utm_referrer=http%3A%2F%2Fwww.google.co.uk%2Furl%3Fsa%3Dt%26rct%3Dj%26q%3D%26esrc%3Ds%26source%3Dweb%26cd%3D2%26ved%3D0CCkQFjAB%26url%3Dhttp%253A%252F%252Fwww.gramophone.co.uk%252Feditorial%252Freview-tannoy-mercury-m2-loudspeaker%26ei%3DF1bLVJK7DMnuUvOhgsAN%26usg%3DAFQjCNEukn1qoro0S35SJZHqhCanOy4k0g%26bvm%3Dbv.84607526%2Cd.d24%26cad%3Drja&#34;&gt;Tannoy Mercury M2.5&amp;rsquo;s&lt;/a&gt;.
+&lt;a href=&#34;http://localhost:1313/blog/wp-content/uploads/2015/01/rega.jpg&#34;&gt;&lt;img alt=&#34;rega&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/blog/wp-content/uploads/2015/01/rega-300x216.jpg&#34;&gt;&lt;/a&gt;
+The sound is warm, solid, clear and fills the room no problem. The next task would be to replace the speakers. The Salvation Army second-hand shop in Perth has a pair of Linn speakers for sale second-hand for £900 which I am sure I could make use of&amp;hellip; but i digress.
+Music wise I am rocking a mix of vinyl form two sources.
+Source one is various things I have collected from way back, from when I would DJ for people and briefly volunteered in a second-hand shop. &lt;a href=&#34;http://www.discogs.com/Peter-Frampton-Frampton-Comes-Alive/release/401512&#34;&gt;Frampton comes alive&lt;/a&gt;, &lt;a href=&#34;http://www.discogs.com/Bob-Dylan-Bob-Dylan-At-Budokan/release/373350&#34;&gt;Dylan at the budokan&lt;/a&gt;, &lt;a href=&#34;http://www.discogs.com/Dire-Straits-Dire-Straits/release/1308001&#34;&gt;Dire Straits&lt;/a&gt;, and others.
+Source two is more recent vinyl which has focused around albums from the recent best of lists i have made; &lt;a href=&#34;http://www.discogs.com/National-High-Violet/release/2267150&#34;&gt;the national high violet&lt;/a&gt;, &lt;a href=&#34;http://www.discogs.com/My-Morning-Jacket-Circuital/release/2924068&#34;&gt;my morning jacket circutal&lt;/a&gt;, and other records I think could benefit from being heard on vinyl; &lt;a href=&#34;http://www.discogs.com/Over-the-Rhine-Meet-Me-at-the-Edge-of-the-World/release/5542046&#34;&gt;over the Rhine meet me at the edge of the world&lt;/a&gt;, &lt;a href=&#34;http://www.discogs.com/Innocence-Mission-We-Walked-In-Song/release/2545877&#34;&gt;the innocence mission we walked in song&lt;/a&gt; and &lt;a href=&#34;http://www.discogs.com/search/?q=fanfarlo&amp;amp;format_exact=Vinyl&amp;amp;format_exact=Album&#34;&gt;the fanfarlo&lt;/a&gt; albums.
+Vinyl is usually more expensive than cd or download, but it does have some advantages. Firstly vinyl has a physicality to it which is significant. The 180gram vinyl has some weight to it in comparison to CD&amp;rsquo;s. Playing music physically takes some commitment and attention. The turning of a record takes care where as CDs can be thrown around reasonably easily. (Throw about an iPod at your own risk!).
+I am not sure if the music is better or not but I feel a lot more involved and conscious of the process which is surely a good thing.
+This corresponds with an increased consideration vinyl within the mainstream media. &lt;a href=&#34;http://www.theguardian.com/music/2015/jan/07/-sp-vinyls-difficult-comeback&#34;&gt;for example John Harris is great in this article on the guardian long reads website on the dangers of the vinyl revival.&lt;/a&gt; (The accompanying podcast is also worth subscribing to). and this article &lt;a href=&#34;http://www.nytimes.com/2014/10/19/magazine/streaming-music-has-left-me-adrift.html?_r=1&#34;&gt;from the New York Times describing some deeper issues around vinyls comeback&lt;/a&gt;. Plus Tom Gauld&amp;rsquo;s illustration is fabulous for it.
+so there it is.
+The chances are I will be writing or tweeting about vinyl a bit more, and it will be noticeable. Getting excited about &lt;a href=&#34;http://www.soundsfamilyre.com/artists/steve-taylor-the-perfect-foil/steve-taylor-the-perfect-foil-discography/goliath/&#34;&gt;Steve Taylor and the Perfect Foils choose your own colour of Vinyl release of Goliath&lt;/a&gt;, or stumbling across the 180 gram coloured vinyl reissue of S &lt;a href=&#34;http://www.discogs.com/Sufjan-Stevens-Seven-Swans/release/1284052&#34;&gt;ufjan Stevens Seven Swans&lt;/a&gt;. It&amp;rsquo;s Just a part of me which is ok, and geeky, and abiding.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Twitter, Tr0lls and Hobbes. </title>
+      <link>http://localhost:1313/blog/blog/twitter-tr0lls-and-hobbes/</link>
+      <pubDate>Wed, 08 Oct 2014 09:48:47 +0000</pubDate>
+       <guid isPermaLink="false">http://schelp.co.uk/?p=2555</guid> 
+      <description>&lt;p&gt;Twitter has been in the news recently. The news reports speak of Tr0lls, people who deliberately use the service to shout abuse, issue threats, and insult other users. This morning, Michelle Mone, has been on TV talking to both ITV and BBC about her experience on Twitter. &lt;a href=&#34;http://www.express.co.uk/news/showbiz/519804/Michelle-Mone-Twitter-trolls&#34;&gt;Click here for a report.&lt;/a&gt;
+Within youth work this &lt;a href=&#34;http://www.youngscot.org/info/2746-what-is-twitter-trolling&#34;&gt;concern has been tackled by Young Scot&lt;/a&gt;. This is important as young people are seen as early adopters of new technology through their digitally native upbringing, conversely young people are regarded as a vulnerable group within society, and as such need to be treated as digitally naive.
+&lt;a href=&#34;http://localhost:1313/blog/wp-content/uploads/2014/10/calvin-hobbes-impersonates-dad.jpg&#34;&gt;&lt;img alt=&#34;calvin-hobbes-impersonates-dad&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/blog/wp-content/uploads/2014/10/calvin-hobbes-impersonates-dad-300x95.jpg&#34;&gt;&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>iOS app Fiete - a game for toddlers</title>
+      <link>http://localhost:1313/blog/blog/ios-app-fiete-a-game-for-toddlers/</link>
+      <pubDate>Mon, 07 Jul 2014 07:46:45 +0000</pubDate>
+       <guid isPermaLink="false">http://schelp.co.uk/?p=2392</guid> 
+      <description>&lt;p&gt;With my daughter getting ready to go to school after the summer. 4 or 5 years of attempting to find good, fun, interesting apps for toddlers is coming to an end. Hence it is time for a short series of app reviews featuring some of our favourite apps for this age group 3-5 year olds.
+&lt;a href=&#34;http://localhost:1313/blog/wp-content/uploads/2014/07/IMG_0208.png&#34;&gt;&lt;img alt=&#34;IMG_0208&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/blog/wp-content/uploads/2014/07/IMG_0208-300x169.png&#34;&gt;&lt;/a&gt;&lt;strong&gt;Fiete&lt;/strong&gt;
+website- &lt;a href=&#34;http://www.fiete-app.com/&#34;&gt;http://www.fiete-app.com/&lt;/a&gt;
+app store link - &lt;a href=&#34;https://itunes.apple.com/gb/app/fiete/id586669403?mt=8&#34;&gt;https://itunes.apple.com/gb/app/fiete/id586669403?mt=8&lt;/a&gt;
+Fiete is a simple game, you are accompaning a sailor in a world where thing have went wrong and your job is to help them get better. You help accross 15 scenes (or i would call them senarios) and 3 games, In each scene or senario, you can play and interact with the world making it better.
+The game runs on iOS maeaning touch is an intergal part of the game, for example onthe scenes opens with this image-
+&lt;a href=&#34;http://localhost:1313/blog/wp-content/uploads/2014/07/IMG_0210.png&#34;&gt;&lt;img alt=&#34;IMG_0210&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/blog/wp-content/uploads/2014/07/IMG_0210-300x169.png&#34;&gt;&lt;/a&gt;
+you can see a seed, a pot with some soil, and our sailor friend. using your finger you drag the seed into the soil
+&lt;a href=&#34;http://localhost:1313/blog/wp-content/uploads/2014/07/IMG_0211.png&#34;&gt;&lt;img alt=&#34;IMG_0211&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/blog/wp-content/uploads/2014/07/IMG_0211-300x169.png&#34;&gt;&lt;/a&gt;
+and then get treated to a simple animation of the change you have made.
+&lt;a href=&#34;http://localhost:1313/blog/wp-content/uploads/2014/07/IMG_0212.png&#34;&gt;&lt;img alt=&#34;IMG_0212&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/blog/wp-content/uploads/2014/07/IMG_0212-300x169.png&#34;&gt;&lt;/a&gt;
+As an app its joy is derived from logical actions from the child, see the problem, find the solution and enjoy the reaction. It is this way of engaging children with game logic that
+I like. How do you at 14 or 15 become really good at computer games, or logic puzzles, or homework, or perhaps change the world and society? By this really simple encouragement to play, be creative and do the simple things well.
+&lt;em&gt;How do we create a healthier society?&lt;/em&gt; well we give all the sick people the medicine they need to be healthy for free at the point of need. it strikes me that adhering to a simple outworking of this game gives us a bit of hope for the future course of how our society functions, but also this wee game gives us a reminder, that as adults, we are responsable for doing the simple uncomplex changes which makes tomorrow grand.
+Plus there is a sailor with an hat, seriously, who doesn&amp;rsquo;t like a sailor in a hat?
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/hMC8lfqUmI8?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Computer games research hits the headlines.</title>
+      <link>http://localhost:1313/blog/blog/computer-games-research-hits-the-headlines/</link>
+      <pubDate>Tue, 15 Apr 2014 22:48:50 +0000</pubDate>
+       <guid isPermaLink="false">http://schelp.co.uk/blog/?p=2345</guid> 
+      <description>&lt;p&gt;&lt;a href=&#34;http://localhost:1313/blog/wp-content/uploads/2014/04/Torus_Trooper_-_Game_Over.jpg&#34;&gt;&lt;img alt=&#34;Torus_Trooper_-_Game_Over&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/blog/wp-content/uploads/2014/04/Torus_Trooper_-_Game_Over-300x225.jpg&#34;&gt;&lt;/a&gt;&lt;a href=&#34;http://www.bbc.co.uk/news/technology-26921743&#34;&gt;Aggression from video games &amp;rsquo;linked to incompetence&amp;rsquo; - BBC News&lt;/a&gt; &lt;a href=&#34;http://www.nbcnews.com/tech/video-games/video-gamers-aggression-born-frustration-not-violence-study-n75151&#34;&gt;Video Gamers&amp;rsquo; Aggression Born From Frustration, Not Violence: Study - NBCnews&lt;/a&gt;
+(and others)
+&lt;a href=&#34;http://www.nbcnews.com/tech/video-games/video-gamers-aggression-born-frustration-not-violence-study-n75151&#34;&gt;So the interwebs news reports on some research from Oxford and Rochester universities&lt;/a&gt;. This is good news as this type of research needs to be considered widely. &lt;a href=&#34;http://www.rochester.edu/newscenter/frustration-in-mastering-video-games-linked-to-aggression/&#34;&gt;Aggressive reactions to computer games are due to the difficultly of the task you are asked to complete, not the game scenarios you play&lt;/a&gt;. Thats good findings. But as I read the news reports I found questions come up.
+Take this explanation of one of the experiments.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>spam compliments</title>
+      <link>http://localhost:1313/blog/blog/spam-compliments/</link>
+      <pubDate>Mon, 14 Apr 2014 16:06:45 +0000</pubDate>
+       <guid isPermaLink="false">http://schelp.co.uk/blog/?p=2326</guid> 
+      <description>&lt;p&gt;&lt;a href=&#34;http://localhost:1313/blog/wp-content/uploads/2014/04/500px-No-spam.svg_.png&#34;&gt;&lt;img alt=&#34;500px-No-spam.svg&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/blog/wp-content/uploads/2014/04/500px-No-spam.svg_-300x300.png&#34;&gt;&lt;/a&gt;
+The nature of the spam this site gets is something which surprises me, this is a small site with a very select, (intelligent, well-groomed, knowledgable) readership. yet spam keep on flowing. I have noticed that recently the spam has become more complimentary as such I would like to post the reviews from the spam filter.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;Spot on with this write-up, I actually believe that this web site needs much more attention. I’ll probably be back again to read through more,&lt;/em&gt;
+&lt;em&gt;Your site provided us with valuable information to work on. You have done an impressive job and our entire community will be grateful to you.&lt;/em&gt;
+&lt;em&gt;You have done a extraordinary job&lt;/em&gt;
+&lt;em&gt;&amp;hellip;its impressive paragraph regarding teachingand fully defined, keep it up all the time.&lt;/em&gt;
+&lt;em&gt;You’ve made some really good points there. I checked on the internet for more information about the issue and found most individuals will go along with your views on this site.&lt;/em&gt;
+&lt;em&gt;You’re amazing! Thanks!&lt;/em&gt;
+&lt;em&gt;Great delivery. Outstanding arguments. Keep up the good spirit.&lt;/em&gt;
+and finally the classic
+&lt;em&gt;This piece of writing posted at this website is genuinely pleasant.&lt;/em&gt;
+I mean I know I am good, but this is beyond my expectations&amp;hellip; but seriously, I particularly like the comment &amp;ldquo;this piece of writing posted at this website is genuinely pleasant.&amp;rdquo; I may use that somewhere on the website.  Thanks goto mr&amp;quot;auto repair quote&amp;quot; for his comment, it means so much.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>My phone is dead.</title>
+      <link>http://localhost:1313/blog/blog/my-phone-is-dead/</link>
+      <pubDate>Sun, 02 Feb 2014 22:53:23 +0000</pubDate>
+       <guid isPermaLink="false">http://schelp.co.uk/blog/?p=2237</guid> 
+      <description>&lt;p&gt;So my phone died. You can read all about how it gave its life to support me running to get fitter. &lt;a href=&#34;http://runninginglasses.wordpress.com/2014/02/02/runninginglasses-week-4-run-2-death-of-a-phone/&#34;&gt;check the gory details of its noble end / beginning of life as a paper weight here. #runninginglasses - week 4 run 2 - death of a phone.&lt;/a&gt;
+So tomorrow i have to go to the fruit shop and try and get a new one. The genius bar have a policy of exchanging iPhones which cannot be repaired, sometimes at their digression for free, other times for around 80-100 poinds. (although I did hear somewhere that the power to do this had been taken from the genii). The routine is pretty simple, tell the person what happened and ask if there is a way the genius can solve the sleek, black paperweight problem for me.
+On a wider note, I am pleased to see how i have handled not having a phone. I have been quite happy not to have it. I have been ok without another smart device in my life. I am aware i don&amp;rsquo;t phone many people or text people, but i am pretty sure people can reach me wherever I am if it is urgent. I know that it is the weekend and the difference between being with my family and travelling together, and tomorrow when we all go our separate ways and I am on the train, being out all day. Tomorrow might be a very different thing. I am carrying a phone, but not the main number for emergencies.
+So what am i carrying? Well my options are the iphone 4, &lt;a href=&#34;http://localhost:1313/blog/wp-content/uploads/2014/02/20140202-231838.jpg&#34;&gt;&lt;img alt=&#34;20140202-231838.jpg&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/blog/wp-content/uploads/2014/02/20140202-231838.jpg&#34;&gt;&lt;/a&gt; the motorola v80 &lt;a href=&#34;http://localhost:1313/blog/wp-content/uploads/2014/02/20140202-231850.jpg&#34;&gt;&lt;img alt=&#34;20140202-231850.jpg&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/blog/wp-content/uploads/2014/02/20140202-231850.jpg&#34;&gt;&lt;/a&gt; the nokia e65 &lt;a href=&#34;http://localhost:1313/blog/wp-content/uploads/2014/02/20140202-231857.jpg&#34;&gt;&lt;img alt=&#34;20140202-231857.jpg&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/blog/wp-content/uploads/2014/02/20140202-231857.jpg&#34;&gt;&lt;/a&gt; the samsung galaxy sIII &lt;a href=&#34;http://localhost:1313/blog/wp-content/uploads/2014/02/20140202-231904.jpg&#34;&gt;&lt;img alt=&#34;20140202-231904.jpg&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/blog/wp-content/uploads/2014/02/20140202-231904.jpg&#34;&gt;&lt;/a&gt;
+Not sure yet, but it is a nice choice to have to make!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>13for2013 - a Laconic Hegemony mixtape</title>
+      <link>http://localhost:1313/blog/blog/13for2013-a-laconic-hegemony-mixtape/</link>
+      <pubDate>Thu, 09 Jan 2014 23:20:59 +0000</pubDate>
+       <guid isPermaLink="false">http://schelp.co.uk/blog/?p=2216</guid> 
+      <description>&lt;p&gt;13for2013 by Laconic hegemony, (my irregular mixtape), is out and available in the box below and on mixcloud.com, this is awesome because you can listen in the box below and also using &lt;a href=&#34;http://www.mixcloud.com/mobile/&#34;&gt;the mixcloud app on your smart phone/tablet&lt;/a&gt; to enable listenings to the mixes wherever you can connect to the internets.
+Remember the rules people, this the my favourite songs of last year, they don&amp;rsquo;t have to have been released in 2013 but they do have to been listened too for the first time (consciously) by myself during 2013.
+&lt;a href=&#34;http://www.mixcloud.com/sch3lp/laconichegemony13for2013/?utm_source=widget&amp;amp;utm_medium=web&amp;amp;utm_campaign=base_links&amp;amp;utm_term=resource_link&#34;&gt;LaconicHegemony13for2013&lt;/a&gt; by &lt;a href=&#34;http://www.mixcloud.com/sch3lp/?utm_source=widget&amp;amp;utm_medium=web&amp;amp;utm_campaign=base_links&amp;amp;utm_term=profile_link&#34;&gt;Sch3lp&lt;/a&gt; on &lt;a href=&#34;http://www.mixcloud.com/?utm_source=widget&amp;amp;utm_medium=web&amp;amp;utm_campaign=base_links&amp;amp;utm_term=homepage_link&#34;&gt;Mixcloud&lt;/a&gt;
+Laconic Hegemony is my irregular mixtape, it comes out whenever I get the feeling, and usually the end of year is the time i get to it. I had gone slow on this one. I had been a bit reticent about the legality of making a mixtape and giving it away for download on the interweb. I mean I am all about the music and letting people hear stuff, but I wondered how much this would affect artists, and I am all for artists getting paid for their art.
+In line with this new mix for the new year comes a new home, &lt;a href=&#34;http://www.mixcloud.com/&#34; title=&#34;mixcloud.com&#34;&gt;mixcloud.com&lt;/a&gt;, an internet start up trying to mix up hosting music and podcasts with a social network thing on it. The key advantages are, first they have done a deal with the PRS so all the artist get payed royalties, (&lt;a href=&#34;http://support.mixcloud.com/customer/portal/articles/157244-is-mixcloud-licensed-to-play-copyrighted-music-&#34; title=&#34;or so they claim here&#34;&gt;or so they claim here&lt;/a&gt;). The second advantage is the availability of live streaming via the app to your smart phone. This streaming means we can get around the problem of downloading the mix which had provoked some of my previous discomfort.
+I am hopeful it will do well and hopefully i will be able to do more soon. I also plan to upload the entire Laconic Hegemony back catalogue (including the mysterious never released Laconic hegemony 5 REMembering(?).
+more soon.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Gladwell, Complexity and the ten thousand hour rule.</title>
+      <link>http://localhost:1313/blog/blog/gladwell-complexity-and-the-ten-thousand-hour-rule/</link>
+      <pubDate>Mon, 23 Sep 2013 20:01:32 +0000</pubDate>
+       <guid isPermaLink="false">http://schelp.co.uk/blog/?p=2194</guid> 
+      <description>&lt;p&gt;&lt;a href=&#34;http://localhost:1313/blog/wp-content/uploads/2012/12/smallreview.jpg&#34;&gt;&lt;img alt=&#34;smallreview&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/blog/wp-content/uploads/2012/12/smallreview.jpg&#34;&gt;&lt;/a&gt;
+Malcolm Gladwell, is not universally loved, but he does try and answer his critics. In this article he answers some criticism around his assertion that in order to reach a high level operation in an action of high complexity, on average you need to put in around 10,000 hours of work on the task.
+&lt;a href=&#34;http://www.newyorker.com/online/blogs/sportingscene/2013/08/psychology-ten-thousand-hour-rule-complexity.html&#34;&gt;http://www.newyorker.com/online/blogs/sportingscene/2013/08/psychology-ten-thousand-hour-rule-complexity.html&lt;/a&gt;
+I wonder how much this transfers over to complex tasks like using computers, or playing video games. I wonder where that bar is. I wonder about the possibility of achieveing this high level of operation within a shorter period by the limiting of the insturction set which an ipad has, touch the screen, press one of the buttons (of the 5 possible), turn the device physically. The Ipad is a deceptively simple device which operates a high complexity actions everyday, and invites us the engage in those actions. The same arguement could be made of device which primarily uses a touch input system. or a joustick or game pad. I think there much to be done here.
+anyway off to start hour 9,999&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Get saving - 2014 Christmas guide #xboxone vs #playstation4 #longblogpost</title>
+      <link>http://localhost:1313/blog/blog/get-saving-2014-christmas-guide-xboxone-vs-playstation4-longblogpost/</link>
+      <pubDate>Tue, 18 Jun 2013 18:07:26 +0000</pubDate>
+       <guid isPermaLink="false">http://schelp.co.uk/blog/?p=2181</guid> 
+      <description>&lt;p&gt;&lt;a href=&#34;http://localhost:1313/blog/wp-content/uploads/2013/06/PS4-vs-Xbox-One-composite-008.jpg&#34;&gt;&lt;img alt=&#34;PS4 vs Xbox One composite&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/blog/wp-content/uploads/2013/06/PS4-vs-Xbox-One-composite-008-300x180.jpg&#34;&gt;&lt;/a&gt; So its June and the race for your christmas spending has started. Last week saw the E3 games conference in Los Angeles, USA. The two largest news making press conferences were held by two giants of the games world. Sony &amp;amp; Microsoft, who have offered new shiny boxes of tricks suitable for the worlds living rooms. (Well half shiny, half matte in Sony&amp;rsquo;s case). Given the state of the market, (see the sad story of the WiiU below), it appears to be a relatively straight shoot out for that games playing space under the TV this christmas.
+These video games things are popular. Microsoft revealed they &lt;a href=&#34;http://www.microsoft.com/investor/EarningsAndFinancials/Earnings/Kpi/fy13/q1/Detail.aspx&#34;&gt;have sold 70million xbox 360&amp;rsquo;s by last september.&lt;/a&gt; the cheapest version of the console in argos today is £169, multiply that by 70million and thats alot of money from one box. Sony given a similarity in prices, have sold a console for one year longer, they have sold around 75million consoles.
+&lt;strong&gt;An industry of highs and lows.&lt;/strong&gt;
+Launching a new product to replace a popular on is not an easy task. Nintendo are masters at dominating this market. The Super Nintendo Entertainment System was the market leader for the early years of video games. Their crown slipped with the gamecube, during the original playstation 2 / Xbox battle. With the playstation 2 becoming dominant. Their response was to innovate with a new system, a new way to interact, to make a development on how to play. They created the Wii console. It was popular, fun, easy to pick up and due it being based on current technology, (not high tech specs), it was cheap in comparision. This made it sell, alot.
+&lt;a href=&#34;http://www.nintendo.co.jp/ir/library/historical_data/pdf/consolidated_sales_e1303.pdf&#34;&gt;Nintendo world wide have sold 99.84 million Wii consoles&lt;/a&gt; outselling playstation3 and xbox by around 20million units.
+Given this dominance, hopes were high for the next creation. The first of the next generation of games machines. Its main innovation is a dual screen system. His meant your controller in your hands has a screen on it for playing or completeing tasks as part of the game. this mean the WiiU would lose its low cost entry point. It also has the ability to play wii games and use wii remotes. It couldn&amp;rsquo;t go wrong. The system launched in november 2012 and has sold 3.45 million consoles, (based on the document linked too above.)
+Nintendo initially suggested they were aiming for sales of 5.5million, and then reduced this to sales of 4million.
+My guess is the WiiU doesn&amp;rsquo;t have the novelty/fun factor of the Wii, and it seems expensive compared with the price of the Wii. It doesn&amp;rsquo;t have the elusive &amp;lsquo;impulse buy&amp;rsquo; factor, and crucially it doesn&amp;rsquo;t have the games to support the more dedicated gamer market. The news that third party games makers, (companies that aren&amp;rsquo;t nintendo), are not developing any new games for the WiiU have really damaged the consoles prospects long term. So no FIFA 2014 then. Hmmm. The long term gamer market is also compromised by nintendo&amp;rsquo;s reliance on developing very edgy new games, yet relying on Mario to sell the game.
+In a tought economic marketplace, 7 months after launch, the question is who will by one now? The importance of getting this right for Sony and Microsoft cannot be understated.
+The other indication of how important launch is to the companies, was the strange decision to launch both consoles twice. Sony intially took 3 hours to not show the box. Microsoft took 1 hour to not talk about games. Last monday saw part 2 of these double headers with Microsoft taking an 1hour to talk just about games, release date and price, and Sony taking an hour to respond to microsoft&amp;rsquo;s double launch.
+&lt;strong&gt;How they compare part one - philosophy.&lt;/strong&gt; &lt;a href=&#34;http://localhost:1313/blog/wp-content/uploads/2013/06/xbox-one-vs-ps4-580-75.jpg&#34;&gt;&lt;img alt=&#34;xbox-one-vs-ps4-580-75&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/blog/wp-content/uploads/2013/06/xbox-one-vs-ps4-580-75-300x168.jpg&#34;&gt;&lt;/a&gt;
+They are very different beasts philosophically, and the companies behind them are selling them as different beasts. Microsoft is a software company, but with the xbox and the current tie up with nokia for phones they are branching into hardware. Given this, it makes sense that Microsoft is selling the xbox one as a multimedia box under the TV. It is a computer which responds to voice commands and is the one box to control everything. It brings the internet, tv, games, a media centre all in one box under the TV. It needs the kinnect system to do the voice control, and will not work without this. It also needs an active internet connection to allow you to play games.
+Sony is selling the playstation4 as a games machine, but one that can also do TV &amp;amp; media centre stuff. (No word on the voice control yet.) Its launch event and e3 conference yesterday focused on games and its games abilitiies, making a huge play of its openness of the system to independant games makers to publish new games for the system.
+Both new consoles will not allow you to play games from earlier versions of Xbox or Playstation due to different operating systems. Both consoles have added interesting add ons to the games side of the consoles. Social interateion. With the Xbox the opportunity to use of skype snapped onto the side of the screen allows for xbox live and the multiplayer experience to become both more scary and brilliant. Scary as do you know what you look like when you play a game? The playstation has a share button.
+It records what you have done in game, and on pressing the share button your can watch yourself playing the game, upload it to youtube or facebook, easily.
+The questions becomes how much does sharing allow for the development of community within the game playing community, or does opening that knowlegde wider meaken the game community, as interacting with the community becomes watching a youtube video, and stealing their knowledge?
+&lt;strong&gt;How they compare part 2 - technical specification.&lt;/strong&gt;
+Both boxs are broadly similar. The selling points of which has the best processor/ graphics rendering/ etc are quite close to each other. Certainly it is close enough at launch not to make this difference the primary buying reason.
+&lt;a href=&#34;http://uk.ign.com/wikis/xbox-one/PS4_vs._Xbox_One_vs._Wii_U_Comparison_Chart&#34;&gt;If you want a more in depth tech spec analysis it&amp;rsquo;s here&lt;/a&gt;
+(Basically the sony bas better ram, the xbox has a hdmi input)
+&lt;strong&gt;So that means&amp;hellip;&lt;/strong&gt; &lt;a href=&#34;http://localhost:1313/blog/wp-content/uploads/2013/06/images.jpg&#34;&gt;&lt;img alt=&#34;images&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/blog/wp-content/uploads/2013/06/images.jpg&#34;&gt;&lt;/a&gt;
+The Microsoft Xbox One is trying to get out of the games market, to become in the same class of consumer gadgets as tablet computers or laptops. Things like its requirement to have constant access to the internet, (Minimum of once every 24hrs), is bizarre for a games machine but for a computer like a laptop or a smart phone or a tablet its normal.mIt has an necessary input source using the kinnect add on. The kinnect is a camera and microphone which goes on top of your Tv or similar. It allows for voice commands, and movements to be integrated into games and controls for the system. A logical development of a camera and microphone on a computer.
+The first press conference majored on Tv and using the XBox as a way to get your TV signal into your TV. It has an HDMi in port to allow for this to happen. The flaws in the system though are you will still require your sky or bt or cable box in the UK. So why would you plug it into another box to watch the TV. The Xbox is focused on The North American market, historically Xbox has been dominant there, &lt;a href=&#34;http://www.gizmodo.co.uk/2013/05/surprise-all-that-tv-stuff-wont-work-when-xbox-one-launches-here/&#34;&gt;so all the TV media deals they have done with netflix or the NBA or NFl are availble in north america, but are not available globally.&lt;/a&gt;
+The issue for Microsoft is to be judged against its most logical rival the Sony box. Suddenly a games machine that needs always on internet connection to work seems strange. The kinnect which is watching us at all times when the system is on seems weird. It allows for fears and concerns to be raised with this change in philosphy.
+Microsoft have filed lots of patents over the last few years. So imagine using the Xbox One to watch a film on Netflix. The kinnect camera will be on, watching you in the room watching TV. This seems innocent enough, yet when added to microsofts patent for a technology last year it gives cause for concern. One of the patents was for a technology which would watch the people watching a film on a film subscription system, it would record how many people were in the room watching the film, check the licence agreement for how many people were allowed to watch the film, acting if too many people are in the room. The technology would stop you watching the film, it would ask you to pay for a new licence or in a move inspired by the Tv theme tune off the 80&amp;rsquo;s programme &amp;ldquo;why don&amp;rsquo;t you&amp;rdquo;, prevent you from continuing watching the film. Microsoft have made a big play of the kinnect being sensative enough to read your heart beat. Yes,i did just say your heart beat.
+Microsoft is also challenging the way computer games are sold. Moving to a system of software licence purchasing. You don&amp;rsquo;t buy the game as a physical entity. You buy a licence to use software. If this move was coupled to an iTunes download only style model, this would make sense. But by continuing to have a physical box, as games buyers and shops demand, this model seems counter intuitive and a halfway house which will please no one.
+Sonys reaction is to get lots of plaudits for not changing the system. In comparison Sony are saying we have a great games machine, you don&amp;rsquo;t need to connect it to the internet ever, you dont need to connect it to a camera or microphone for it to work, you buy a box in the shop, take ithome and play it straightaway. Later, if you want, you can trade it in or sell it. Plus we do all the tv and media hub stuff, and our console is cheaper by £80.
+&lt;strong&gt;The money&lt;/strong&gt;
+The Microsoft Xbox One checks in at £425. The Sony Playstation4 at £340. (The wiiU is £219-300 on amazon now.) both will be out for christmas. This is a large amount of money, but to be the one child in a class at christmas who gets one well its a small price to pay. (Feel free to note the build up of advertising from november onwards towards christmas.) With Microsoft intent on moving out of the games console market into the home media centre sector, Nintendo&amp;rsquo;s WiiU seemingly stuck in &amp;lsquo;great if you want to play mario but pants for everything else&amp;rsquo; purgatory,then playstation4 has an open goal to rule the TV games market right?
+&lt;strong&gt;The third way&lt;/strong&gt;
+But hold on there is a third gaming way. A rival is on the rise, and it looking interesting possibly very good. The valve &amp;ldquo;steam box&amp;rdquo; is a mini computer which links into the TV. It is wireless, linking into your wifi and the internet. The key selling point is the steam network. A fully fledged game download system for PC and Mac with thousands of games already supported and ready to play. The system is unknown currently does not have a release date. But it is attractive. The ability to play the games from your PC/mac on your TV at home, share save points is great.
+Philosophically it is computer which plays games on your tv, it is expected several companies will build versions with the price reflection the tech spec of what goes in liek, like computer pricing. I like this idea alot. It is a download only model, with your login to the steam system being key to playing the games.
+The real downside is that there isn&amp;rsquo;t a launch date or price yet. But when it launches I suspect it will sell hunners, it may go on to dominate the market.
+&lt;strong&gt;Christmas 2014.&lt;/strong&gt;
+If all you want is the occasional fun game buy the WiiU
+If all you want a cool games machine that does the tv stuff as well buy the playstation4
+I love the bravery of change being embraced by microsoft. Recent reviews of the new apple ios7 have commented how it it moving in the direction shown in the design style of microsoft phones. I think it is risky, and I am not happy about the always on kinnect thing. Plus its £80 more expensive. It could be brilliant. But if you asked me today, I think for christmas 2014 I would leave the Xbox and give it a year or so to sort itself out, develop integrated services for the TV in the uk, sort out the second hand games issue, and the issues about privacy, then think about buying it.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Articificaliality, Connectedness and Young People</title>
+      <link>http://localhost:1313/blog/blog/articificaliality-connectedness-and-young-people/</link>
+      <pubDate>Sun, 17 Feb 2013 22:14:40 +0000</pubDate>
+       <guid isPermaLink="false">http://schelp.co.uk/blog/?p=2169</guid> 
+      <description>&lt;p&gt;&lt;a href=&#34;http://localhost:1313/blog/wp-content/uploads/2013/02/napoleon-dynamite1.jpg&#34;&gt;&lt;img alt=&#34;napoleon-dynamite1&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/blog/wp-content/uploads/2013/02/napoleon-dynamite1-300x225.jpg&#34;&gt;&lt;/a&gt;
+Been wondering about how we encourage development and model ways to support. Particularly in community with young people. Youthwork at a basic reckoning is about being community with young people and providing support and room for development.
+Tonight &lt;a href=&#34;http://www.guardian.co.uk/technology/2011/sep/25/steve-fuller-time-for-humanity?INTCMP=SRCH&#34;&gt;i picked this article off of twitter.&lt;/a&gt; In it Fuller coins a lovely phrase of humans using computers to &amp;ldquo;extend and amplify ourselves.&amp;rdquo; how we engage with machines rather then in direct contact. (when&amp;rsquo;s the last time i went into my bank branch?)
+Today I was chatting with a small group of children after church. One of the children told the story of walking in on someone doing the toilet in the school toilets. I joked that meant they had now to be friends. The rule is once you have seen someone on the toilet, you have to be their friend forever.
+The girl asked what if she didn&amp;rsquo;t like them. I replies thats fine, just become their friend on facebook, then you never have to talk to them again. At the core of my comment is the artificiality within relationship and the ability to amplify ourselves which Prof Fuller is talking about.
+For young people adolescence is a time for profound disconnecteness. it is a time where this ability to extend and amplify yourself is key to survival.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Removing the wall - Les miserables, the hobbit, a 3d panto and 48fps</title>
+      <link>http://localhost:1313/blog/blog/removing-the-wall-les-miserables-the-hobbit-a-3d-panto-and-48fps/</link>
+      <pubDate>Tue, 22 Jan 2013 11:04:47 +0000</pubDate>
+       <guid isPermaLink="false">http://schelp.co.uk/blog/?p=2152</guid> 
+      <description>&lt;p&gt;(some thoughts on 2d, 3d48fps and live panto with added 3d.)
+&lt;a href=&#34;http://schelp.co.uk/blog/removing-the-wall-les-miserables-the-hobbit-a-3d-panto-and-48fps/les-mis-510/&#34;&gt;&lt;img alt=&#34;les-mis-510&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/blog/wp-content/uploads/2013/01/les-mis-510.jpeg&#34;&gt;&lt;/a&gt;
+So we went to see &lt;a href=&#34;http://lesmiserables-movie.co.uk/?section=story&#34;&gt;Les Miserables&lt;/a&gt; at the local world of cine on saturday evening. It was a 7 out of 10 film. We had been warned that Russell Crows singing detracts from his acting, that it does go a wee bit &amp;lsquo;Oliver&amp;rsquo; at the barricades and that Catwoman is only in it for 30 minutes.
+The main thing which struck me was the lack of connection or intensity. For a film which has the repution as &lt;a href=&#34;http://www.guardian.co.uk/film/shortcuts/2013/jan/15/why-les-miserables-provoking-emotion&#34;&gt;the most cried at movie ever&lt;/a&gt;, there seemed to be a curious lack of connection. It had all the songs of the stage show, well most of them, it had good performances mostly. But seemed to lack an edge. My wife thought that was due to the actors being primarily actors, and not primarly musical theatre performers. I felt when we got the boys planning rebellion, my feeling was there was a jump up in vocal performance, which left me wondering if most of the boys had a song and dance background/recent training.
+I seemed to be removed from the film and its action. That contrasted to my experiance at the Hobbit, earlier in the month.
+&lt;a href=&#34;http://schelp.co.uk/blog/removing-the-wall-les-miserables-the-hobbit-a-3d-panto-and-48fps/lr_dwp640x960/&#34;&gt;&lt;img alt=&#34;LR_DWP640x960&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/blog/wp-content/uploads/2013/01/LR_DWP640x960-200x300.jpg&#34;&gt;&lt;/a&gt;&lt;a href=&#34;http://www.thehobbit.com&#34;&gt;The Hobbit&lt;/a&gt; is a long film in two acts, 1 - waiting for the dwarves, 2 - going halfway with the dwarves. Although I liked the cinemas attention to detail by giving us comedy oversized drinks containers to get us into the hobbitty world.
+We decided to go see the hobbit in 3d at 48frames per second(fps). &lt;a href=&#34;http://www.pcmag.com/article2/0,2817,2403746,00.asp&#34;&gt;::[[click here for a reasonably simple explaination of 48 fps]]::&lt;/a&gt; This is how it was shot, and in places it was very engaging. It felt like at times you were actually watching a live theatre show instead of thevfilm. &lt;a href=&#34;http://www.bbc.co.uk/blogs/markkermode/&#34;&gt;Mark Kermode&lt;/a&gt; compared it to the experience of taking down the wall behind the cinema and allowing for watching it live.
+The wall had come down. the cinema had some of the power, look and feel of a theatre production. but a trip to see a show had the oposite effect. 3d built a wall for me at our panto trip.
+&lt;a href=&#34;http://schelp.co.uk/blog/removing-the-wall-les-miserables-the-hobbit-a-3d-panto-and-48fps/jack/&#34;&gt;&lt;img alt=&#34;jack&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/blog/wp-content/uploads/2013/01/jack-300x119.png&#34;&gt;&lt;/a&gt;
+We had secured some tickets to go see Jack and the beanstovk at the SECC starring the Krankies and John Barrowman. Yip i was there in the front row, &lt;a href=&#34;http://www.dailyrecord.co.uk/news/scottish-news/curse-of-the-beanstalk-actor-john-barrowman-1519367&#34;&gt;when John Barrowman fell off his horse&lt;/a&gt;. The panto was fun, despite Mr. Barrowmans hospital trip about half way through. With him away it felt loose and clunky but a lot of fun.
+Towards the end of the panto we were instructed to wear our 3d glasses for the next part of the story. Four main characters then pretended to run, climb, fight, against the background of a projected image of a 3d world. It was ridiculous. It looked awful. The 3d background lacked detail and at some point any perspective, (which is the point of 3d right?). The main 3d effect was that every so often a giant spider would jump out from the screen, to be right in front of your eyes. Judging by the screams this generated this effect worked.
+For me this really distracted from what was going on. The idea of taking a live action play, and the adding 3d effects bizzarre. &amp;ldquo;lets stop the live action to add in some 3d&amp;rsquo;. At best it is gimmicky. It becomes an obsticle to engaging with the play. By stopping to put on glasses it becomes detached. A wall is built and you are removed from what is going on.
+For me the interesting experience was definitely in the Hobbit, where the technology helped overcome some serious editing issues. It took a traditionally suspended medium, 2d movie, and gave a glimpse of being inside the created world. I would love to see a 48fps 2d movie and see ifthe effect is replicated by the frame speed. But I am still puzzled by the lack of intensity from my Les Miserables experience, and where along the easy scream factor to a detatchement form the live show, a decision that one outweighs the other was taken.
+Technology. It can make some things fab, and in other situations it can distract and get in the way. Humans are just acrobats moving between wher the technology is.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>My spam is mocking me</title>
+      <link>http://localhost:1313/blog/blog/my-spam-is-mocking-me/</link>
+      <pubDate>Mon, 10 Dec 2012 20:46:08 +0000</pubDate>
+       <guid isPermaLink="false">http://schelp.co.uk/blog/?p=2034</guid> 
+      <description>&lt;p&gt;&lt;a href=&#34;http://localhost:1313/blog/wp-content/uploads/2012/12/1559606_340_1116081430036-spam.jpg&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/blog/wp-content/uploads/2012/12/1559606_340_1116081430036-spam.jpg&#34;&gt;&lt;/a&gt;
+I got this comment in my spam filter from a spam bot about this blog.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Hey, you used to write excellent, but the last several posts have been kinda boringŠI miss your tremendous writings. Past several posts are just a little bit out of track! come on!
+well thank you mr spam.&lt;/p&gt;
+&lt;/blockquote&gt;</description>
+    </item>
+    <item>
+      <title>no google in glasgow &amp; #o2 twitter thoughts.</title>
+      <link>http://localhost:1313/blog/blog/no-google-in-glasgow-o2-twitter-thoughts/</link>
+      <pubDate>Thu, 04 Oct 2012 15:59:22 +0000</pubDate>
+       <guid isPermaLink="false">http://schelp.co.uk/blog/?p=1960</guid> 
+      <description>&lt;p&gt;I went to Glasgow yesterday on student related stuff, and as part of my journey I took the bus. (very expensive for that journey, about 40p more expensive than the underground but I digress)
+I attempted to search the internet to work out the best bus times. but shock &amp;amp; horror, My internet access wouldn&amp;rsquo;t work. I tried again but nothing. I tried to load in a website from the bookmarks, no problem at all. The issue seemed to be centralised around trying to use the web presence of google. Each time I tried to access their website I got this response.
+&lt;a href=&#34;http://localhost:1313/blog/wp-content/uploads/2012/10/o2-issue.jpg&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/blog/wp-content/uploads/2012/10/o2-issue-200x300.jpg&#34;&gt;&lt;/a&gt;
+I know the phone company i use has a twitter name and replies to queeries there.
+so i wrote off following message and the following conversation (in under 160 charactors, ensued)
+me&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>accurate critique</title>
+      <link>http://localhost:1313/blog/blog/accurate-critique/</link>
+      <pubDate>Thu, 26 Jul 2012 23:07:24 +0000</pubDate>
+       <guid isPermaLink="false">http://schelp.co.uk/blog/?p=1945</guid> 
+      <description>&lt;p&gt;&lt;a href=&#34;http://localhost:1313/blog/wp-content/uploads/2012/07/checkword512.jpg&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/blog/wp-content/uploads/2012/07/checkword512.jpg&#34;&gt;&lt;/a&gt;
+My blog isn&amp;rsquo;t that big. Thankfully I do not receive millions of spam messages. The spam I usually get is very positive &amp;lsquo;I love your site, I will tell all my friends about this site.&amp;rsquo; then a link to a dodgy website address.
+But today things changed. &amp;rsquo; &lt;em&gt;Claudia&lt;/em&gt;&amp;rsquo; sent me a comment to my blog. (From and including a link to a dodgy looking website.)&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;your words are good, but somewhat confusing, if you can explain them better, it would be great
+I cannot decide if this spam comment is accurate critique of the blog or an attempt to see if a more balanced view point will slip thought the spam detection net.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Privacy, stop it.</title>
+      <link>http://localhost:1313/blog/blog/privacy-and-free-online-tools/</link>
+      <pubDate>Mon, 09 Apr 2012 20:47:07 +0000</pubDate>
+       <guid isPermaLink="false">http://schelp.co.uk/blog/?p=1870</guid> 
+      <description>&lt;dl&gt;
+&lt;dt&gt;&lt;a href=&#34;http://localhost:1313/blog/wp-content/uploads/2012/04/danger-danger.jpg&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/blog/wp-content/uploads/2012/04/danger-danger-300x134.jpg&#34;&gt;&lt;/a&gt;&lt;/dt&gt;
+&lt;dt&gt;SO Google has amalgamated 70 privacy policies for various free tools online into one policy.&lt;/dt&gt;
+&lt;dt&gt;that makes things much easier right? Been thinking about privacy, about how much info we want anywhere about us. As i was thinking about this, &lt;a href=&#34;http://www.bbc.co.uk/news/uk-politics-17576745&#34;&gt;the UK government announced plans to be able to monitor the calls, emails, texts and website visits of everyone in the UK. Internet firms will be required to give intelligence agency GCHQ access to communications on demand, in real time.&lt;/a&gt;&lt;/dt&gt;
+&lt;dt&gt;I am very conscious of leaving a physical trail. I am aware my car is quite unnoticeable, but someone who had seen it a couple of times and knew where I liked to park could find me reasonably easily, if they thought about it.&lt;/dt&gt;
+&lt;dt&gt;I try and pay with cash when I can. It allows me to actually feel the money leaving my hands and makes real the amount being spend. It also means I spend less.&lt;/dt&gt;
+&lt;dt&gt;In physical life it&amp;rsquo;s kinda easy, yet on the Internet people actively try to find out all about you.&lt;/dt&gt;
+&lt;dt&gt;If you are reading my blog, My blog keeps a small record of some of your data. It then reports to me, things about&lt;/dt&gt;
+&lt;dd&gt;your computer - your browser, your screen resolution, what operating system you use.&lt;/dd&gt;
+&lt;dd&gt;your behaviour - how you came to my site, what you read, how long you spend here, what links you click.&lt;/dd&gt;
+&lt;dd&gt;your location - where in the world you are when you read my blog, your ip address.
+Thinking about it I dislike this level of information, I am uncomfortable with having it and as such I will disable that before I publish this post.
+The point is if this is how much information I can have about you without trying to actively track you, how much do we give away to major companies for free? I have a reward card for several shops, at a basic level they give me &amp;ldquo;rewards&amp;rdquo; while I give them information which can be used to sell me more stuff, or perhaps be sold to other companies.
+&lt;a href=&#34;http://www.forbes.com/sites/kashmirhill/2012/02/16/how-target-figured-out-a-teen-girl-was-pregnant-before-her-father-did/&#34;&gt;The recent story about the supermarket target in the US developing a system to observe the buying changes around when a lady was pregnant, and send appropriate vouchers, seems good work. When these arrived before the lady had told close family, well that&amp;rsquo;s a bit of an issue.&lt;/a&gt;
+The data protection act protects us for records on computers under uk law. There is a big questions about how we engage with data being kept outwith UK law, I wonder about the amount of information that is available and how we control our own data in foreign countries. I think this new government seems at best misguided, at worst, a serious risk to the idea of security. Especially given the current process is (to my very basic understanding) similar to the process of getting a warrant to search your house.
+I don&amp;rsquo;t think the Internet needs regulated. But companies do need regulated. Sharp business practice on wall street or the city of London is legislated against (or more accurately should be), it is monitored and where necessary compliance is necessitated.
+I think companies virtual presences should be monitored and compliance thought where they are out of line. Facebook has 900 million users. &lt;a href=&#34;http://www.heraldscotland.com/comment/columnists/secrets-and-spies.17246232&#34;&gt;By owning the data on Facebook, (Yes they own &amp;lsquo;your&amp;rsquo; data), analyzing it, and then selling it to advertisers, Mark Zuckerberg is an 18 times billionaire.&lt;/a&gt;
+Iain Bell in the Sunday Herld neatly sums up how i am feeling about all this in an excellently written piece.
+&lt;a href=&#34;http://www.heraldscotland.com/comment/columnists/secrets-and-spies.17246232&#34;&gt;&amp;ldquo;This begins to look like capitalism&amp;rsquo;s next phase, achieved with the willing co-operation – the uninhibited enthusiasm – of the masses while governments hitch a ride. Partly it&amp;rsquo;s conditioning: see how the queues form whenever Apple punts a new toy. Partly it&amp;rsquo;s technological drift: try to work without access to email. The largest part of it, though, is something new. It is the belief that nothing personal matters enough to be worth protecting.&lt;br&gt;
+&amp;hellip;&lt;br&gt;
+Privacy is identity. In my (non-Face) book, the private person is the person you truly are. Give that away, daily and nightly – give it away to a corporation or a government, indeed – and you disappear into the collective, beloved of SF writers. We needn&amp;rsquo;t resort to fiction, though. The plain phrase &amp;ldquo;my business&amp;rdquo; sums it up. But I think I am being outvoted, and outvoted overwhelmingly.&amp;rdquo;&lt;/a&gt;
+Don&amp;rsquo;t know, but is really sits uneasily with me.
+&lt;strong&gt;The questions abide.&lt;/strong&gt;&lt;/dd&gt;
+&lt;/dl&gt;</description>
+    </item>
+    <item>
+      <title>Some Podcasts I Like - Music &amp; Sports</title>
+      <link>http://localhost:1313/blog/blog/some-podcasts-i-like-music-sports/</link>
+      <pubDate>Thu, 05 Apr 2012 21:40:40 +0000</pubDate>
+       <guid isPermaLink="false">http://schelp.co.uk/blog/?p=1872</guid> 
+      <description>&lt;p&gt;&lt;a href=&#34;http://localhost:1313/blog/wp-content/uploads/2012/04/PodcastLogo619.gif&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/blog/wp-content/uploads/2012/04/PodcastLogo619.gif&#34;&gt;&lt;/a&gt;
+Recently I have enjoying listening to podcasts and ItunesU (itunes University). It makes a break form music while driving and can be informative and fun! the two top areas i have been looking at are sports and Music podcasts
+&lt;strong&gt;Music&lt;/strong&gt;
+1
+&lt;a href=&#34;http://www.npr.org/series/live-in-concert/&#34;&gt;npr - live concerts podcast&lt;/a&gt;
+i couldn&amp;rsquo;t live without this podcast.
+really. it is awesome.
+2 hours of Radiohead on the In Rainbows tour live from California, no problem, here you go
+The Decemberists premiering The Hazards of Live as a live song cycle, have it free
+Andrew Bird live from SXSW last month, here is the whole set, and check the archives for one from 3 years ago.
+it is eclectic and wide ranging cast of bands, it is an excellent source of bands who in three months time everyone will be talking about.
+It has a two main forms. the long form full concert or the short form Tiny Desk Concert.
+my top recommendation.
+2 &lt;a href=&#34;http://www.gardnermuseum.org/music/listen&#34;&gt;The Concert - classical music from the Isabella gardener museum&lt;/a&gt;
+Quite a lovely and surprising pod from the museum.
+generally works by a soloist or combination of players up to quartet. For someone like me with no knowledge of classical music this Pod has an easy way of allowing people into the music. a brief introduction from someone at the museum about the theme of the music and the composer, and intro to the players and we are away.
+a lovely wee pod.
+3 &lt;a href=&#34;http://music.cbc.ca/#/Canada-Live&#34;&gt;Canada Live - CBC radio 2&lt;/a&gt;
+a new discovery - yet the last few updates have brought, Daniel Landois &amp;amp; Emmylou Harris, Cowboys Junkies and Bruce Cockburn.
+A nearly very good pod. The only thing stopping it being excellent, is the guy who hosts it, (I think for contractual reasons), he has to speak after every second song, Unfortunately he chooses to impose upon us how important this artist is. but it is edited and divided into chapters well so you can skip over his chapters!
+&lt;strong&gt;sports&lt;/strong&gt; &lt;a href=&#34;http://www.guardian.co.uk/football/series/footballweekly&#34;&gt;1&lt;br&gt;
+the Guardian Football Weekly with James Richardson&lt;/a&gt;
+Woooof! what a pod.
+it has a light touch, it is funny, to the point, covers the continental game, and has James Richardson from Football Italia!
+seriously though it does exactly what you want a football podcast to be, a reflection of the conversation a group of mates who watch a lot of football may have.
+and as it is recorded twice a week it reflects whats happening currently which is nice.
+very good pod.
+&lt;a href=&#34;http://americarnage.co.uk/index.php&#34;&gt;2 &lt;br&gt;
+Americarnage&lt;/a&gt;
+The tagline of Sports, Culture &amp;amp; Nonsense, just about sums up this award winning podcast. A good mix of sports chat, analysis of each other and random Kevin Costner addiction the pod is a winner. It covers all four major American sports, (baseball, NBA, NFL &amp;amp; Ice Hockey) which will limit listener numbers and does include the occasional bad word and adult reference, but it does it in a light way.
+Quality fun and you don&amp;rsquo;t even need to know who Curtis Painter is to join in.
+&lt;a href=&#34;http://news.bbc.co.uk/sport1/hi/scotland/6535269.stm&#34;&gt;3 &lt;br&gt;
+Scottish Football Podcast, BBC Scotland&lt;/a&gt;
+Half an hour or so of the best football news from BBC Scotland. quite listenable and just the right length i think
+updated daily which is also nice.
+What sports and music pods do you listen too?&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Christian Worship, privacy and social media (#deepimpact2012 pt2)</title>
+      <link>http://localhost:1313/blog/blog/christian-worship-privacy-and-social-media-deepimpact2012-pt2/</link>
+      <pubDate>Tue, 24 Jan 2012 16:18:00 +0000</pubDate>
+       <guid isPermaLink="false">http://schelp.co.uk/blog/?p=1849</guid> 
+      <description>&lt;p&gt;&lt;a href=&#34;http://localhost:1313/blog/wp-content/uploads/2012/01/reachoutandtouchme.jpg&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/blog/wp-content/uploads/2012/01/reachoutandtouchme.jpg&#34;&gt;&lt;/a&gt;.
+&lt;strong&gt;Intro:&lt;/strong&gt; &lt;em&gt;Been thinking about worship quite a lot since Deep Impact 2012. Partly because i realised it reminds me of spring harvest 20 odd years ago. Partly because it challenged me in an unexpected way. These thoughts are rawish &amp;amp; unexplored. probably containing badly made points so feel free to ignore them. They come with a little experience of standing in pews, worship services and events, and some of organising and leading worship in a few contexts.&lt;/em&gt; &lt;strong&gt;what is worship?&lt;/strong&gt;
+worship is time spent noticing God.
+It can be done privately or corporately
+Private worship it can include personal bible study and prayer times.
+Corporately it can include liturgical action such as praising, thanking, invoking, confessing, proclaiming, interceding, and blessing
+&lt;strong&gt;Worship within an congregational setting is not a private event.&lt;/strong&gt;
+Obvious right? If you gather with a group of other people, the relationship is public.
+I do wonder about the individualism of worship. Particularly within songs, songs which refer to &amp;lsquo;I&amp;rsquo; or &amp;lsquo;me&amp;rsquo; and my relationship to a God. This can be helpful in songs of intimacy and praise, hymns and prayers of lament and confession.
+Does this creates a false understanding of the privacy and intimacy of that moment. If I consider that during a public time it is actually a safe environment to have one on one time with God, how does that regard and speak of the others within the church?
+The oft quoted &amp;lsquo;where two and three and gathered&amp;rsquo; provokes the question about how God deals with each person within that. this questions has some momentum when each member of that group could be worshiping privately and individually while part of the whole.
+&lt;strong&gt;Privacy&lt;/strong&gt;
+When we gather for worship, we gather.
+We.
+We bring our experiences, reflections, happiness and sadness and join together. That joining to notice God can mean different thing to different people but we do things together. Inherent in this is a public notice and reaction. If i do something in a congregation there is an expectation that people will notice and and expectation of a reaction. a smile, a nod, a frown, perhaps a stolen moment of commentary. That is part of a group coming to notice God. The reality that we can notice God in each other.
+When David danced in front of God. He did it publicly, literally in front of everyone, (leading the soldiers back from battle). And others started joining in. The story goes that one of his wives looked out the window and saw him and was shocked, catching him later and asking about his actions.
+When we join together, we are public. We are deliberately not private. Our gatherings are hopefully advertised, inviting people into churches to be with us. We look for critical engagement with those who have not joined with us.
+Privacy is a hot topic with the CCTV, interweb, human rights and personal safety issues involved in the discussion. But privacy in a large gathered group is much harder to contend with. What does this mean for those whose job it is to lead a group in worship. it means our outlook and focus should be on the appropriateness of action within our gatherings for our culture, for how each action helps us notice god, &amp;amp; how we can notice God in a way which causes us to think &amp;amp; play.
+&lt;strong&gt;Social Media&lt;/strong&gt;
+It would be easy to point to Social Media as something which disrupts our ability to notice God. It is endless and constant in the demands it makes our our time and our skills. With blogs to read (yes, Irony), RSS feeds to check, twitter to update, Facebook to update, thinks to re-tweet, like and comment on. Taking time to notice God seems entirely counter cultural.
+For years Christianity especially has dealt in social media. First Communion Cards, Footprints book markers, entire shops of books and things to communicate publicly. With the advent of mass recording, Conferences &amp;amp; Festivals have recorded talks and concerts and sold them to those present and those absent, right up to and including dedicated radio and TV stations across the UK.
+The problem comes with the speed of current social media. Twitter expects updates within seconds of each other. Facebook, within minutes. With this speed comes a lack of control. Anyone can say anything, picture anything, and have shared it with millions of people within seconds. This is no possibility of editing the message.
+This immediacy gives rise to fear. The real risk of a negative getting out is realistic. Yet social media has the ability to bring those absent physically, into worship. Enabling for joining in and enriching our noticing God. It allows for those opting out of the worship to engage with those within in. It allows for dialogue.
+Public worship invites comment and social media provides one of the main ways currently to comment. As a force with the ability to instantly allow for the engagement of a large group of people, it is unbeatable. As a aid to our efforts to notice God in a corporate spaces it is a tool which feels under used, with this great possibilities&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Facebook App 191 API Error, the solution.</title>
+      <link>http://localhost:1313/blog/blog/facebook-app-191-api-error-the-solution/</link>
+      <pubDate>Tue, 17 Jan 2012 16:50:32 +0000</pubDate>
+       <guid isPermaLink="false">http://schelp.co.uk/blog/?p=1838</guid> 
+      <description>&lt;p&gt;&lt;a href=&#34;http://localhost:1313/blog/wp-content/uploads/2012/01/konami-code.png&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/blog/wp-content/uploads/2012/01/konami-code-150x150.png&#34;&gt;&lt;/a&gt;
+Just added a new plugin to my blog.
+the WordPress to Facebook plugin allows you to create an app in Facebook and import and export your blog posts and comments to Facebook for Facebook comments to your blog.
+The previous idea of pulling in the blog posts as notes wasn&amp;rsquo;t working as Facebook seems to have sidelined notes as a vital part of the service, much as they have with pages.
+Hopefully with this in place things will communicate well but please be aware we are in a transition space with all this and it could fall apart at any point.
+but it appears to be doing well so far
+the only major problem came at the end of the process.
+I had opened a Facebook app account, and set up the app as per the instructions.
+I clicked back to WordPress installed and set up the plugin.
+then it asked me to generate an access token. (By clicking the link provided)
+every time I successfully got this error message.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>20/11 songs - Laconic Hegemony, vol.6</title>
+      <link>http://localhost:1313/blog/blog/2011-songs-laconic-hegemony-vol-6/</link>
+      <pubDate>Mon, 09 Jan 2012 19:00:14 +0000</pubDate>
+       <guid isPermaLink="false">http://schelp.co.uk/blog/?p=1825</guid> 
+      <description>&lt;p&gt;&lt;a href=&#34;http://localhost:1313/blog/wp-content/uploads/2012/01/laconichegemony-300x296.gif&#34;&gt;&lt;img alt=&#34;The Chair.&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/blog/wp-content/uploads/2012/01/laconichegemony-300x296.gif&#34;&gt;&lt;/a&gt;
+Laconic Hegemony, vol 6 is available for download from &lt;a href=&#34;http://soundcloud.com/laconic-hegemony/2011songs&#34;&gt;Soundcloud&lt;/a&gt; or for listening to live here using the embed below.
+Vol.6 is a collection of my favourite songs from 2011,
+(The critera, to remind you, is any music I have heard for the first time in 2011. So the album may not have been released in 2011 but thats when I heard it, then it is in. I am not sure it is as random as previous efforts and perhaps not as ramshackle as previous mixtapes, but it is there for you.
+For the best listening experience, try listening blind and a tracklisting will go up tomorrow or wednesday at some point.
+(as a point of interest &amp;lsquo;REMembering&amp;rsquo; Laconic Hegemony, vol.5 was never released publicly. but is available if you want it?)&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Lent &#39;11 - Mind Map 3</title>
+      <link>http://localhost:1313/blog/blog/lent-11-mind-map-3/</link>
+      <pubDate>Sat, 12 Mar 2011 14:10:28 +0000</pubDate>
+       <guid isPermaLink="false">http://www.schelp.co.uk/blog/?p=1758</guid> 
+      <description>&lt;p&gt;&lt;a href=&#34;http://localhost:1313/blog/wp-content/uploads/2011/03/Lent-3-Can-virtual-meetings-replace-physical-.png&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/blog/wp-content/uploads/2011/03/Lent-3-Can-virtual-meetings-replace-physical--1024x356.png&#34;&gt;&lt;/a&gt;
+can virtual meetings replace physical meetings?&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>What scientific concept would improve everybody&#39;s cognitive toolkit? </title>
+      <link>http://localhost:1313/blog/blog/what-scientific-concept-would-improve-everybodys-cognitive-toolkit/</link>
+      <pubDate>Mon, 24 Jan 2011 22:22:20 +0000</pubDate>
+       <guid isPermaLink="false">http://www.schelp.co.uk/blog/?p=1726</guid> 
+      <description>&lt;p&gt;&lt;a href=&#34;http://localhost:1313/blog/wp-content/uploads/2011/01/NGC3521_hstGendlerL.jpg&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/blog/wp-content/uploads/2011/01/NGC3521_hstGendlerL-300x246.jpg&#34;&gt;&lt;/a&gt; great question.
+&lt;a href=&#34;http://www.edge.org/q2011/q11_index.html&#34;&gt;The World Questions Centre made this their questions of 2011&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;James Flynn has defined &amp;ldquo;shorthand abstractions&amp;rdquo; (or &amp;ldquo;SHA&amp;rsquo;s&amp;rdquo;) as concepts drawn from science that have become part of the language and make people smarter by providing widely applicable templates (&amp;ldquo;market&amp;rdquo;, &amp;ldquo;placebo&amp;rdquo;, &amp;ldquo;random sample,&amp;rdquo; &amp;ldquo;naturalistic fallacy,&amp;rdquo; are a few of his examples). His idea is that the abstraction is available as a single cognitive chunk which can be used as an element in thinking and debate.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>advent 17 - Snowflake</title>
+      <link>http://localhost:1313/blog/blog/advent-17-snowflake/</link>
+      <pubDate>Sat, 18 Dec 2010 20:37:41 +0000</pubDate>
+       <guid isPermaLink="false">http://www.schelp.co.uk/blog/?p=1706</guid> 
+      <description>&lt;p&gt;&lt;a href=&#34;http://localhost:1313/blog/wp-content/uploads/2010/12/Snowflake.jpg&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/blog/wp-content/uploads/2010/12/Snowflake-300x214.jpg&#34;&gt;&lt;/a&gt;&lt;a href=&#34;http://markgoody.ie/&#34;&gt;Mark Goody, (@marramgrass on twitter)&lt;/a&gt; linked to these images of snowflakes under a microscope.
+look weird but cool.
+&lt;a href=&#34;http://www.akirathedon.com/blobblog/snow-under-a-microscope/&#34;&gt;original site ::[[click here]]::&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>advent 5 - Pop music has lost its nerve</title>
+      <link>http://localhost:1313/blog/blog/advent-5-pop-music-has-lost-its-nerve/</link>
+      <pubDate>Sun, 05 Dec 2010 23:14:30 +0000</pubDate>
+       <guid isPermaLink="false">http://www.schelp.co.uk/blog/?p=1665</guid> 
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.ft.com/cms/s/2/1af3b91a-fe61-11df-845b-00144feab49a.html#axzz17HWfwvAH&#34;&gt;interesting wee article in the financial times about the Pop Music by Peter Aspden&lt;/a&gt;. (inspired by the video above.)
+watch the video and have a read of the article. I think it asks some interesting questions.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Question of TV (answers on the back of an envelope...)</title>
+      <link>http://localhost:1313/blog/blog/question-of-tv-answers-on-the-back-of-an-envelope/</link>
+      <pubDate>Sat, 10 Jul 2010 22:59:55 +0000</pubDate>
+       <guid isPermaLink="false">http://www.schelp.co.uk/blog/?p=1615</guid> 
+      <description>&lt;p&gt;After chatting with my wife, we decided to see if we could get sky HD tv to our house. The man came and tried to give us Sky HD tv. (He really tried, if he cancels he doesn&amp;rsquo;t get paid for the time he was with us!) but eventually the trees beat us. Our trees are higher than our 3 floor house so we cannot get Sky HD tv.
+So we need a solution.
+We live in a valley surrounded by quite big hills so getting a TV signal is quite an issue, currently we cannot get BBC1 or 2 on digital, was can get a poor analogue signal but,
+Virgin doesn&amp;rsquo;t cover our area,
+BT Vision relies on a minimum broad band connection speed, (which we cannot vouch for),
+there appears to be three main solutions
+1 - we buy/rent the field next to us off the rich man and site a satellite dish there.
+2 - we replace the entire existing Ariel system for the house
+3 - we do away with broadcast media and rely solely on technology such as 4OD, BBC iplayer, STVplayer &amp;amp; OnDemand five.
+ideally though any new system/solution would allow for accessibility cross a wireless network to varied different devices.
+but we are open to hearing people&amp;rsquo;s experiences/thoughts?
+any ideas? seriously answers on the back of an envelope!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>new Computer</title>
+      <link>http://localhost:1313/blog/blog/new-computer/</link>
+      <pubDate>Sat, 05 Jun 2010 22:55:26 +0000</pubDate>
+       <guid isPermaLink="false">http://www.schelp.co.uk/blog/?p=1586</guid> 
+      <description>&lt;p&gt;&lt;a href=&#34;http://localhost:1313/blog/wp-content/uploads/2010/06/photo.jpg&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/blog/wp-content/uploads/2010/06/photo.jpg&#34;&gt;&lt;/a&gt;
+Thanks to my lovely wife, i have a beautiful new laptop.
+It was a complete surprise and i am still at a loss for why.
+I do have to say though, it is lighter, faster, somehow it looks more compact than the previous one.
+A big thank you to my wife for such a wonderful surprise. it really was quite amazing.
+It is quite wonderful.
+all i have to do is save up for a new laptop bag for it to fit in,
+&lt;a href=&#34;http://hmd.howies.co.uk/bag.html#courier-detail&#34;&gt;one of these would be nice&amp;hellip;&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>I still haven&#39;t found what i&#39;m looking for....</title>
+      <link>http://localhost:1313/blog/blog/i-still-havent-found-what-im-looking-for/</link>
+      <pubDate>Thu, 13 May 2010 18:53:28 +0000</pubDate>
+       <guid isPermaLink="false">http://www.schelp.co.uk/blog/?p=1546</guid> 
+      <description>&lt;p&gt;&lt;a href=&#34;http://localhost:1313/blog/wp-content/uploads/2010/05/stiilhavnt.jpg&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/blog/wp-content/uploads/2010/05/stiilhavnt.jpg&#34;&gt;&lt;/a&gt;
+No matter where I search, it seems the internet can never answer the question.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>adding some Bloom</title>
+      <link>http://localhost:1313/blog/blog/adding-some-bloom/</link>
+      <pubDate>Sat, 10 Apr 2010 10:08:39 +0000</pubDate>
+       <guid isPermaLink="false">http://www.schelp.co.uk/blog/?p=1523</guid> 
+      <description>&lt;p&gt;I spent some of last night building our newest, shiny, white piece of furniture, the magnificent &amp;ldquo;bloom Fresco Loft Contemporary Leatherette Baby Chair, Ivory White with Rock Red.&amp;rdquo;
+this is a photo record of what turned out to be a simple build, which looks great
+to start with the publicity shot
+&lt;img loading=&#34;lazy&#34; src=&#34;http://s7v1.scene7.com/is/image/JohnLewis/230586627?wid=600&amp;hei=600&#34;&gt;
+all the bits and end reciepient/main user, (for purposes of scale obviously)
+&lt;a href=&#34;http://localhost:1313/blog/wp-content/uploads/2010/04/P1010172.jpg&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/blog/wp-content/uploads/2010/04/P1010172-300x225.jpg&#34;&gt;&lt;/a&gt;
+lots of packaging
+&lt;a href=&#34;http://localhost:1313/blog/wp-content/uploads/2010/04/P1010175.jpg&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/blog/wp-content/uploads/2010/04/P1010175-300x225.jpg&#34;&gt;&lt;/a&gt;
+instructions seperate picture (right hand side of book, from left hand side
+&lt;a href=&#34;http://localhost:1313/blog/wp-content/uploads/2010/04/P1010177.jpg&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/blog/wp-content/uploads/2010/04/P1010177-300x225.jpg&#34;&gt;&lt;/a&gt;
+finally done!
+&lt;a href=&#34;http://localhost:1313/blog/wp-content/uploads/2010/04/P1010179.jpg&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/blog/wp-content/uploads/2010/04/P1010179-300x225.jpg&#34;&gt;&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Purchased - kettle, Relationships - changed</title>
+      <link>http://localhost:1313/blog/blog/purchased-kettle-relationships-changed/</link>
+      <pubDate>Sat, 13 Mar 2010 13:20:16 +0000</pubDate>
+       <guid isPermaLink="false">http://www.schelp.co.uk/blog/?p=1494</guid> 
+      <description>&lt;p&gt;&lt;a href=&#34;http://localhost:1313/blog/wp-content/uploads/2010/03/krups.jpg&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/blog/wp-content/uploads/2010/03/krups.jpg&#34;&gt;&lt;/a&gt;
+On Tuesday our kettle stopped working. With baby milk and stuff, having boiling water quickly is a good idea generally. While boiling on the cooker was effective, it was taking considerably longer than a kettle. Soon Wednesday due to a mobile phone message mix up, I was dispatched to buy a new kettle.
+In our town a that time of night you have three options, Tesco, Argos or Homebase. I discounted Homebase as not likely to have a great range, and Tesco was stuck off the list for broadly similar reasons. This left Argos as sole supplier, but fortunately is is surprising the range Argos have. It is broad and wide (ish). I selected a kettle and bought it. What a kettle it is. It has challenged me in ways i never thought a kettle could.
+&lt;a href=&#34;http://www.krups.co.uk/All+Products/Kettles/Products/BW4000+Semi+Pro/BW4000+Semi+Pro.htm&#34;&gt;Krups BW4000 Semi Pro&lt;/a&gt;
+Having lived with it for four days now I really like it. I mean really like it. My relationships with kettles up and until this point has always been kinda ambiguous, but that has changed. &amp;lsquo;why?&amp;rsquo; you ask, &amp;lsquo;isn&amp;rsquo;t a kettle just a kettle?&amp;rsquo;
+no
+the Krups BW4000 Semi Pro is not just a kettle like any other.
+1 -it isn&amp;rsquo;t round or oblong in shape, The Krups has a distinctive square shape to it. I didn&amp;rsquo;t realise quite how much the shape would challenge my thoughts about kettles.
+2 -The Krups has a 2l capacity. The other kettles we have had only had a 1.7 capacity, yet it doesn&amp;rsquo;t seem bigger.
+3 - The Krups is heavier. i had never considered the weight of a kettle before but the Krups feels substantial, while just being right for its size.
+4 - Automatic assisted lid. It seems just to make sense and keep in fitting with the rest of the machine.
+5 - Concealed element. It gives the kettle an air of mystery, you don&amp;rsquo;t see the element&amp;hellip;does it even exist.
+6 - Soft grip handle. It is soft and grippy. Other kettles seem plastic-y and cold in comparison.
+Before this week I hadn&amp;rsquo;t considered my relationship with my kettle. Now I wonder what other relationships I have but am unaware of&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>possibly the best answer ever given?</title>
+      <link>http://localhost:1313/blog/blog/possibly-the-best-answer-ever-given/</link>
+      <pubDate>Mon, 19 Oct 2009 21:06:52 +0000</pubDate>
+       <guid isPermaLink="false">http://www.schelp.co.uk/blog/?p=1216</guid> 
+      <description>&lt;p&gt;so when plating with the newish, and rather cool &lt;a href=&#34;http://www.wolframalpha.com/&#34;&gt;Wolfram Alpha&lt;/a&gt; search engine I asked the obvious question. Below is the type of answer which possibly will save the internet from itself.
+&lt;img alt=&#34;godanswer&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/blog/wp-content/uploads/2009/10/godanswer.jpg&#34;&gt;
+I like a search engine that is not afraid to give you a shrug of its shoulders and the ubiquitous &amp;ldquo;dunno&amp;rdquo; answer.
+p.s. on the other big question, yes, the answer is still 42.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>If your looking for....</title>
+      <link>http://localhost:1313/blog/blog/if-your-looking-for/</link>
+      <pubDate>Wed, 07 Jan 2009 22:33:56 +0000</pubDate>
+       <guid isPermaLink="false">http://www.schelp.co.uk/blog/?p=925</guid> 
+      <description>&lt;p&gt;&lt;img alt=&#34;iwork-08&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/blog/wp-content/uploads/2009/01/iwork-08.jpg&#34;&gt;
+If you update to Leopard,
+and wipe the hard disk like i did,
+and you reload in all your software like i did,
+Take a note of all you serial numbers before you do it.
+or you could spend one night searching for the number, and not find it, like i did
+then down load open office, like I did,
+then pray you don&amp;rsquo;t have to open anything written in pages at work the next day, like i prayed,
+then spend night two going through everything where it should be, and not find it, like i did
+and then when dispair hits, like I felt it
+have your wife find it randomly under a pile of stuff, like she did
+in the living room on the mantel piece, &amp;ldquo;where you left it, obviously&amp;rdquo;, like i did
+on second thoughts it is probably easier to note down the number before you install.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>You ain&#39;t living without your own super computer</title>
+      <link>http://localhost:1313/blog/blog/you-aint-living-without-your-own-super-computer/</link>
+      <pubDate>Thu, 18 Dec 2008 15:01:01 +0000</pubDate>
+       <guid isPermaLink="false">http://www.schelp.co.uk/blog/?p=882</guid> 
+      <description>&lt;p&gt;&lt;img alt=&#34;l-playstation3-logo&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/blog/wp-content/uploads/2008/12/l-playstation3-logo-300x223.jpg&#34;&gt;&lt;a href=&#34;http://www.wired.com/techbiz/it/news/2007/10/ps3_supercomputer&#34;&gt;Astrophysicist Replaces Supercomputer with Eight PlayStation 3s&lt;/a&gt; &lt;a href=&#34;http://www.physorg.com/news92674403.html&#34;&gt;Engineer Creates First Academic Playstation 3 Computing Cluster&lt;/a&gt;
+Using headlines like this, it was brought to the scientific communities attention that &lt;a href=&#34;http://uk.playstation.com/ps3/&#34;&gt;Sony&amp;rsquo;s Playstation 3&lt;/a&gt; was an open source parallel processing dream. So the idea of clustering a some &lt;a href=&#34;http://uk.playstation.com/ps3/&#34;&gt;Ps3&lt;/a&gt;&amp;rsquo;s and making something capable for playing &lt;a href=&#34;http://www.konami.jp/mgs4/uk/index.html&#34;&gt;metal gear solid 4&lt;/a&gt; and also taking some of work of supercomputers was achieveable and very possible, at a price more affordable than hiring time on a super computer.
+One of the academics involved postulated that six &lt;a href=&#34;http://uk.playstation.com/ps3/&#34;&gt;ps3&amp;rsquo;&lt;/a&gt; s are equivelant to a 200 node super computer.
+&lt;a href=&#34;http://www.physorg.com/news148749271.html&#34;&gt;Scientists Write Guide to Build Supercomputer from Sony Playstation 3&lt;/a&gt;
+Well now they have gone and put the guide on the internet with links to the appropriate linux stuff. so if one night you and your &lt;a href=&#34;http://uk.playstation.com/ps3/&#34;&gt;ps3&lt;/a&gt; owning friends needs to crunch some big numbers then all the stuff is here for you.
+&lt;a href=&#34;http://www.ps3cluster.org/index.html&#34;&gt;ps3cluster.org&lt;/a&gt;
+I love this idea. I don&amp;rsquo;t like it enough to buy a playstation 3 @ £279.99
+I wonder if I could persuade the maths department at the local high school to build a super computer for a laugh!
+that would be living!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>test</title>
+      <link>http://localhost:1313/blog/blog/test-2/</link>
+      <pubDate>Wed, 26 Nov 2008 14:18:08 +0000</pubDate>
+       <guid isPermaLink="false">http://www.schelp.co.uk/blog/?p=825</guid> 
+      <description>&lt;p&gt;test&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>write or die</title>
+      <link>http://localhost:1313/blog/blog/write-or-die/</link>
+      <pubDate>Thu, 20 Nov 2008 21:35:58 +0000</pubDate>
+       <guid isPermaLink="false">http://www.schelp.co.uk/blog/?p=781</guid> 
+      <description>&lt;p&gt;&lt;a href=&#34;http://localhost:1313/blog/wp-content/uploads/2008/11/write_or_die.jpg&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/blog/wp-content/uploads/2008/11/write_or_die.jpg&#34;&gt;&lt;/a&gt;
+Attention students, and those writing who lack motivation or time or skill but need to get words out. The &lt;a href=&#34;http://lifehacker.com/5081869/write-or-die-makes-sure-you-keep-churning-out-words&#34;&gt;ever wonderful Lifehacker points&lt;/a&gt; to one of the coolest online applications I have seen in the last wee while.
+&lt;a href=&#34;http://lab.drwicked.com/writeordie.html&#34;&gt;Write or Die&lt;/a&gt; is a simple javascript app, which inspires you to write an amount of words in an amount of time. Sounds cool huh. You set it up, for example, I want to write 1000 words in 10 minutes. It says okay then asks you what level of treatment you would like to get.
+&amp;lsquo;Gentle&amp;quot; and you get a text box reminder
+&amp;lsquo;Normal&amp;rsquo; plays a sound file
+&amp;lsquo;kamikazie&amp;rsquo; is a killer though. It starts deleting the text you have written until you start typing again.
+I hate to think what happens if you put it on &amp;rsquo;electric shock&amp;rsquo;
+I figure in this the season of intense essay writing this may become handy for some folks!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>bebo</title>
+      <link>http://localhost:1313/blog/blog/bebo/</link>
+      <pubDate>Wed, 05 Nov 2008 13:19:04 +0000</pubDate>
+       <guid isPermaLink="false">http://www.schelp.co.uk/blog/?p=758</guid> 
+      <description>&lt;p&gt;&lt;a href=&#34;http://localhost:1313/blog/wp-content/uploads/2008/11/bebo-logo.jpg&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/blog/wp-content/uploads/2008/11/bebo-logo-300x111.jpg&#34;&gt;&lt;/a&gt;
+Am I the only one getting random messages from hot young ladies who are bored and about to turn on their webcam? I ask this as I currently keep four bebo&amp;rsquo;s for me and work stuff, yet my own is the only one which gets these types of messages.
+It&amp;rsquo;s a mystery!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>test me</title>
+      <link>http://localhost:1313/blog/blog/test-me/</link>
+      <pubDate>Sat, 27 Sep 2008 16:00:01 +0000</pubDate>
+       <guid isPermaLink="false">http://www.schelp.co.uk/blog/?p=673</guid> 
+      <description>&lt;p&gt;&lt;a href=&#34;http://localhost:1313/blog/wp-content/uploads/2008/09/tmsmlogo.jpg&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/blog/wp-content/uploads/2008/09/tmsmlogo.jpg&#34;&gt;&lt;/a&gt;
+confession
+My entire university experience is based on picking courses with no exams within them
+I have passed all so far.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Calling out Around the world!</title>
+      <link>http://localhost:1313/blog/blog/calling-out-around-the-world/</link>
+      <pubDate>Thu, 11 Sep 2008 14:55:48 +0000</pubDate>
+       <guid isPermaLink="false">http://www.schelp.co.uk/blog/?p=653</guid> 
+      <description>&lt;p&gt;&lt;a href=&#34;http://localhost:1313/blog/wp-content/uploads/2008/09/e65_408x250.jpg&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/blog/wp-content/uploads/2008/09/e65_408x250-300x183.jpg&#34;&gt;&lt;/a&gt;
+It has been a day now.
+Has anyone seen my phone?&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Testing Switchabit</title>
+      <link>http://localhost:1313/blog/blog/testing-switchabit/</link>
+      <pubDate>Tue, 15 Jul 2008 14:10:00 +0000</pubDate>
+       <guid isPermaLink="false">http://www.schelp.co.uk/blog/?p=633</guid> 
+      <description>&lt;p&gt;&lt;a href=&#34;http://bp0.blogger.com/_AQL5BvjF3p8/SHyw03__ixI/AAAAAAAAAZo/nrDvqWotYDU/s1600-h/screen1.JPG&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://bp0.blogger.com/_AQL5BvjF3p8/SHyw03__ixI/AAAAAAAAAZo/nrDvqWotYDU/s400/screen1.JPG&#34;&gt;&lt;/a&gt;&lt;br&gt;
+Hey&lt;br&gt;
+this is a test e-mail checking if theservice from &lt;a href=&#34;http://beta.switchabit.com&#34;&gt;switchabit&lt;/a&gt; is really as good as they claim.&lt;br&gt;
+If so you will see this on my blog - &lt;a href=&#34;http://scottinbrief.blogspot.com&#34;&gt;scottinbrief&lt;/a&gt; and on my facebook account.
+If not this won&amp;rsquo;t appear there. hope that makes sense.
+Technorati Tags: &lt;a href=&#34;http://technorati.com/tag/coolness&#34;&gt;coolness&lt;/a&gt;, &lt;a href=&#34;http://technorati.com/tag/webstuff&#34;&gt;webstuff&lt;/a&gt;, &lt;a href=&#34;http://technorati.com/tag/test&#34;&gt;test&lt;/a&gt;, &lt;a href=&#34;http://technorati.com/tag/switchabit&#34;&gt;switchabit&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>eudora 6.0.2 v eudrora 1.0.0.b3 (yeah geeky stuff)</title>
+      <link>http://localhost:1313/blog/blog/eudora-602-v-eudrora-100b3-yeah-geeky-stuff/</link>
+      <pubDate>Fri, 04 Jul 2008 21:19:00 +0000</pubDate>
+       <guid isPermaLink="false">http://www.schelp.co.uk/blog/?p=627</guid> 
+      <description>&lt;p&gt;&lt;a href=&#34;http://bp1.blogger.com/_AQL5BvjF3p8/SG6UCDFl4OI/AAAAAAAAAYg/84aFfmgU5fQ/s1600-h/old+eudora.JPG&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://bp1.blogger.com/_AQL5BvjF3p8/SG6UCDFl4OI/AAAAAAAAAYg/84aFfmgU5fQ/s400/old+eudora.JPG&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;my old eudora screen
+recently I have changed my email program from eudora 6.2 as shown above to the new shiny eudora 1.0.0b3 as shown below!&lt;br&gt;
+&lt;a href=&#34;http://bp0.blogger.com/_AQL5BvjF3p8/SG6UCU6zv6I/AAAAAAAAAYo/CaAISNcsW-I/s1600-h/new+shiny+eudora.jpg&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://bp0.blogger.com/_AQL5BvjF3p8/SG6UCU6zv6I/AAAAAAAAAYo/CaAISNcsW-I/s400/new+shiny+eudora.jpg&#34;&gt;&lt;/a&gt;
+the new shiny, thunderbird, penelope build eudora 1.0.0b3
+Well the first change is the design page.&lt;br&gt;
+it is all in on screen unlike the multiple screens which populated eudora 6.2. To be honest the penelope thunderbird build is very nice. it is friendly and welocming. Having used thunderbird before I was familiar with the layout
+the best thing about the build is the way that it allows you to use the pop3 filter features on your gmail accounts. (I have two, one for junk, one for my youthwork.) the new eudora allows me to download and send email from both accounts from one central point. with seperate signatures for each account and everything!
+the migration has been quite easy and was done within a hour from deciding to upgrade to dwonload and e-mails being sent. I am quite impresed to be honest!
+if you have a mac and can use eudora then you should try it.&lt;br&gt;
+if you have a windows based machine then mozilla thunderbird is actually quite good.
+technorati tags - &lt;a href=&#34;http://technorati.com/tag/eudora&#34;&gt;eudora&lt;/a&gt; &amp;amp; &lt;a href=&#34;http://technorati.com/tag/mac%20e-mail&#34;&gt;mac e-mail&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>website development</title>
+      <link>http://localhost:1313/blog/blog/website-development/</link>
+      <pubDate>Tue, 10 Jun 2008 21:17:00 +0000</pubDate>
+       <guid isPermaLink="false">http://www.schelp.co.uk/blog/?p=618</guid> 
+      <description>&lt;p&gt;&lt;a href=&#34;http://bp0.blogger.com/_AQL5BvjF3p8/SE7v78etvkI/AAAAAAAAAVs/DA1Yf0Y-3Eo/s1600-h/schelp.co.uk.JPG&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://bp0.blogger.com/_AQL5BvjF3p8/SE7v78etvkI/AAAAAAAAAVs/DA1Yf0Y-3Eo/s400/schelp.co.uk.JPG&#34;&gt;&lt;/a&gt;&lt;br&gt;
+Hey sorry about the lack of blogs. Currently I am trying to put my domain in order so a work in progrss some links work
+(Blog, Links)
+the others don&amp;rsquo;t currently. anyway check it out
+&lt;a href=&#34;http://www.schelp.co.uk&#34;&gt;http://www.schelp.co.uk&lt;/a&gt;
+Technorati Tags: &lt;a href=&#34;http://technorati.com/tag/website%20development&#34;&gt;website development&lt;/a&gt;, &lt;a href=&#34;http://technorati.com/tag/schelp.co.uk&#34;&gt;schelp.co.uk&lt;/a&gt;, &lt;a href=&#34;http://technorati.com/tag/scott%20paget&#34;&gt;scott paget&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>ical and google calender synconisation - for free!</title>
+      <link>http://localhost:1313/blog/blog/ical-and-google-calender-synconisation-for-free/</link>
+      <pubDate>Sun, 25 May 2008 08:20:00 +0000</pubDate>
+       <guid isPermaLink="false">http://www.schelp.co.uk/blog/?p=614</guid> 
+      <description>&lt;p&gt;&lt;a href=&#34;http://bp1.blogger.com/_AQL5BvjF3p8/SDrrzlEb5eI/AAAAAAAAAUk/ELn3aRywwQI/s1600-h/googlecal.jpg&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://bp1.blogger.com/_AQL5BvjF3p8/SDrrzlEb5eI/AAAAAAAAAUk/ELn3aRywwQI/s400/googlecal.jpg&#34;&gt;&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;http://bp3.blogger.com/_AQL5BvjF3p8/SDrr0FEb5fI/AAAAAAAAAUs/PwUGTgxV-Ns/s1600-h/ical.png&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://bp3.blogger.com/_AQL5BvjF3p8/SDrr0FEb5fI/AAAAAAAAAUs/PwUGTgxV-Ns/s400/ical.png&#34;&gt;&lt;/a&gt;&lt;br&gt;
+So the age old issue is that &lt;a href=&#34;http://en.wikipedia.org/wiki/ICal&#34;&gt;Ical&lt;/a&gt; can transmit to &lt;a href=&#34;http://www.google.com/calendar&#34;&gt;Google calender&lt;/a&gt;. Google calender can transmit to Ical but there is no syncronisation. The data flows one way only. That mean you need to enter the data twice.
+&lt;a href=&#34;http://bp3.blogger.com/_AQL5BvjF3p8/SDrr0FEb5gI/AAAAAAAAAU0/-AC8oFyML6I/s1600-h/spanning+sync.png&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://bp3.blogger.com/_AQL5BvjF3p8/SDrr0FEb5gI/AAAAAAAAAU0/-AC8oFyML6I/s400/spanning+sync.png&#34;&gt;&lt;/a&gt;&lt;br&gt;
+Enter &lt;a href=&#34;http://spanningsync.com/&#34;&gt;spanning sync&lt;/a&gt;. a program free to try for 15 days with full syncronisation of google calender and &lt;a href=&#34;http://en.wikipedia.org/wiki/ICal&#34;&gt;Ical&lt;/a&gt;. nice GUI. it is not bad. the downside is it is kinda annoyingly noticeable as you use it and as it updates. the real downside though is the $25 per month fee for the program. I used the free trial to get both calenders linked and updated to each other but after the free trial ended then i made the decision i would rather typw everything twice, and pay myself the $25 per month.
+&lt;a href=&#34;http://bp0.blogger.com/_AQL5BvjF3p8/SDrr0VEb5hI/AAAAAAAAAU8/6Ur687_KsGM/s1600-h/screenshot1.gif&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://bp0.blogger.com/_AQL5BvjF3p8/SDrr0VEb5hI/AAAAAAAAAU8/6Ur687_KsGM/s400/screenshot1.gif&#34;&gt;&lt;/a&gt;&lt;br&gt;
+Enter the &lt;a href=&#34;http://gcaldaemon.sourceforge.net/index.html&#34;&gt;GCAlDaemon&lt;/a&gt;. (yeah catchy title right). the GCAlDaemon is a small program which runs in the background of your computer. It makes gcal and ical syncronise for free!
+the instructiuons are pretty cool and you get to enter dos commands to the terminal. something i had never done on the mac. fortunately my hacking skills arn&amp;rsquo;t to bad.
+the only thing i warnign i would give is&lt;br&gt;
+the dos commands can get complicated. at one point it asks you to open a file. you type in the dos location and the terminal tell you that yes, that is a folder. The instructions actually wants you to open the folder in my documents type folder system. that had me confused for a wee while.
+but to be honest it really is easy and fun to do and works like a treat.
+ease of use - 10 out of 10&lt;br&gt;
+instillation (on the mAc but available for most OS) - 7 out of ten.
+if you use Ical (or Mozilla Sunbird/Lightning, Rainlendar or Evolution) and Googlemail and owned a computer before windows, you have no excuse not to be using this system.
+technorati tags - &lt;a href=&#34;http://technorati.com/tag/google%20cal%20ical%20syncronisation&#34;&gt;google cal ical syncronisation&lt;/a&gt; &amp;amp; &lt;a href=&#34;http://technorati.com/tag/gcaldaemon&#34;&gt;GCALDaemon&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>test</title>
+      <link>http://localhost:1313/blog/blog/test/</link>
+      <pubDate>Tue, 13 May 2008 15:29:00 +0000</pubDate>
+       <guid isPermaLink="false">http://www.schelp.co.uk/blog/?p=611</guid> 
+      <description>&lt;p&gt;After a recommendation from Stewart Cutler on his blog &lt;a href=&#34;http://swryv.wordpress.com/&#34;&gt;Scream Without Raising Your Voices&lt;/a&gt;&lt;br&gt;
+I am now testing &lt;a href=&#34;https://addons.mozilla.org/en-US/firefox/addon/1730&#34;&gt;Scibefire&lt;/a&gt; to see how it goes. (hopefully better than Flock which was good but somewhat incomplete as ideas for new browers go) &lt;a href=&#34;https://addons.mozilla.org/en-US/firefox/addon/1730&#34;&gt;Scibefire&lt;/a&gt; is a firefox add on and as such is not a new browser.
+Anyway on with the testing
+technorati tags - &amp;lt;a href=&amp;ldquo;&lt;a href=&#34;http://technorati.com/tag/scribefire%22&#34;&gt;http://technorati.com/tag/scribefire&amp;quot;&lt;/a&gt; rel=&amp;ldquo;tag&amp;rdquo;&amp;gt;scribefire&amp;lt;/a&amp;gt; &amp;amp; &amp;lt;a href=&amp;ldquo;&lt;a href=&#34;http://technorati.com/tag/testing%22&#34;&gt;http://technorati.com/tag/testing&amp;quot;&lt;/a&gt; rel=&amp;ldquo;tag&amp;rdquo;&amp;gt;testing&amp;lt;/a&amp;gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Flock Test</title>
+      <link>http://localhost:1313/blog/blog/flock-test/</link>
+      <pubDate>Wed, 26 Mar 2008 14:46:00 +0000</pubDate>
+       <guid isPermaLink="false">http://www.schelp.co.uk/blog/?p=590</guid> 
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.flock.com/homepage/img/features/feature_main_mac.png&#34; title=&#34;feature_main_mac.png” cannot be displayed, because it contains errors.&#34;&gt;&lt;img alt=&#34;feature_main_mac.png” cannot be displayed, because it contains errors.&#34; loading=&#34;lazy&#34; src=&#34;http://www.flock.com/homepage/img/features/feature_main_mac.png&#34;&gt;&lt;/a&gt;
+I downloaded &lt;a href=&#34;http://www.flock.com&#34;&gt;flock&lt;/a&gt;. it&amp;rsquo;s a new browser with built in tools for web 2.0 applications, or summit
+so just testing the blog editor on it
+laters&lt;br&gt;
+Blogged with the &lt;a href=&#34;http://www.flock.com/blogged-with-flock&#34; title=&#34;Flock Browser&#34;&gt;Flock Browser&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>microsoft vs Mac</title>
+      <link>http://localhost:1313/blog/blog/microsoft-vs-mac/</link>
+      <pubDate>Thu, 24 May 2007 21:14:00 +0000</pubDate>
+       <guid isPermaLink="false">http://www.schelp.co.uk/blog/?p=529</guid> 
+      <description>&lt;p&gt;&lt;a href=&#34;http://bp1.blogger.com/_AQL5BvjF3p8/RlYPaV_EiXI/AAAAAAAAAFo/0qYgZYtwoGo/s1600-h/screen2.jpg&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://bp1.blogger.com/_AQL5BvjF3p8/RlYPaV_EiXI/AAAAAAAAAFo/0qYgZYtwoGo/s320/screen2.jpg&#34;&gt;&lt;/a&gt;&lt;br&gt;
+(I am a Ricecake. so funny)
+moving to the MacBook Pro has been reasonably painless.&lt;br&gt;
+most of the major software i have used seems to be similar or the same. I have a desk top running windows for various applications.
+Windows system is what i have learned on and grew with. (after my dads opinions on BBC&amp;rsquo;s. Acorns and the fabulous RISC PC. The windows machine is logical in a windows ways and runs stuff easily.
+The mac is a dream though. somehow the mac OSX (The equivelent of windows) is somehow just so easy. it seems kinda simple and inuitive.
+But there are problems.
+1 - Windows only software.
+Why oh Why do people not even bother.&lt;br&gt;
+anywhere between 3-16 percent of the worlds computer users are using Macs. Sorry Mr Lazy Nokia. Sorry Mr lazy Motorola your decision to exclude these computers of the world is really a lazy attitude to how you have decided to treat people.
+aparently if you are a customer of one of these technology companies you need to get a Windows running machine in order to fully use there products.
+Hmmmmm.
+2 - Mac spreadsheet.
+Like can you find a decent one?&lt;br&gt;
+why not with iworks?&lt;br&gt;
+come one mr Mac get a shift on.&lt;br&gt;
+Pages is good, Keynote so far beyond powerpoint.&lt;br&gt;
+But I have to use open office to get a spreadsheet package. (not bad by the way.)
+get it sorted mr Mac.
+3 - Windows Only Content
+Last week my son Jacob decsided to play on his mothers nerves. She decided to try and cheer himj up with a virtual trip to his favourite TV shows Website.
+HI5 (Austrailian, young childrens pop group who do songs and stories and sketches, on channel 5 in the UK at 6.45am or something rediculous.)
+Anyway we got to site, and saw we could view different songs and dances from the website. we clicked and an error message came up.&lt;br&gt;
+In order to view this content, you need to download free software, Internet explorer 2839456, Windows Media player 100000, and Quicktime.
+So we have quick time, its a mac, you cannot even get a copy of internet explorer for mac. GRRRR. It confused us no end for a couple of hours. anyway it was frustrating and Jacob disappointed.
+eventually we turned to youtube and found the spanish Hi5. Freaky in a big way.&lt;br&gt;
+then we found a whole episode of Hi 5 and jacob danced, and sang and played his bear as a guitar.
+The point is The website on channel nine is actively maintained in partnership with Microsoft through their MSN webstuff. I am not really against microsot developing this type of buisness agreement.
+I am against forcing 0-6 year olds to use you products exclusively in order to view content you are providing for a third party as a paid service. it just stinks to be honest.sure, microsfot don&amp;rsquo;t like mac going all the way back to the lawsuits issued in relation to the development of windows 3.
+but frankly, to force 0-6 year olds to use your brand of product only. thats a step beyond what is reasonable.
+Hi5, channel nine, Microsoft, feel ashamed, Get it sorted, now.
+on a different note.&lt;br&gt;
+i am thankful for the bbc website being multi OS and multi access allowing people to use it from any computer, any OS any type of media playing.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Look At The Pretty Pictures!</title>
+      <link>http://localhost:1313/blog/blog/look-at-the-pretty-pictures/</link>
+      <pubDate>Thu, 12 Apr 2007 22:28:00 +0000</pubDate>
+       <guid isPermaLink="false">http://www.schelp.co.uk/blog/?p=516</guid> 
+      <description>&lt;p&gt;&lt;a href=&#34;http://bp0.blogger.com/_AQL5BvjF3p8/Rh6ysWPH5PI/AAAAAAAAADQ/pyZe6B6DDYo/s1600-h/screen2.JPG&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://bp0.blogger.com/_AQL5BvjF3p8/Rh6ysWPH5PI/AAAAAAAAADQ/pyZe6B6DDYo/s320/screen2.JPG&#34;&gt;&lt;/a&gt;&lt;br&gt;
+(my desk top. using the handy (function+f9) combination.
+With using the Mac at placement and work and home I am leanring more about it.&lt;br&gt;
+I currently by to mac magazines, primarily for the tutorials and the free stuff on the CD, (You know the type no doubt.)
+One of my favourite utilities for the Mac is ScreenCaptureX.&lt;br&gt;
+It is a simple wee program which allows you to take pictures of your screen. It really is a simple program which does exactly what it says it does.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Today</title>
+      <link>http://localhost:1313/blog/blog/today-2/</link>
+      <pubDate>Tue, 28 Nov 2006 10:31:00 +0000</pubDate>
+       <guid isPermaLink="false">http://www.schelp.co.uk/blog/?p=497</guid> 
+      <description>&lt;p&gt;&lt;a href=&#34;http://photos1.blogger.com/blogger/3339/480/1600/Photo%2010.jpg&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://photos1.blogger.com/blogger/3339/480/320/Photo%2010.jpg&#34;&gt;&lt;/a&gt;
+Today.&lt;br&gt;
+I will mostly be reading In the Library.&lt;br&gt;
+or possibly typing on my new laptop.&lt;br&gt;
+or possibly taking photo&amp;rsquo;s of myself using the built in webcam thingy.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

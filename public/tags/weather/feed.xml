@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Weather on smpaget blog</title>
+    <link>http://localhost:1313/blog/tags/weather/</link>
+    <description>Recent content in Weather on smpaget blog</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 03 Dec 2008 11:01:36 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/blog/tags/weather/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Brrrr.... it&#39;s a bit cold round here</title>
+      <link>http://localhost:1313/blog/blog/brrrr-its-a-bit-cold-round-here/</link>
+      <pubDate>Wed, 03 Dec 2008 11:01:36 +0000</pubDate>
+       <guid isPermaLink="false">http://www.schelp.co.uk/blog/?p=834</guid> 
+      <description>&lt;p&gt;&lt;a href=&#34;http://localhost:1313/blog/wp-content/uploads/2008/12/snowycar.jpg&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/blog/wp-content/uploads/2008/12/snowycar-225x300.jpg&#34;&gt;&lt;/a&gt;
+Yes I can speak eskimo
+Sunday - minus 4C &amp;amp; frozen icicles hanging from the branches
+Monday - SNOW about an inch - Woo Hoo and minus4 again
+Tuesday - More Snow about 1 more inch we built a snow man
+Wednesday - minus 9C - frozen roads and snow, got to minus 11c on our drive to work
+Christmas has started.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

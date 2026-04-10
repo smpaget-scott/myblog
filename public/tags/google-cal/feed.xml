@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Google-Cal on smpaget blog</title>
+    <link>http://localhost:1313/blog/tags/google-cal/</link>
+    <description>Recent content in Google-Cal on smpaget blog</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 25 May 2008 08:20:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/blog/tags/google-cal/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ical and google calender synconisation - for free!</title>
+      <link>http://localhost:1313/blog/blog/ical-and-google-calender-synconisation-for-free/</link>
+      <pubDate>Sun, 25 May 2008 08:20:00 +0000</pubDate>
+       <guid isPermaLink="false">http://www.schelp.co.uk/blog/?p=614</guid> 
+      <description>&lt;p&gt;&lt;a href=&#34;http://bp1.blogger.com/_AQL5BvjF3p8/SDrrzlEb5eI/AAAAAAAAAUk/ELn3aRywwQI/s1600-h/googlecal.jpg&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://bp1.blogger.com/_AQL5BvjF3p8/SDrrzlEb5eI/AAAAAAAAAUk/ELn3aRywwQI/s400/googlecal.jpg&#34;&gt;&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;http://bp3.blogger.com/_AQL5BvjF3p8/SDrr0FEb5fI/AAAAAAAAAUs/PwUGTgxV-Ns/s1600-h/ical.png&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://bp3.blogger.com/_AQL5BvjF3p8/SDrr0FEb5fI/AAAAAAAAAUs/PwUGTgxV-Ns/s400/ical.png&#34;&gt;&lt;/a&gt;&lt;br&gt;
+So the age old issue is that &lt;a href=&#34;http://en.wikipedia.org/wiki/ICal&#34;&gt;Ical&lt;/a&gt; can transmit to &lt;a href=&#34;http://www.google.com/calendar&#34;&gt;Google calender&lt;/a&gt;. Google calender can transmit to Ical but there is no syncronisation. The data flows one way only. That mean you need to enter the data twice.
+&lt;a href=&#34;http://bp3.blogger.com/_AQL5BvjF3p8/SDrr0FEb5gI/AAAAAAAAAU0/-AC8oFyML6I/s1600-h/spanning+sync.png&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://bp3.blogger.com/_AQL5BvjF3p8/SDrr0FEb5gI/AAAAAAAAAU0/-AC8oFyML6I/s400/spanning+sync.png&#34;&gt;&lt;/a&gt;&lt;br&gt;
+Enter &lt;a href=&#34;http://spanningsync.com/&#34;&gt;spanning sync&lt;/a&gt;. a program free to try for 15 days with full syncronisation of google calender and &lt;a href=&#34;http://en.wikipedia.org/wiki/ICal&#34;&gt;Ical&lt;/a&gt;. nice GUI. it is not bad. the downside is it is kinda annoyingly noticeable as you use it and as it updates. the real downside though is the $25 per month fee for the program. I used the free trial to get both calenders linked and updated to each other but after the free trial ended then i made the decision i would rather typw everything twice, and pay myself the $25 per month.
+&lt;a href=&#34;http://bp0.blogger.com/_AQL5BvjF3p8/SDrr0VEb5hI/AAAAAAAAAU8/6Ur687_KsGM/s1600-h/screenshot1.gif&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://bp0.blogger.com/_AQL5BvjF3p8/SDrr0VEb5hI/AAAAAAAAAU8/6Ur687_KsGM/s400/screenshot1.gif&#34;&gt;&lt;/a&gt;&lt;br&gt;
+Enter the &lt;a href=&#34;http://gcaldaemon.sourceforge.net/index.html&#34;&gt;GCAlDaemon&lt;/a&gt;. (yeah catchy title right). the GCAlDaemon is a small program which runs in the background of your computer. It makes gcal and ical syncronise for free!
+the instructiuons are pretty cool and you get to enter dos commands to the terminal. something i had never done on the mac. fortunately my hacking skills arn&amp;rsquo;t to bad.
+the only thing i warnign i would give is&lt;br&gt;
+the dos commands can get complicated. at one point it asks you to open a file. you type in the dos location and the terminal tell you that yes, that is a folder. The instructions actually wants you to open the folder in my documents type folder system. that had me confused for a wee while.
+but to be honest it really is easy and fun to do and works like a treat.
+ease of use - 10 out of 10&lt;br&gt;
+instillation (on the mAc but available for most OS) - 7 out of ten.
+if you use Ical (or Mozilla Sunbird/Lightning, Rainlendar or Evolution) and Googlemail and owned a computer before windows, you have no excuse not to be using this system.
+technorati tags - &lt;a href=&#34;http://technorati.com/tag/google%20cal%20ical%20syncronisation&#34;&gt;google cal ical syncronisation&lt;/a&gt; &amp;amp; &lt;a href=&#34;http://technorati.com/tag/gcaldaemon&#34;&gt;GCALDaemon&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

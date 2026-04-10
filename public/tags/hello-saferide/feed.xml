@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Hello-Saferide on smpaget blog</title>
+    <link>http://localhost:1313/blog/tags/hello-saferide/</link>
+    <description>Recent content in Hello-Saferide on smpaget blog</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 24 Nov 2009 17:57:39 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/blog/tags/hello-saferide/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>something i like</title>
+      <link>http://localhost:1313/blog/blog/something-i-like/</link>
+      <pubDate>Tue, 24 Nov 2009 17:57:39 +0000</pubDate>
+       <guid isPermaLink="false">http://www.schelp.co.uk/blog/?p=1228</guid> 
+      <description>&lt;p&gt;I think i know this about me.
+I like music alot.
+I like female singers on balance better than male singers
+I like songs which are deeper that they at first appear sound
+as such i am most delighted by Hello Saferide&amp;rsquo;s &amp;ldquo;Anna&amp;rdquo;
+(PS watching it High Quality it looks and sounds so much better!)
+&lt;a href=&#34;http://www.youtube.com/watch?v=ojE7J6O1D6A&#34;&gt;&amp;ldquo;Anna&amp;rdquo; By Hello Saferide&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

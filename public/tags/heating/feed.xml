@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Heating on smpaget blog</title>
+    <link>http://localhost:1313/blog/tags/heating/</link>
+    <description>Recent content in Heating on smpaget blog</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 11 Feb 2021 11:43:20 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/blog/tags/heating/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Small markers #SmallMarkers</title>
+      <link>http://localhost:1313/blog/blog/small-markers-smallmarkers/</link>
+      <pubDate>Thu, 11 Feb 2021 11:43:20 +0000</pubDate>
+       <guid isPermaLink="false">http://www.smpaget.com/blog/?p=3220</guid> 
+      <description>&lt;p&gt;We have heating. And flushing toilets. This is a good thing. Marking the small milestones that we pass.
+&lt;figure&gt;
+    &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/blog/wp-content/uploads/2021/02/img%5F0746-2-scaled.jpg&#34;/&gt; 
+&lt;/figure&gt;
+&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

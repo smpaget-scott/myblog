@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Critical-Error on smpaget blog</title>
+    <link>http://localhost:1313/blog/tags/critical-error/</link>
+    <description>Recent content in Critical-Error on smpaget blog</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 12 May 2023 19:58:14 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/blog/tags/critical-error/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Working again</title>
+      <link>http://localhost:1313/blog/blog/working-again/</link>
+      <pubDate>Fri, 12 May 2023 19:58:14 +0000</pubDate>
+       <guid isPermaLink="false">http://www.smpaget.com/blog/?p=3376</guid> 
+      <description>&lt;p&gt;This blog stopped working.&lt;br&gt;
+I fixed it.
+If you tried to use this blog for a couple of days, it said, &amp;ldquo;There has been a critical error on this website.&amp;rdquo;&lt;br&gt;
+No clue was given as to what was wrong.
+Step one - log into the FTP of the blog.&lt;br&gt;
+I had to remember how to FTP into my web host. I hadn&amp;rsquo;t done that for a while, so it took some work to make that happen. But eventually, it works again.
+Step two - Disable the plugins&lt;br&gt;
+I disabled the plugins I had running. This instantly solved all the issues.&lt;br&gt;
+I have had back and forth as I tested the plugins to see what was causing the issue. However, I am pleased I had solved the problem on my first try.
+The WordPress dashboard now had a big warning banner as I logged in again. The PHP version I was using was 5.4 and needed to be a recommended 7.2 it told me. This was critical.
+Step three - updating the PHP via the webhost.&lt;br&gt;
+I logged into my web hosting cpanel to see if I could find a way to update PHP. WordPress was sure I should back up everything before I did this. However, it was effortless to update PHP to 8.1, almost temptingly simple and easy. I had already been psychologically prepared to lose everything, so I risked it. Perhaps a new start would not be that bad for this blogging thing.
+I refreshed the page.
+It all worked as expected.
+I was slightly disappointed. Anyway, all updated now, so that&amp;rsquo;s good.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

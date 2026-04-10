@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Testing on smpaget blog</title>
+    <link>http://localhost:1313/blog/tags/testing/</link>
+    <description>Recent content in Testing on smpaget blog</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 19 Mar 2010 10:43:32 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/blog/tags/testing/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Small test</title>
+      <link>http://localhost:1313/blog/blog/small-test/</link>
+      <pubDate>Fri, 19 Mar 2010 10:43:32 +0000</pubDate>
+       <guid isPermaLink="false">http://www.schelp.co.uk/blog/?p=1497</guid> 
+      <description>&lt;p&gt;testing testing
+(the last test I did I came top of the results!)
+&lt;a href=&#34;http://localhost:1313/blog/wp-content/uploads/2010/03/p_1600_1200_E1AD694B-0252-476C-83B8-B74872153D55.jpeg&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/blog/wp-content/uploads/2010/03/p_1600_1200_E1AD694B-0252-476C-83B8-B74872153D55.jpeg&#34;&gt;&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

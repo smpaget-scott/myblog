@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Hyndford-Bridge on smpaget blog</title>
+    <link>http://localhost:1313/blog/tags/hyndford-bridge/</link>
+    <description>Recent content in Hyndford-Bridge on smpaget blog</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 23 Jan 2021 11:42:33 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/blog/tags/hyndford-bridge/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Evening/morning. #evening #morning</title>
+      <link>http://localhost:1313/blog/blog/evening-morning-evening-morning/</link>
+      <pubDate>Sat, 23 Jan 2021 11:42:33 +0000</pubDate>
+       <guid isPermaLink="false">http://www.smpaget.com/blog/evening-morning-evening-morning/</guid> 
+      <description>&lt;p&gt;There was evening .
+&lt;figure&gt;
+    &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/blog/wp-content/uploads/2021/01/img%5F0781-scaled.jpg&#34;/&gt; 
+&lt;/figure&gt;
+
+There was morning.
+&lt;figure&gt;
+    &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/blog/wp-content/uploads/2021/01/img%5F0783-scaled.jpg&#34;/&gt; 
+&lt;/figure&gt;
+&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

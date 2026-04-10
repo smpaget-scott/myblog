@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Adverts-for-Work on smpaget blog</title>
+    <link>http://localhost:1313/blog/tags/adverts-for-work/</link>
+    <description>Recent content in Adverts-for-Work on smpaget blog</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 05 Dec 2008 11:25:30 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/blog/tags/adverts-for-work/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Old Lady poster</title>
+      <link>http://localhost:1313/blog/blog/old-lady-poster/</link>
+      <pubDate>Fri, 05 Dec 2008 11:25:30 +0000</pubDate>
+       <guid isPermaLink="false">http://www.schelp.co.uk/blog/?p=845</guid> 
+      <description>&lt;p&gt;This is the poster we decided not to use.
+(Thankfully)
+&lt;a href=&#34;http://localhost:1313/blog/wp-content/uploads/2008/12/screen2.jpg&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/blog/wp-content/uploads/2008/12/screen2-300x212.jpg&#34;&gt;&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

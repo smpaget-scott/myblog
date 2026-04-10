@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Sarahpilgrim on smpaget blog</title>
+    <link>http://localhost:1313/blog/tags/sarahpilgrim/</link>
+    <description>Recent content in Sarahpilgrim on smpaget blog</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 10 Oct 2008 13:42:33 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/blog/tags/sarahpilgrim/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>pilgrim journeying</title>
+      <link>http://localhost:1313/blog/blog/pilgrim-journeying/</link>
+      <pubDate>Fri, 10 Oct 2008 13:42:33 +0000</pubDate>
+       <guid isPermaLink="false">http://www.schelp.co.uk/blog/?p=698</guid> 
+      <description>&lt;p&gt;&lt;a href=&#34;http://localhost:1313/blog/wp-content/uploads/2008/10/pilgrimwatch.jpg&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/blog/wp-content/uploads/2008/10/pilgrimwatch-271x300.jpg&#34;&gt;&lt;/a&gt;
+my friend sarah is blogging at some progress of a pilgrim
+&lt;a href=&#34;http://someprogress.blogspot.com/&#34;&gt;http://someprogress.blogspot.com/&lt;/a&gt;
+She is smart and funny and observant and generally someone who makes me think.
+go read her&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
