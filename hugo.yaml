@@ -9,6 +9,8 @@ params:
   description: new words, old blog.
   defaultTheme: auto
   disableThemeToggle: true
+  showSummary: true
+  summaryLength: 30
   showShareButtons: true
   showReadingTime: true
   showToc: false
