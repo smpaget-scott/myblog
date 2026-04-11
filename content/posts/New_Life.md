@@ -1,6 +1,7 @@
 ---
 title: New Life
 description: This is a new day. Part of a new life.
+showSummary: true
 tags:
 date: 2026-04-11T10:53:53.484355Z
 draft: false
