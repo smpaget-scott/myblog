@@ -1,4 +1,4 @@
-baseURL: http://localhost:1313/blog
+baseURL: https://myblog-72c.pages.dev
 languageCode: en-US
 title: smpaget blog
 theme: PaperMod
