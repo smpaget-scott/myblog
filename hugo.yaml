@@ -23,6 +23,8 @@ params:
     disableHLJS: true
   author:
     name: admin
+  hideDescriptionInList: false
+  disableSpecial1stPost: true
 markup:
   highlight:
     codeFences: true
