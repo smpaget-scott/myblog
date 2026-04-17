@@ -7,14 +7,14 @@ tags:
   - Homebrew
   - Markdown
   - Cloudflare
-date: 2026-04-16T20:58:35.664462Z
+date: 2026-04-14T23:00:00.000Z
 draft: false
 categories:
   - small-news
   - technology
   - webstuff
 author: admin
-lastmod: 2026-04-17T16:57:22.296853Z
+lastmod: 2026-04-17T21:02:30.365522Z
 showSummary: true
 url: /posts/new-life/
 cover:
