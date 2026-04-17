@@ -10,11 +10,11 @@ categories:
   - thinking
   - technology
 author: admin
-lastmod: 2026-04-17T16:58:49.897892Z
+lastmod: 2026-04-17T16:59:52.371873Z
 showSummary: true
 url: /posts/new-life/
 cover:
-  image: /images/2026/04/ABB5800E-40CE-43D7-8D8F-D53191E288E7-29255-000014A209099643.jpg)
+  image: /images/2026/04/ABB5800E-40CE-43D7-8D8F-D53191E288E7-29255-000014A209099643.jpg
   alt: new life
 
 ---
