@@ -1,6 +1,9 @@
 baseURL: https://blog.smpaget.com
 languageCode: en-US
 title: smpaget blog
+staticDir:
+  - static
+  - assets
 theme: PaperMod
 taxonomies:
   category: categories
