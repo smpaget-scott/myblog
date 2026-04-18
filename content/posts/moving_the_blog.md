@@ -18,7 +18,7 @@ lastmod: 2026-04-17T21:02:30.365522Z
 showSummary: true
 url: /posts/moving_the_blog/
 cover:
-  image: /images/2026/04/1C291766-9CE7-4FA0-9ADA-F61126692E32-38323-00000657148B6B8B.jpg
+  image: assets/images/2026/04/1C291766-9CE7-4FA0-9ADA-F61126692E32-38323-00000657148B6B8B.jpg
   alt:
 
 ---
@@ -31,7 +31,7 @@ Over the last couple of weeks, I've completed a small technical project. And it
 The project was to move my blog from WordPress, a dynamic CMS, to a static site. This change will make the blog lighter. I also hope the process of actually putting blog posts up feels lighter. 
 
 The project will see me move blog hosting from my own hosting (the hosting I use for a website) to free providers, using the protection and infrastructure Cloudflare provides for websites. This lets you build a website on their servers for free and pull information directly from GitHub.
-[](/images/2026/04/1C291766-9CE7-4FA0-9ADA-F61126692E32-38323-00000657148B6B8B.jpg)
+[](assets/images/2026/04/1C291766-9CE7-4FA0-9ADA-F61126692E32-38323-00000657148B6B8B.jpg)
 
 The project took several steps to work through: 
 Exporting the WordPress files
