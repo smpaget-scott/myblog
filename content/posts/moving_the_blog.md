@@ -18,8 +18,9 @@ lastmod: 2026-04-17T21:02:30.365522Z
 showSummary: true
 url: /posts/moving_the_blog/
 cover:
-  image: /assets/images/2026/04/1C291766-9CE7-4FA0-9ADA-F61126692E32-38323-00000657148B6B8B.jpg
-  alt:
+  image: "/assets/images/2026/04/1C291766-9CE7-4FA0-9ADA-F61126692E32-38323-00000657148B6B8B.jpg"
+  alt: "Moving the blog cover"
+  relative: false
 
 ---
 
