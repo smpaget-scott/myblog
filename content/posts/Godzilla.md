@@ -25,4 +25,4 @@ Small cultural recommendation.
 
 Godzilla, minus one, minus colour.
 
-Very good film it is black and white and subtitles. you should watch it. ![](/images/2026/04/1982011E-2DAE-468C-B59B-C0D63AF1DEF3-76081-00000CF6D0C2F7CF.jpg)
+Very good film it is black and white and subtitles. you should watch it. ![](/images/2026/04/37E2E289-A835-410E-BFBE-C484194EF259-76081-00000CF9A3B5FA9A.jpg)
