@@ -14,7 +14,7 @@ categories:
   - technology
   - work
 author: admin
-lastmod: 2026-04-24T15:19:11.847045Z
+lastmod: 2026-04-24T15:26:06.336149Z
 showSummary: true
 url: /posts/how-2026
 cover:
@@ -39,7 +39,9 @@ The screen background is a photo of a large wall, with an ornate street lamp on 
 On the left side of the screen are three large square widgets, each one is the size of four normal apps. This results in the three app widgets covering the entire left-hand side of the screen. On the right side of my screen are 12 normal-sized apps. Additionally, there are four normal-sized app icons in the permanent tray at the bottom of the page. I tried to get some colour coding in how I arrange the apps. However, I haven't been successful in that. 
 
 I usually hold my phone in my right hand, and the apps I use most often are arranged at the bottom right of the screen. The top left of the screen is the area I struggle to reach, and I rarely go there. So the apps in the top row need to display stuff rather than be something I need to open often.
- 
+
+…
+
 1.    COUNTDOWN  Widget. 
 
 The Countdown app occupies the top-left area and covers lines 1 and 2. Currently, it is showing the time to the next syndicate meeting.  This is a great little app. It just counts down to the next major event you need to remember. The app shows you a live countdown to the event on your homescreen. The app imports events directly from the phone calendar and displays them in this countdown format. The app relies on you entering the events into your calendar. 
