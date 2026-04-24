@@ -14,9 +14,9 @@ categories:
   - technology
   - work
 author: admin
-lastmod: 2026-04-23T11:39:58.876443Z
+lastmod: 2026-04-24T13:12:47.832142Z
 showSummary: true
-url: /posts/how.2026
+url: /posts/how-2026
 cover:
   image: /images/2026/04/7900BE52-EA9A-48A9-8161-FFC1629A5EFE-84594-00000E40B37F9318.png
 
