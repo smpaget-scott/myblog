@@ -14,7 +14,7 @@ categories:
   - technology
   - work
 author: admin
-lastmod: 2026-04-24T15:26:06.336149Z
+lastmod: 2026-04-25T17:02:59.537656Z
 showSummary: true
 url: /posts/how-2026
 cover:
@@ -58,7 +58,7 @@ At the bottom left of the screen, there's a widget to open Halide. Halide is a p
 
 4. Calendar
 
-In the top row, middle-right, there is the default calendar app. The app is one of the few apps on iOS that is dynamic and changes every day.  It sits on the top row in a space of very little interaction, but it displays the current date.
+In the top row, middle-right, there is the default calendar app. The app is one of the few apps on iOS that is dynamic and changes every day.  It sits on the top row in the a space of very little interaction, but it displays the current date.
 
 5. To Do
 
@@ -137,7 +137,7 @@ I have the phone icon because I still use my mobile phone as a phone, because I'
 
 19.     Beeper
 
-Then the Beeper icon. Beeper lets me send messages across multiple services, including Discord, LinkedIn, Facebook, Messenger, Signal, Telegram, WhatsApp, and Google Chat.  I have them in a single unified timeline. It's very cool. You may remember people from a couple of years ago when they hacked iMessage and made it available for Android; however, I'm a big fan of Beeper, which is really good. If they could reach a deal to include iMessage, that would be ideal. I would never leave that, and then in primary real estate, 
+Then the Beeper icon. Beeper lets me send messages across multiple services, including Discord, LinkedIn, Facebook, Messenger, Signal, Telegram, WhatsApp, and Google Chat.  I have them in a single unified timeline. It's very cool. You may remember people from a couple of years ago when they hacked iMessage and made it available for Android; however, I'm a big fan of Beeper, which is really good. If they could reach a deal to include iMessage, that would be ideal. I would never leave that app,  it sits in primary real estate, 
 
 20.     Safari
 
