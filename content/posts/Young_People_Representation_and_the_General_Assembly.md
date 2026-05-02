@@ -18,11 +18,10 @@ keywords:
   - youth
   - General assembly
   - Voting
-lastmod: 2026-05-02T12:04:36.313075Z
+lastmod: 2026-05-02T12:59:28.805172Z
 showSummary: true
-url: /posts/YPGA2026
-cover:
-  image:/images/2026/05/B899FF05-7AA8-44A8-966A-BED52E85EE6C-72356-00000B721548F7CF.jpg
+url: /posts/ya-ga2026
+cover: image:/images/2026/05/B899FF05-7AA8-44A8-966A-BED52E85EE6C-72356-00000B721548F7CF.jpg
 
 ---
 
