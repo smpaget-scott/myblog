@@ -18,12 +18,13 @@ keywords:
   - youth
   - General assembly
   - Voting
-lastmod: 2026-05-02T12:59:28.805172Z
+lastmod: 2026-05-02T16:45:08.965917Z
 showSummary: true
 url: /posts/ya-ga2026
 cover:
   image: /images/2026/05/B899FF05-7AA8-44A8-966A-BED52E85EE6C-72356-00000B721548F7CF.jpg
   relative: false
+
 ---
 
 
@@ -32,8 +33,8 @@ In a couple of weeks, the Church of Scotland General Assembly will take place. T
 At first glance, it can look like young people are being disadvantaged or even discriminated against. But I want to argue that this is not actually the case. Instead, the situation arises from three structural realities within the Church of Scotland:
 
 1. The General Assembly is made up of representatives from specific bodies, and voting rights follow the body you represent.
-2. "Youth” is not a legal category in the Church; only “children” and “adults” exist in law.
-3. The route to voting is not through the Youth Representative role, although anyone aged 18 or over *can* vote if they follow the same path as every other potential commissioner.
+2. "Youth” is not a legal category in the Church; only “children” and “adults” exist in law. This makes “youth” a tricky constituency to claim to represent. 
+3. The route to voting is not through the Youth Representative role, although anyone aged 18 or over *can* vote if young people follow the same path as every other potential commissioner.
 
 These three points shape everything that follows.
 
@@ -42,7 +43,9 @@ Representation and Presbyterian Governance
 The Church of Scotland operates through a Presbyterian system of governance. This is a representative system: congregations elect elders and ministers who act on their behalf. Elders are ordained for life and share responsibility for the spiritual leadership of the congregation.¹ At the Presbytery level, each Kirk Session nominates one representative elder, and the minister is automatically a member as the teaching elder.² Presbytery meetings are open to all elders, but only those appointed as representatives may speak or vote. At the General Assembly, representation is even more specific. Each charge sends its minister and one elder roughly every four or five years.³ It is a public meeting, so anyone may attend, but commissioners with voting rights attend as representative elders of their Kirk Session, not as individuals. Many people attend the General Assembly — including elders — who do not have a vote.
 This is the crucial point: voting rights are tied to the body you represent, not to your age, enthusiasm, or ability. 
 
- there is a disconnect between membership, baptism, and adulthood. Membership in the Church of Scotland is open to all. The Church predominantly practices infant baptism, meaning children become members of the denomination from the moment they are baptised. This reflects a biblical pattern where faith is lived within families and communities.⁴ However, a tension emerges around age. Confirmation for young teenagers is present conceptually, but largely absent in contemporary Church of Scotland practice. Politically, within Scotland, 16‑year‑olds can vote in national and local elections. In the Church, you cannot be ordained as an elder until you are 18.⁵ This creates a disconnect between civic adulthood and ecclesial adulthood. Young people under 18 can be co‑opted onto working groups of the Kirk Session and may attend Kirk Session meetings, but they must ask permission to speak and cannot vote.
+There is a disconnect between membership, baptism, and adulthood. Membership in the Church of Scotland is open to all. The Church predominantly practices infant baptism, meaning children become members of the denomination from the moment they are baptised. This reflects a biblical pattern where faith is lived within families and communities.⁴ However, a tension emerges around age. Confirmation for young teenagers is present conceptually, but largely absent in contemporary Church of Scotland practice. Politically, within Scotland, 16‑year‑olds can vote in national and local elections. In the Church, you cannot be ordained as an elder until you are 18.⁵ This creates a disconnect between civic adulthood and ecclesial adulthood. Young people under 18 can be co‑opted onto working groups of the Kirk Session and may attend Kirk Session meetings, but they must ask permission to speak and cannot vote.
+
+I think this argues against discrimination. membership is incerably open. and the representative aspect of being an elder, presbytery elder or general assembly commissioner is also very open.  The Church of Scotland made some choices and because of these choices it made some trade offs. If it made different choices that would be a different set of constraints and advantages. 
 
 Youth as a Social Imaginary
 
