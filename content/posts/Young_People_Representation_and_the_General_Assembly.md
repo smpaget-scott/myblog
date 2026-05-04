@@ -18,7 +18,7 @@ keywords:
   - youth
   - General assembly
   - Voting
-lastmod: 2026-05-04T05:51:48.834611Z
+lastmod: 2026-05-04T06:07:37.442078Z
 showSummary: true
 url: /posts/ya-ga2026
 cover:
@@ -45,7 +45,7 @@ This is the crucial point: voting rights are tied to the body you represent, not
 
 There is a disconnect between membership, baptism, and adulthood. Membership in the Church of Scotland is open to all. The Church predominantly practices infant baptism, meaning children become members of the denomination from the moment they are baptised. This reflects a biblical pattern where faith is lived within families and communities.⁴ However, a tension emerges around age. Confirmation for young teenagers is present conceptually, but largely absent in contemporary Church of Scotland practice. Politically, within Scotland, 16‑year‑olds can vote in national and local elections. In the Church, you cannot be ordained as an elder until you are 18.⁵ This creates a disconnect between civic adulthood and ecclesial adulthood. Young people under 18 can be co‑opted onto working groups of the Kirk Session and may attend Kirk Session meetings, but they must ask permission to speak and cannot vote.
 
-I think this argues against discrimination. Membership is incredibly open. And the representative aspect of being an elder, presbytery elder or general assembly commissioner is also very open.  The Church of Scotland made some choices and, as a result, made some trade-offs. If it made different choices, that would be a different set of constraints and advantages. 
+I think this argues against discrimination. Membership is incredibly open. And the representative aspect of being an elder, presbytery elder or general assembly commissioner is also very open.  The Church of Scotland made some choices and, as a result, had to make some trade-offs. If it made different choices, that would be a different set of constraints and advantages. (The argument could be made that by not allowing elders who are under 18, then the General Assembly are in effect no-platforming all under 18s).
 
 Youth as a Social Imaginary
 
@@ -60,7 +60,7 @@ Currently, young people (18–25) can vote in the General Assembly. But the rout
 To vote, a young person must: - be ordained as an elder (age 18+), and - when the Presbytery asks the congregation to nominate an elder to attend Assembly, be nominated by their Kirk Session. This is the same path everyone else follows. There is no separate or discriminatory barrier for young people.
 
 However, this is an unsatisfying answer.
-The majority of young people (aged 25 and under) within the church are under 18 and therefore unable to serve as elders. There is precedent for a number of special representatives with voting rights being appointed to represent the breadth of the Church of Scotland membership broadly. 
+The majority of young people (aged 25 and under) within the church are under 18 and therefore unable to serve as elders. There is precedent for several special representatives with voting rights being appointed to represent the breadth of the Church of Scotland membership broadly. 
 
 It is a longer and tougher route to voting. The General Assembly franchise already includes people who are not representing parishes — the 5 most recent former Moderators of the General Assembly (if not already commissioners) and members of the Deaconate, for example.¹⁰ They are included because they bring a particular wisdom and tenor to the debate. This precedent *could* support the case for giving young people voting rights based on their contributions. But for that to happen, the Church would need to define “youth” and create a new representative category within the Standing Orders. It is also worth noting that several other groups who could be included in voting rights are not, such as Assembly Trustees or conveners of committees who are not commissioners. This makes the argument more complex.
 
