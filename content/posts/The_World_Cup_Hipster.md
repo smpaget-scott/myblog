@@ -5,13 +5,13 @@ tags:
   - Football
   - FIFA World Cup
   - television pl n
-date: 2026-06-24T16:58:58.911899Z
-draft: true
+date: 2026-06-23T23:00:00.000Z
+draft: false
 categories:
   - delightful-intermissions
   - events
 author: admin
-lastmod: 2026-06-24T17:07:57.846100Z
+lastmod: 2026-06-24T17:11:02.412692Z
 showSummary: true
 url: /posts/theWorldCupHipster
 cover:
