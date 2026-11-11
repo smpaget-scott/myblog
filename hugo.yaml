@@ -47,24 +47,12 @@ outputFormats:
     baseName: feed
 menu:
   main:
-    - name: youthwork
+    - name: youth work
       url: /categories/youthwork/
       weight: 1
-    - name: practice
-      url: /categories/work/
-      weight: 2
     - name: theology
       url: /categories/theology/
-      weight: 3
-    - name: support life
-      url: /categories/support-life/
-      weight: 4
+      weight: 2
     - name: delightful intermissions
       url: /categories/delightful-intermissions/
-      weight: 5
-    - name: video games
-      url: /categories/video-games/
-      weight: 6
-    - name: "\U0001F50D"
-      url: /search/
-      weight: 7
+      weight: 3
