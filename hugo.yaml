@@ -47,6 +47,11 @@ outputFormats:
     baseName: feed
 menu:
   main:
+menu:
+  main:
+    - name: home
+      url: /
+      weight: 0
     - name: youth work
       url: /categories/youthwork/
       weight: 1
@@ -56,3 +61,9 @@ menu:
     - name: delightful intermissions
       url: /categories/delightful-intermissions/
       weight: 3
+    - name: about
+      url: /#about
+      weight: 4
+    - name: contact
+      url: /#contact
+      weight: 5
