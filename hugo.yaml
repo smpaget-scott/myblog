@@ -50,7 +50,7 @@ menu:
 menu:
   main:
     - name: home
-      url: /
+      url: https://www.smpaget.com/
       weight: 1
     - name: youth work
       url: /categories/youthwork/
@@ -62,8 +62,8 @@ menu:
       url: /categories/delightful-intermissions/
       weight: 4
     - name: about
-      url: /#about
+      url: https://www.smpaget.com/#about
       weight: 5
     - name: contact
-      url: /#contact
+      url: https://www.smpaget.com/#contact
       weight: 6
