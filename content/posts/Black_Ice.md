@@ -10,11 +10,11 @@ categories:
   - small-news
   - delightful-intermissions
 author: admin
-lastmod: 2026-11-11T20:45:18.368637Z
+lastmod: 2026-11-11T20:45:57.900532Z
 showSummary: true
 url: /posts/BlackIce
 cover:
-  image: "![some leaves covering the path from todays walk](/images/2026/11/02BA87A6-421B-4967-B7A5-8D5603C5E7A8-15973-000008136CDEB5A0.jpg)"
+  image: /images/2026/11/02BA87A6-421B-4967-B7A5-8D5603C5E7A8-15973-000008136CDEB5A0.jpg
   relative: false
 
 ---
